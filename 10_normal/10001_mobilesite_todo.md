@@ -1,4 +1,4 @@
 # mobile site
-- [ ] finish site
+- [x] finish site
 - [ ] test site
 - [ ] launch site
