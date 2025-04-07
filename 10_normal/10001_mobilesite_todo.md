@@ -1,4 +1,5 @@
-# mobile site
-- [x] finish site
+# mobilesite
+- [ ] finish site
 - [ ] test site
 - [ ] launch site
+- [ ] make mad money
