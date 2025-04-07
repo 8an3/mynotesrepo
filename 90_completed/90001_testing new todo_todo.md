@@ -1,3 +1,3 @@
 # testing new todo
 
-- [x] New task
+- [ ] New task
