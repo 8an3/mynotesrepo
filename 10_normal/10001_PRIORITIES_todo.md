@@ -1,4 +1,5 @@
 # PRIORITIES
+
 - [x] Features why and the advantage check to see if it's better just to do one page instead too much reading
 - [x] https://www.dealersalesassistant.ca/items/pricing mobile view looks terrible
 - [ ] Need to fill in faq andwers
