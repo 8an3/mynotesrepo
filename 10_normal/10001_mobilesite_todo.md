@@ -1,5 +1,5 @@
 # mobilesite
 - [ ] finish site
-- [ ] test site
+- [x] test site
 - [ ] launch site
 - [ ] make mad money
