@@ -1,3 +1,5 @@
 # mobile site
 
-- [ ] New task
+- [ ] finish site
+- [ ] test site
+- [ ] launch site
