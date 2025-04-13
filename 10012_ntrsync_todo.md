@@ -8,4 +8,4 @@
 - [x] MOBILE - issue with selecting repo 
 - [x] MOBILE - auto sync needs to be hooked up
 - [ ] NRCSync - need to add delete option for right clicking 
-- [ ] VSCode - when creating notes filename prefix isnt working correctly
+- [x] VSCode - when creating notes filename prefix isnt working correctly
