@@ -1,6 +1,6 @@
 # ntrsync
 
-- [ ] https://www.ntrsync.dedyn.io/
+- [x] https://www.ntrsync.dedyn.io/
 - [ ] NAV - need to make it move from workspace to workspace and delete default folders
 - [ ] NAV - selecting edit in snippet viewer doesnt work
 - [ ] NAV - mdviwer not found
