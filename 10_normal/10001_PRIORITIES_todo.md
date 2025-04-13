@@ -1,0 +1,24 @@
+# PRIORITIES
+
+- [x] Features why and the advantage check to see if it's better just to do one page instead too much reading
+- [x] https://www.dealersalesassistant.ca/items/pricing mobile view looks terrible
+- [ ] whenever you try to switch to remix 2.0 build the microsoft login like you did over in the mobile web apps
+- [ ] Need to fill in faq andwers
+- [ ] need to make trade in form 
+- [x] on unit file have button to request trade in appraisal 
+- [ ] in workorder, scheduler for empty brands have it select all technicians
+- [ ] back ups of databases for dealers once in production?
+- [ ] move dsa's actual dev/admin section to a different site that isnt public facing, or atleast a different address then our public site, that way if someone does gain access they dont have access to your dealers data
+- [ ] for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables
+- [x] https://www.dealersalesassistant.ca/authportal/createSession/undefined
+- [ ] WIP - mass email - need to redo
+- [ ] SERVICE WRITER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
+- [ ] CLIENT PORTAL - in client portal sales quotes tab, finish actions 
+- [ ] CLIENT PORTAL - in client portal sales finance app, require clienbt to upload dl
+- [ ] NO CATEGORY - need to add legend for docs, Service Work Order, Bill Of Sale, so as to know which when they create the docs
+- [ ] NO CATEGORY - finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
+- [ ] FINANCEID - need to find a way to see if all signatures have beeen signed, maybe add new field in the schema that couunts all the signatures when the user saves beforesending to client, when client signs get number from db and count how many signatures are in inputs since inputs only shows the signatures completed
+- [ ] FINANCEID - make it so in the dev menu u can choose which brands each dealer has
+- [x] Uncaught ReferenceError: item is not defined    at Object.onClick (notifications.tsx:197:41)
+- [x] sent canadian blue another email, stating we wil sell it for them ... or let them keep the clients and profits in whatever fashion they want. CONTACTED AWAITING WORD BACK
+- [X] discount with passwords
