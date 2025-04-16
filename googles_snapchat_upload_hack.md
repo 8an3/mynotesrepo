@@ -1,2 +1,0 @@
-# Googles Snapchat Upload Hack
-

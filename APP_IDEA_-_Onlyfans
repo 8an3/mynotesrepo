@@ -1,2 +1,0 @@
-# APP IDEA - Onlyfans
-
