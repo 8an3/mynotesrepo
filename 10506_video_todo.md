@@ -13,7 +13,7 @@
 - [x] [Drag and Drop](#drag-and-drop)
 - [x] [Formatter](#modern-day-file-type-formatter)
 - [x] [JSON Comments](#json-comments)
-- [ ] [Remove All Comments](#remove-all-comments)
+- [x] [Remove All Comments](#remove-all-comments)
 - [ ] [Remove Trailing Commas](#remove-trailing-commas)
 - [ ] [Remove console.log](#remove-console.log)
 - [ ] [Search Bar](#search-bar)
