@@ -12,7 +12,7 @@
 - [x] [.md Cheat Sheet](#.md-cheat-sheet)
 - [x] [Drag and Drop](#drag-and-drop)
 - [x] [Formatter](#modern-day-file-type-formatter)
-- [ ] [JSON Comments](#json-comments)
+- [x] [JSON Comments](#json-comments)
 - [ ] [Remove All Comments](#remove-all-comments)
 - [ ] [Remove Trailing Commas](#remove-trailing-commas)
 - [ ] [Remove console.log](#remove-console.log)
