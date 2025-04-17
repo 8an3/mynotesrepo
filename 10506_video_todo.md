@@ -9,7 +9,7 @@
 - [x] [Debian WSL Bash Commands](#debian-bash)
 - [x] [Snippets](#snippets)
 - [x] [.md Editor and Viewer](#.md-editor-and-viewer)
-- [ ] [.md Cheat Sheet](#.md-cheat-sheet)
+- [x] [.md Cheat Sheet](#.md-cheat-sheet)
 - [ ] [Drag and Drop](#drag-and-drop)
 - [ ] [Formatter](#modern-day-file-type-formatter)
 - [ ] [JSON Comments](#json-comments)
