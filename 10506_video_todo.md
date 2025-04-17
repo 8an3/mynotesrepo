@@ -18,7 +18,7 @@
 - [x] [Remove console.log](#remove-console.log)
 - [x] [Search Bar](#search-bar)
 - [x] [Share Config With Friends](#share-with-friends)
-- [ ] [Editeable Folder Icons](#editeable-folder-icons)
+- [x] [Editeable Folder Icons](#editeable-folder-icons)
 - [ ] [VSCode Color Theme Builder](#vscode-color-theme-builder)
 - [ ] [Default Apps Configuration](#default-apps-configuration)
 - [ ] [File Nesting](#file-nesting)
