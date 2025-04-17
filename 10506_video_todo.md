@@ -1,7 +1,7 @@
 # video
 
 - [x] [Virtual Filing System](#virtual-filing-system)
-- [ ] [Config file](#config-file)
+- [x] [Config file](#config-file)
 - [ ] [Project Agnostic Configuration](#project-agnostic-configuration)
 - [ ] [VSCode Commands](#vscode-commands)
 - [ ] [Commands Cheat Sheet](#commands-cheat-sheet)
