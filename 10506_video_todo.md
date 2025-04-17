@@ -7,7 +7,7 @@
 - [x] [Commands Cheat Sheet](#commands-cheat-sheet)
 - [x] [PowerShell Commands](#powerShell-commands)
 - [x] [Debian WSL Bash Commands](#debian-bash)
-- [ ] [Snippets](#snippets)
+- [x] [Snippets](#snippets)
 - [ ] [.md Editor and Viewer](#.md-editor-and-viewer)
 - [ ] [.md Cheat Sheet](#.md-cheat-sheet)
 - [ ] [Drag and Drop](#drag-and-drop)
