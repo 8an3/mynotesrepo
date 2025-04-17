@@ -17,7 +17,7 @@
 - [x] [Remove Trailing Commas](#remove-trailing-commas)
 - [x] [Remove console.log](#remove-console.log)
 - [x] [Search Bar](#search-bar)
-- [ ] [Share Config With Friends](#share-with-friends)
+- [x] [Share Config With Friends](#share-with-friends)
 - [ ] [Editeable Folder Icons](#editeable-folder-icons)
 - [ ] [VSCode Color Theme Builder](#vscode-color-theme-builder)
 - [ ] [Default Apps Configuration](#default-apps-configuration)
