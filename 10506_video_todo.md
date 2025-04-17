@@ -26,4 +26,4 @@
 - [ ] [NTRSync - Notes, Todo and Reminders - w/ its own mobile app, installable on any platform including desktop](#ntrsync---notes-todo-and-reminders)
 - [x] [Unused Function Finder](#unused-function-finder)
 - [x] [Clipboard History Pro](#clipboard-history-pro)
-- [ ] [Bookmarks](#bookmarks)
+- [x] [Bookmarks](#bookmarks)
