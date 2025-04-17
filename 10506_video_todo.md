@@ -19,7 +19,7 @@
 - [x] [Search Bar](#search-bar)
 - [x] [Share Config With Friends](#share-with-friends)
 - [x] [Editeable Folder Icons](#editeable-folder-icons)
-- [ ] [VSCode Color Theme Builder](#vscode-color-theme-builder)
+- [x] [VSCode Color Theme Builder](#vscode-color-theme-builder)
 - [ ] [Default Apps Configuration](#default-apps-configuration)
 - [ ] [File Nesting](#file-nesting)
 - [ ] [Batch Rename](#batch-rename) 
