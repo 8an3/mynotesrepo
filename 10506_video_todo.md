@@ -11,7 +11,7 @@
 - [x] [.md Editor and Viewer](#.md-editor-and-viewer)
 - [x] [.md Cheat Sheet](#.md-cheat-sheet)
 - [x] [Drag and Drop](#drag-and-drop)
-- [ ] [Formatter](#modern-day-file-type-formatter)
+- [x] [Formatter](#modern-day-file-type-formatter)
 - [ ] [JSON Comments](#json-comments)
 - [ ] [Remove All Comments](#remove-all-comments)
 - [ ] [Remove Trailing Commas](#remove-trailing-commas)
