@@ -2,7 +2,7 @@
 
 - [x] [Virtual Filing System](#virtual-filing-system)
 - [x] [Config file](#config-file)
-- [ ] [Project Agnostic Configuration](#project-agnostic-configuration)
+- [x] [Project Agnostic Configuration](#project-agnostic-configuration)
 - [ ] [VSCode Commands](#vscode-commands)
 - [ ] [Commands Cheat Sheet](#commands-cheat-sheet)
 - [ ] [PowerShell Commands](#powerShell-commands)
