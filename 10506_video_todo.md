@@ -24,6 +24,6 @@
 - [x] [File Nesting](#file-nesting)
 - [x] [Batch Rename](#batch-rename) 
 - [ ] [NTRSync - Notes, Todo and Reminders - w/ its own mobile app, installable on any platform including desktop](#ntrsync---notes-todo-and-reminders)
-- [ ] [Unused Function Finder](#unused-function-finder)
+- [x] [Unused Function Finder](#unused-function-finder)
 - [ ] [Clipboard History Pro](#clipboard-history-pro)
 - [ ] [Bookmarks](#bookmarks)
