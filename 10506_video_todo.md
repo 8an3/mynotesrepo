@@ -21,7 +21,7 @@
 - [x] [Editeable Folder Icons](#editeable-folder-icons)
 - [x] [VSCode Color Theme Builder](#vscode-color-theme-builder)
 - [x] [Default Apps Configuration](#default-apps-configuration)
-- [ ] [File Nesting](#file-nesting)
+- [x] [File Nesting](#file-nesting)
 - [ ] [Batch Rename](#batch-rename) 
 - [ ] [NTRSync - Notes, Todo and Reminders - w/ its own mobile app, installable on any platform including desktop](#ntrsync---notes-todo-and-reminders)
 - [ ] [Unused Function Finder](#unused-function-finder)
