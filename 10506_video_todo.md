@@ -10,7 +10,7 @@
 - [x] [Snippets](#snippets)
 - [x] [.md Editor and Viewer](#.md-editor-and-viewer)
 - [x] [.md Cheat Sheet](#.md-cheat-sheet)
-- [ ] [Drag and Drop](#drag-and-drop)
+- [x] [Drag and Drop](#drag-and-drop)
 - [ ] [Formatter](#modern-day-file-type-formatter)
 - [ ] [JSON Comments](#json-comments)
 - [ ] [Remove All Comments](#remove-all-comments)
