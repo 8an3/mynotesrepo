@@ -15,7 +15,7 @@
 - [x] [JSON Comments](#json-comments)
 - [x] [Remove All Comments](#remove-all-comments)
 - [x] [Remove Trailing Commas](#remove-trailing-commas)
-- [ ] [Remove console.log](#remove-console.log)
+- [x] [Remove console.log](#remove-console.log)
 - [ ] [Search Bar](#search-bar)
 - [ ] [Share Config With Friends](#share-with-friends)
 - [ ] [Editeable Folder Icons](#editeable-folder-icons)
