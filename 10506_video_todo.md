@@ -3,7 +3,7 @@
 - [x] [Virtual Filing System](#virtual-filing-system)
 - [x] [Config file](#config-file)
 - [x] [Project Agnostic Configuration](#project-agnostic-configuration)
-- [ ] [VSCode Commands](#vscode-commands)
+- [x] [VSCode Commands](#vscode-commands)
 - [ ] [Commands Cheat Sheet](#commands-cheat-sheet)
 - [ ] [PowerShell Commands](#powerShell-commands)
 - [ ] [Debian WSL Bash Commands](#debian-bash)
