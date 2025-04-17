@@ -4,7 +4,7 @@
 - [x] [Config file](#config-file)
 - [x] [Project Agnostic Configuration](#project-agnostic-configuration)
 - [x] [VSCode Commands](#vscode-commands)
-- [ ] [Commands Cheat Sheet](#commands-cheat-sheet)
+- [x] [Commands Cheat Sheet](#commands-cheat-sheet)
 - [ ] [PowerShell Commands](#powerShell-commands)
 - [ ] [Debian WSL Bash Commands](#debian-bash)
 - [ ] [Snippets](#snippets)
