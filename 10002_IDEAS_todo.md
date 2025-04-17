@@ -1,7 +1,7 @@
 # IDEAS
 
 
-- [ ] scan incoming crates and add them into inventory or something, maybe a inbox for the admin to convert them to inventory
+- [x] scan incoming crates and add them into inventory or something, maybe a inbox for the admin to convert them to inventory
 - [ ] ping users cell phones when email or text comes through in the crm ensures they get notified even when they are away from desk
 - [ ] free for single users? with paid upgrades? ie email sms phone calls
 - [ ] sales bot - take care of some of the sales process - uses natural language processing and machine learning to assist in automated contract negotiations based on predefined parameters.
