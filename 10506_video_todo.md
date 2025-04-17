@@ -14,7 +14,7 @@
 - [x] [Formatter](#modern-day-file-type-formatter)
 - [x] [JSON Comments](#json-comments)
 - [x] [Remove All Comments](#remove-all-comments)
-- [ ] [Remove Trailing Commas](#remove-trailing-commas)
+- [x] [Remove Trailing Commas](#remove-trailing-commas)
 - [ ] [Remove console.log](#remove-console.log)
 - [ ] [Search Bar](#search-bar)
 - [ ] [Share Config With Friends](#share-with-friends)
