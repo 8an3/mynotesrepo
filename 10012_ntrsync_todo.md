@@ -6,6 +6,8 @@
 - [ ] NAV - formatter
 - [x] regular snippet viewer isnt searching through snippers
 - [x] MOBILE - finish pwa integration
+- [ ] MOBILE - was working on editor function last 
+- [ ] MOBILE - 
 - [x] MOBILE - issue with selecting repo 
 - [x] MOBILE - auto sync needs to be hooked up
 - [x] NRCSync - need to add delete option for right clicking 
