@@ -1,6 +1,6 @@
 # TODO
 
-- [ ] NO CATEGORY - Uncaught ReferenceError: item is not defined    at Object.onClick (notifications.tsx:197:41)
+- [x] NO CATEGORY - Uncaught ReferenceError: item is not defined    at Object.onClick (notifications.tsx:197:41)
 - [ ] NO CATEGORY - need to add legend for docs, Service Work Order, Bill Of Sale, so as to know which when they create the docs
 - [ ] NO CATEGORY - finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
 - [x] NO CATEGORY - sent canadian blue another email, stating we wil sell it for them ... or let them keep the clients and profits in whatever fashion they want. CONTACTED AWAITING WORD BACK
