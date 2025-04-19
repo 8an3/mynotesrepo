@@ -1,6 +1,5 @@
 # demo
 
-- [ ] New task
 - [ ] [Virtual Filing System](#virtual-filing-system)
 - [ ] [Chain Execution / Sequencer](#chain-execution)
 - [ ] [Config file](#config-file)
