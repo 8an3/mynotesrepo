@@ -1,5 +1,6 @@
 # BACKBURNER
 
+- [ ] whenever you try to switch to remix 2.0 build the microsoft login like you did over in the mobile web apps, custom build
 - [ ] NO CATEGORY - bdc center
 - [ ] NO CATEGORY - auto print signs for bikes from dealer inventory page
 - [ ] NO CATEGORY - implement server to accommodate automation https://github.com/Saicharan0662/email-scheduler-client

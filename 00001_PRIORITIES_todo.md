@@ -1,6 +1,5 @@
 # PRIORITIES
 
-- [ ] whenever you try to switch to remix 2.0 build the microsoft login like you did over in the mobile web apps, custom build
 - [ ] need to make trade in form 
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
 - [ ] in workorder, scheduler for empty brands have it select all technicians
