@@ -3,8 +3,9 @@
 - [x] Features why and the advantage check to see if it's better just to do one page instead too much reading
 - [x] https://www.dealersalesassistant.ca/items/pricing mobile view looks terrible
 - [ ] whenever you try to switch to remix 2.0 build the microsoft login like you did over in the mobile web apps, custom build
-- [ ] Need to fill in faq andwers
+- [x] Need to fill in faq andwers
 - [ ] need to make trade in form 
+- [ ] need to make performance graphs for managers and owner, similar to sales persons version
 - [x] on unit file have button to request trade in appraisal 
 - [ ] in workorder, scheduler for empty brands have it select all technicians
 - [ ] back ups of databases for dealers once in production?
