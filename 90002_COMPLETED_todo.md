@@ -27,3 +27,13 @@
 - [x] use the same idea and apply the same filter in calendar and see if it works beter
 - [x] need to add a cancel button to customer date lists so if needed can revert bakc to null
 - [x] need to update filter functions to new format in sales calendar - new filter adds the ability to match against a group of dates / maybe have a mixutre of them for the general filters
+- [x] NO CATEGORY - sent canadian blue another email, stating we wil sell it for them ... or let them keep the clients and profits in whatever fashion they want. CONTACTED AWAITING WORD BACK
+- [x] Uncaught ReferenceError: item is not defined    at Object.onClick (notifications.tsx:197:41)
+- [x] sent canadian blue another email, stating we wil sell it for them ... or let them keep the clients and profits in whatever fashion they want. CONTACTED AWAITING WORD BACK
+- [X] discount with passwords
+- [x] https://www.dealersalesassistant.ca/authportal/createSession/undefined
+- [x] on unit file have button to request trade in appraisal 
+- [x] Need to fill in faq andwers
+- [x] NO CATEGORY - Uncaught ReferenceError: item is not defined    at Object.onClick (notifications.tsx:197:41)
+- [x] Features why and the advantage check to see if it's better just to do one page instead too much reading
+- [x] https://www.dealersalesassistant.ca/items/pricing mobile view looks terrible
