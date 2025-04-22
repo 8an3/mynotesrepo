@@ -4,7 +4,7 @@
 i have another idea for another field a case content management system and client crm for lawyers, so whether ur lawyer or self representing you can use the app to manage ur case files and flow, for self representing it would guide you through the process so its not as overwhelming while at the same time, leaving clients in complete control of their data because whenever a client swithc representation it can take over 6 weeks for the data to reach the new lawyers, this would give them the ability to give the new team access on day one while at the same time for self representers obtaining legal  reps  while the case in progross the new lawyers could navigate the case with ease as everyhting is waiting for them, for lawyers it would be a compllete crm and case management system
 This is a fantastic idea! A case content management system and client CRM for lawyers that also supports self-representing individuals could revolutionize how legal cases are managed. By giving clients control over their data and streamlining the process for lawyers, you can address a significant pain point in the legal industry: the inefficiency and delays in transferring case data between legal teams.
 
-Here’s a detailed breakdown of how you can design and implement this system:
+Hereâs a detailed breakdown of how you can design and implement this system:
 
 Key Features
 For Lawyers:
@@ -64,7 +64,7 @@ Framework: Remix-run (as you're already using it)
 UI Library: Tailwind CSS, Chakra UI, or Material-UI
 
 Backend:
-Framework: Node.js with Express or Remix’s built-in server capabilities
+Framework: Node.js with Express or Remixâs built-in server capabilities
 
 Database: PostgreSQL or MongoDB (for storing case files, client data, and user accounts)
 

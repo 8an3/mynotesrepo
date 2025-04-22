@@ -16,7 +16,7 @@ The creator uses the browser app to log the order details while staying on the O
 
 Order Creation in the Browser App:
 
-The creator inputs the client’s username, order details, and price into the browser app.
+The creator inputs the clientâs username, order details, and price into the browser app.
 
 The app sends this data to the off-site dashboard for tracking and queue management.
 
@@ -35,7 +35,7 @@ The creator updates the order status in the off-site dashboard.
 Benefits of This Approach
 No Additional Programs or Websites:
 
-The browser app runs alongside OnlyFans, so creators don’t need to switch between platforms.
+The browser app runs alongside OnlyFans, so creators donât need to switch between platforms.
 
 Compliance with OnlyFans TOS:
 
@@ -56,7 +56,7 @@ Data Storage: Send data to your off-site dashboard via an API.
 Off-Site Dashboard:
 Frontend: Remix-run (as you're already using it)
 
-Backend: Node.js with Express or Remix’s built-in server capabilities
+Backend: Node.js with Express or Remixâs built-in server capabilities
 
 Database: PostgreSQL or MongoDB (for storing orders and queue data)
 
@@ -102,7 +102,7 @@ Deploy the dashboard and make the browser app available for download or installa
 Example Workflow
 Client Requests Custom Content:
 
-Client sends a message on OnlyFans: "Hi, I’d like a custom video for $50."
+Client sends a message on OnlyFans: "Hi, Iâd like a custom video for $50."
 
 Creator opens the browser app and inputs the order details.
 
@@ -110,7 +110,7 @@ Order Creation:
 
 The browser app sends the order data to the off-site dashboard.
 
-The dashboard adds the order to the creator’s queue.
+The dashboard adds the order to the creatorâs queue.
 
 Creator Sends Locked Message:
 
