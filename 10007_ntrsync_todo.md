@@ -1,21 +1,5 @@
 # extensions
 
-- [x] https://www.ntrsync.dedyn.io/
 - [ ] NAV - vscode theme builder custom theme not working
 - [ ] NAV - file nesting
 - [ ] NAV - formatter
-- [x] regular snippet viewer isnt searching through snippers
-- [x] MOBILE - finish pwa integration
-- [x] MOBILE - was working on editor function last 
-- [x] MOBILE - issue with selecting repo 
-- [x] MOBILE - auto sync needs to be hooked up
-- [x] NRCSync - need to add delete option for right clicking 
-- [x] NRCSync - dynamicly adjustabel height textarea based on how many lines of text
-- [x] NRCSync - have it so when u click to toggle a todo item to be completed have it so it doesnt open the file
-- [x] NRCSync - issue with pulling... but weirdly save pushes just fine....
-- [x] VSCode - when creating notes filename prefix isnt working correctly
-- [x] NAV - Default Apps Configuration
-- [x] NAV - need to make it move from workspace to workspace and delete default folders
-- [x] NAV - selecting edit in snippet viewer doesnt work
-- [x] NAV - selecting a snippet does not bring you to the snippet in the file
-- [x] NAV - mdviwer not found
