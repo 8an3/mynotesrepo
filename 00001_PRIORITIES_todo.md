@@ -1,12 +1,12 @@
 # PRIORITIES
 
-- [ ] need to make trade in form 
-- [ ] need to make performance graphs for managers and owner, similar to sales persons version
-- [ ] in workorder, scheduler for empty brands have it select all technicians
-- [ ] back ups of databases for dealers once in production?
-- [ ] move dsa's actual dev/admin section to a different site that isnt public facing, or atleast a different address then our public site, that way if someone does gain access they dont have access to your dealers data
-- [ ] for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables
-- [ ] WIP - mass email - need to redo
+- [ ] UNIT FILE - need to make trade in form 
+- [ ] MANAGERS/ADMIN -need to make performance graphs for managers and owner, similar to sales persons version
+- [ ] WORKORDER - scheduler for empty brands have it select all technicians
+- [ ] DATABASE - back ups of databases for dealers once in production?
+- [ ] dev/admin - move  to a different site that isnt public facing, or atleast a different address then our public site, that way if someone does gain access they dont have access to your dealers data
+- [ ] ALL TABLES - for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables
+- [ ] SALES DASHBAORD - mass email - need to redo
 - [ ] SERVICE WRITER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
 - [ ] CLIENT PORTAL - in client portal sales quotes tab, finish actions 
 - [ ] CLIENT PORTAL - in client portal sales finance app, require clienbt to upload dl
@@ -16,6 +16,7 @@
 - [ ] FINANCEID - make it so in the dev menu u can choose which brands each dealer has
 - [ ] NO CATEGORY - need to add legend for docs, Service Work Order, Bill Of Sale, so as to know which when they create the docs
 - [ ] NO CATEGORY - finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
-- [ ] in client portal sales quotes tab, finish actions 
-- [ ] in client portal sales finance app, require clienbt to upload dl
-- [ ] second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
+- [ ] CLIENT PORTAL -  sales quotes tab, finish actions 
+- [ ] CLIENT PORTAL -  sales finance app, require clienbt to upload dl
+- [ ] WORKORDER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
+- [ ] AUTH - custom oauth in compoents/microsoft/custom.login.tsx
