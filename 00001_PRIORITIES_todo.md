@@ -20,3 +20,4 @@
 - [ ] CLIENT PORTAL -  sales finance app, require clienbt to upload dl
 - [ ] WORKORDER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
 - [x] AUTH - custom oauth in compoents/microsoft/custom.login.tsx
+- [ ] SECTION TUTORIALS AND REFERENCE - in getting started page u explain that each section has a tutorial on the page it self... need to add those
