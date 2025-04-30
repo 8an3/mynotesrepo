@@ -14,8 +14,8 @@
 - Ai assistant to give hints on what to do next like a reminder
 - [x] PAID FEATURE - peech to text for quicker input - done in components folder
 - [ ] PAID FEATURE - vercel has a nice write up on this to do in their platform - ai - wip - https://github.com/steven-tey/chathn/blob/main/app/api/chat/route.ts
-- [x] END GAME - have blue book values on quote section
-- [x] END GAME - have blue book values on quote section
+- [ ] END GAME - have blue book values on quote section
+- [ ] BLUE BOOK - 
 - [ ] END GAME - have a second non-cloud option either as a rack for a server or tower for a non tech orientated dealer to be hosted on site but would need a license key that needs a new token every 30 days/6 months/12 months to operate based on payment plan hardware to be paid upfront before build payments start once activated at dealer
 - [x] Ai assistant to book apointments complete and etc like gowrench or just a work flow o ustomers to guide themselves
 - [ ] END GAME - have ai take in last 5 emails with customer and suggest your next communication/script - not done yet but easy enough to complete in components folder
