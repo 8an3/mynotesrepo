@@ -7,7 +7,6 @@
 - [ ] DEV / CONTROLPANEL when saving dealer details save projectName
 - [ ] move roles to dev so you can control the dealers roles from there
 - [ ] need dashboard to connect to all the dealers dashboards
-- [ ] automation
 - [ ] dashboard - to manage phone numbers for users
 - [ ] dashboard - to monitor / and charge correct amounts for text / voice / email
 - [ ] dashboard - manager potential customer base
