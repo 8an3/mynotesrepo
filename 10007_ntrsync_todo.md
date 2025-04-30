@@ -5,16 +5,14 @@
 - [ ] NAV - file nesting
 - [ ] NAV - formatter
 - [x] regular snippet viewer isnt searching through snippers
-- [x] MOBILE - finish pwa integration
+- [ ] MOBILE - finish pwa integration
 - [ ] MOBILE - was working on editor function last 
-- [ ] MOBILE - 
-- [x] MOBILE - issue with selecting repo 
-- [x] MOBILE - auto sync needs to be hooked up
+- [ ] MOBILE - issue with selecting repo 
+- [ ] MOBILE - auto sync needs to be hooked up
 - [x] NRCSync - need to add delete option for right clicking 
 - [ ] NRCSync - dynamicly adjustabel height textarea based on how many lines of text
 - [ ] NRCSync - have it so when u click to toggle a todo item to be completed have it so it doesnt open the file
 - [ ] NRCSync - issue with pulling... but weirdly save pushes just fine....
-- [ ] NRCSync - 
 - [x] VSCode - when creating notes filename prefix isnt working correctly
 - [x] NAV - Default Apps Configuration
 - [x] NAV - need to make it move from workspace to workspace and delete default folders
