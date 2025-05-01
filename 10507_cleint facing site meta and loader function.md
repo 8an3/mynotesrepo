@@ -1,5 +1,6 @@
-# cleint facing site meta and loader function
+# client facing site meta and loader function
 
+client_facing_site_meta_and_loader_function
 import  { type LoaderFunction, type MetaFunction, json } from '@remix-run/node';
 import { dealerSelection, fullUserSelection } from '~/utils/loader.server';
 import { prisma } from '~/libs';
