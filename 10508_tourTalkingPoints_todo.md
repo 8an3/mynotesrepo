@@ -1,0 +1,50 @@
+
+
+- GETTING STARTED
+  - [ ] microsoft oauth
+  - [ ] explain the reasoning behind no immediate training modules
+  - [ ] talk about both side bars and searchs same talking points s on the page
+- SITE SECTIONS
+  - [ ] crm
+  - [ ] client portal
+  - [ ] client facing website for dealership
+- SALES
+  - [ ] quotes
+  - [ ] overview
+- SERVICE
+  - [ ] quotes
+  - [ ] overview
+- PARTS
+  - [ ] quotes
+  - [ ] overview
+- ADMIN
+  - [ ] quotes
+  - [ ] overview
+- STAFF
+  - [ ] quotes
+  - [ ] overview
+- TICKETS
+  - [ ] dept specific ticketing system
+- USER DASHBOARD
+  - [ ] settings
+    - features
+      - [ ] punch clock password
+      - [ ] time off requests
+      - [ ] deal change requests
+      - [ ] posted schedules
+      - [ ] account info
+      - [ ] note to mgrs
+      - [ ] view dealer fees fata
+      - [ ] automations 
+      - [ ] employee reviws
+      - [ ] manager announcemnts - where the fuck did that go
+  - [ ] contact
+  - [ ] dealer fees
+  - [ ] finance
+  - [ ] getting started 
+  - [ ] templates
+  - [ ] scripts
+  - [ ] roadmap
+- GENERAL
+  - [ ] punch clock
+  - [ ] searchs

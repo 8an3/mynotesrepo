@@ -192,3 +192,38 @@ Multi-Language Support:
 Add support for multiple languages to make the app accessible to a wider audience.
 
 This system has the potential to significantly improve efficiency and transparency in the legal industry. Let me know if you need help with specific parts of the implementation, such as setting up the database, designing the user interface, or integrating cloud storage!
+
+make it so client and lawyer has same access to file and do with it as they please, client can add a new lawyer no problem same with lawyer, make documents easy to access for everyone and to share
+
+choose type of court; family law, criminal 
+
+self repped cases guide them through the procedure of the case and help them with east digestble process, unlike cleo and their process
+
+when guiding them through the steps kinda have it like a trello board, alex talks about this in the video
+
+have it easy for lawyers to send data too with an api from their website like alexs so they can save time in the onboaridng process
+
+have it so it can create forms for lawyers to use on their website with the informatino needed to collect
+
+have a pdf custommizer like on dsa
+
+have it be able to send docs out to sign, with docusign unless u work on urs more
+
+alexs softeware is like a crm, on the lawyer side have it be able to easily trrack where clients are in the process with notes on  each individual process to keep themselves in the loop and remind themselves what to do
+
+have calendar like dsa with mobile freindly pages
+
+have it so at one click you can save all the forms as pdfs with clear instructinos on where to send them and when
+
+needs to be able to send receipts and orders to customers, with allowing client to select and pick their own appointments
+
+
+
+www.actionstep.com
+
+cleo sign up for free month
+
+submit documents by
+email
+justiceservices
+caselines
