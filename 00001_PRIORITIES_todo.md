@@ -39,7 +39,7 @@
   - [ ] finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
 
 - [ ] CLIENT FACING WEBSITE
-  - [ ] custom banner
+  - [x] custom banner
   - [ ] custom color scheme
   - [ ] custom carasel
   - [ ] post customer reviews
