@@ -25,7 +25,7 @@
 - [ ] CFW - when the rest of the site is compelte work on parts and accesssories
 - [ ] CFW - called steph, hes interested in getting it for his shop
 - [ ] CFW - follow up with steph
-- [ ] CLIENT FACING WEBSITE -  custom banner
+- [x] CLIENT FACING WEBSITE -  custom banner
 - [ ] CLIENT FACING WEBSITE -  custom color scheme
 - [ ] CLIENT FACING WEBSITE -  custom carasel
 - [ ] CLIENT FACING WEBSITE -  post customer reviews
