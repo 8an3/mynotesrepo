@@ -20,7 +20,7 @@
 - [ ] unit file - make it so in the dev menu u can choose which brands each dealer has
 
 - [ ] CLIENT PORTAL
- - [ ] sales quotes tab, finish actions 
+- [ ] sales quotes tab, finish actions 
 - [ ] sales finance app, require clienbt to upload dl
 - [ ] in client portal sales quotes tab, finish actions 
 - [ ] in client portal sales finance app, require clienbt to upload dl
