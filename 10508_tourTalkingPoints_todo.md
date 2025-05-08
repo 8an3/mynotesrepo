@@ -1,50 +1,124 @@
+# tourTalkingPoints
 
 
-- GETTING STARTED
-  - [ ] microsoft oauth
-  - [ ] explain the reasoning behind no immediate training modules
-  - [ ] talk about both side bars and searchs same talking points s on the page
 - SITE SECTIONS
   - [ ] crm
+    - GETTING STARTED
+      - [ ] microsoft oauth
+      - [ ] explain the reasoning behind no immediate training modules
+      - [ ] talk about both side bars and searchs same talking points s on the page
+    - SALES
+      - [ ] dashboard
+      - [ ] quotes
+      - [ ] parts and options
+      - [ ] overview
+      - [ ] overview
+      - [ ] unit files
+      - [ ] client files
+      - [ ] demo leads dash
+      - [ ] wish list dash
+      - [ ] web leads dash
+      - [ ] calculator
+      - [ ] inventory
+    - SERVICE
+      - [ ] dashboard
+      - [ ] search
+      - [ ] sync
+      - [ ] workorder
+      - [ ] service calendar
+      - [ ] new service calendar appt creator
+      - [ ] tech calendar
+      - [ ] tech workorder
+    - PARTS
+      - [ ] dashboard
+      - [ ] pac pages
+      - [ ] sync
+      - [ ] counter
+      - [ ] receiving
+      - [ ] orders / quotes
+    - ADMIN
+      - [ ] csi
+      - [ ] clients
+      - [ ] depts
+      - [ ] import / export 
+      - [ ] inventory
+      - [ ] reports
+      - [ ] settings
+      - [ ] users
+      - [ ] client site variables
+      - [ ] employee onboarding
+    - STAFF
+      - [ ] performance reviews
+      - [ ] staff chat
+    - USER DASHBOARD
+      - [ ] settings
+        - features
+          - [ ] punch clock password
+          - [ ] time off requests
+          - [ ] deal change requests
+          - [ ] posted schedules
+          - [ ] account info
+          - [ ] note to mgrs
+          - [ ] view dealer fees fata
+          - [ ] automations 
+          - [ ] employee reviws
+          - [ ] manager announcemnts - where the fuck did that go
+      - [ ] contact
+      - [ ] dealer fees
+      - [ ] finance
+      - [ ] getting started 
+      - [ ] templates
+      - [ ] scripts
+      - [ ] roadmap
+    - GENERAL
+      - [ ] punch clock
+      - [ ] searchs
+      - [ ] dept specific ticketing system
+      - [ ] email
   - [ ] client portal
+    - [ ] passwordless auth
+    - [ ] service
+      - [ ] dashboard
+      - [ ] document viewer / signer
+      - [ ] service orders 
+      - [ ] waiters queue
+    - [ ] sales
+      - [ ] dashbaord
+      - [ ] document viewer
+      - [ ] request test drives
+      - [ ] unit checker
+      - [ ] value trade
+    - [ ] pac
+      - [ ] parts request 
+      - [ ] dashbaord
+    - [ ] online chat
   - [ ] client facing website for dealership
-- SALES
-  - [ ] quotes
-  - [ ] overview
-- SERVICE
-  - [ ] quotes
-  - [ ] overview
-- PARTS
-  - [ ] quotes
-  - [ ] overview
-- ADMIN
-  - [ ] quotes
-  - [ ] overview
-- STAFF
-  - [ ] quotes
-  - [ ] overview
-- TICKETS
-  - [ ] dept specific ticketing system
-- USER DASHBOARD
-  - [ ] settings
-    - features
-      - [ ] punch clock password
-      - [ ] time off requests
-      - [ ] deal change requests
-      - [ ] posted schedules
-      - [ ] account info
-      - [ ] note to mgrs
-      - [ ] view dealer fees fata
-      - [ ] automations 
-      - [ ] employee reviws
-      - [ ] manager announcemnts - where the fuck did that go
-  - [ ] contact
-  - [ ] dealer fees
-  - [ ] finance
-  - [ ] getting started 
-  - [ ] templates
-  - [ ] scripts
-  - [ ] roadmap
-- GENERAL
-  - [ ] punch clock
-  - [ ] searchs
+    - [ ] home page
+    - [ ] current my models
+    - [ ] inventory
+    - [ ] blog
+    - [ ] book
+    - [ ] bookService
+    - [ ] careers
+    - [ ] contactUs
+    - [ ] demoDays
+    - [ ] footer
+    - [ ] home
+    - [ ] nav
+    - [ ] newsAndEvents
+    - [ ] newsLetter
+    - [ ] partRequest
+    - [ ] parts
+    - [ ] photos
+    - [ ] preOwned
+    - [ ] promoNotifier
+    - [ ] promotions
+    - [ ] regionalClubs
+    - [ ] rentals
+    - [ ] requestTestDrive
+    - [ ] service
+    - [ ] staff
+    - [ ] testimonials
+    - [ ] valueYourTrade
+    - [ ] virtualTour
+    - [ ] VirtualTourViewer
