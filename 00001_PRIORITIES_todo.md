@@ -1,19 +1,19 @@
 # PRIORITIES
 
-- HOME PAGE
+- [ ] HOME PAGE
   - [ ] add variable to env variables to check to see if this is a dealers site or not, if dealers site redirectr to client face site
 
-- ADMIN
+- [ ] ADMIN
   - [ ] need to make performance graphs for managers and owner, similar to sales persons version
 
-- DASHBOARDS  
+- [ ] DASHBOARDS  
   - [ ] ALL TABLES - for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables
 
-- DEV
+- [ ] DEV
   - [ ] move  to a different site that isnt public facing, or atleast a different address then our public site, that way if someone does gain access they dont have access to your dealers data
   - [ ] back ups of databases for dealers once in production?
 
-- SALES 
+- [ ] SALES 
   - [ ] mass email - need to redo
   - [ ] unit file - need to make trade in form i think this is done
   - [ ] unit file - need to find a way to see if all signatures have beeen signed, maybe add new field in the schema that couunts all the signatures when the user saves beforesending to client, when client signs get number from db and count how many signatures are in inputs since inputs only shows the signatures completed
@@ -30,15 +30,15 @@
   - [ ] WORKORDER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
   - [ ] WORKORDER - scheduler for empty brands have it select all technicians
 
-- AUTH
+- [ ] AUTH
   - [ ] custom oauth in compoents/microsoft/custom.login.tsx
 
-- TUTORIALS AND REFERENCE
+- [ ] TUTORIALS AND REFERENCE
   - [ ] in getting started page u explain that each section has a tutorial on the page it self... need to add those
   - [ ] need to add legend for docs, Service Work Order, Bill Of Sale, so as to know which when they create the docs
   - [ ] finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
 
-- CLIENT FACING WEBSITE
+- [ ] CLIENT FACING WEBSITE
   - [ ] custom banner
   - [ ] custom color scheme
   - [ ] custom carasel
@@ -52,16 +52,16 @@
   - [ ] when the rest of the site is compelte work on parts and accesssories
   - [ ] add login for dealers users for crm
 
-- INVENTORY
+- [ ] INVENTORY
   - [ ] add button to listings, so when they go over inventory with sales staff they can just click create unit file, then displays a command dialog to select a client or create a new one
 
-- STAFF CHAT
+- [ ] STAFF CHAT
   - [ ] put in right side bar?
 
-- 613 MOTORSPORTS 
+- [ ] 613 MOTORSPORTS 
   - [ ] called steph, hes interested in getting it for his shop
   - [ ] follow up with steph
-  - CLIENT FACING SITE
+  - [ ] CLIENT FACING SITE
     - [ ] home page
     - [ ] client portal?
       - [ ] order status
@@ -70,7 +70,7 @@
       - [ ] online chat
     - [ ] indiviual acc pages
     - [ ] cart
-  - INTERNAL
+  - [ ] INTERNAL
     - [ ] dashboard
     - [ ] create order
     - [ ] ticketing system
@@ -81,5 +81,5 @@
     - [ ] mgr dashboard
       - [ ] performance dashbaord 
       - [ ] set inventory mins for auto ordering / create auto orders for review
-    - SETTINGS
+    - [ ] SETTINGS
       - [ ] users
