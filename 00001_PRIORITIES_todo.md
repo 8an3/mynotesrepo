@@ -40,7 +40,7 @@
 
 - [ ] CLIENT FACING WEBSITE
 - [x] custom banner
-- [ ] custom color scheme
+- [x] custom color scheme
 - [ ] custom carasel
 - [ ] post customer reviews
 - [ ] custom sectoins - cleint can put as many as they want they just get taecced at the bottom of the front page
