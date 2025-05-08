@@ -26,7 +26,7 @@
 - [ ] CFW - called steph, hes interested in getting it for his shop
 - [ ] CFW - follow up with steph
 - [x] CLIENT FACING WEBSITE -  custom banner
-- [ ] CLIENT FACING WEBSITE -  custom color scheme
+- [x] CLIENT FACING WEBSITE -  custom color scheme
 - [ ] CLIENT FACING WEBSITE -  custom carasel
 - [ ] CLIENT FACING WEBSITE -  post customer reviews
 - [ ] CLIENT FACING WEBSITE -  custom sectoins - cleint can put as many as they want they just get taecced at the bottom of the front page
