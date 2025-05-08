@@ -51,6 +51,11 @@
 - [ ] front end as well except parts and accessories where it links to their own current providor so the landing page, and such copy Ottawa Harley Davidson pages and layout to have the same format, have sister area in admin section where dealer can fill in information that doesn't get auto filled plus a place where they can upload main photos to display their brand, althought put features like unit ediitng in portal staff so all users can edit inventory along with other items like that
 - [ ] when the rest of the site is compelte work on parts and accesssories
 - [ ] add login for dealers users for crm
+- [ ] client communitcations where do they go?
+- [ ] the contact us page
+- [ ] inquire for more information on unit
+- [ ] reserve bike
+- [ ] add them to right side bar?
 
 - [ ] -------- INVENTORY --------
 - [ ] add button to listings, so when they go over inventory with sales staff they can just click create unit file, then displays a command dialog to select a client or create a new one
