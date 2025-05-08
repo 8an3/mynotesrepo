@@ -41,7 +41,7 @@
 - [ ] CLIENT FACING WEBSITE
 - [x] custom banner
 - [x] custom color scheme
-- [ ] custom carasel
+- [x] custom carasel
 - [ ] post customer reviews
 - [ ] custom sectoins - cleint can put as many as they want they just get taecced at the bottom of the front page
 - [ ] Would need to design system for inventory for front end and give the ability for customer leave a deposit with e-transfer or leave their card info for sales staff to process when they can, in sales section add the ability for editing the listing and add pictures, listings would be pre populated by current inventory so you don't have to add anymore listings, this would also be good to work with auto trader and other platforms would have to create this later because I don't know if I should populate a http response with CSV data or an API route to send the needed data to the platform to create and update listings 
