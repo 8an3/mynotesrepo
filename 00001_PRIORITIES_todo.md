@@ -22,6 +22,9 @@
 - [x] AUTH - custom oauth in compoents/microsoft/custom.login.tsx
 - [ ] SECTION TUTORIALS AND REFERENCE - in getting started page u explain that each section has a tutorial on the page it self... need to add those
 - [ ] CLIENT FACING WEBSITE - front end as well except parts and accessories where it links to their own current providor so the landing page, and such copy Ottawa Harley Davidson pages and layout to have the same format, have sister area in admin section where dealer can fill in information that doesn't get auto filled plus a place where they can upload main photos to display their brand, althought put features like unit ediitng in portal staff so all users can edit inventory along with other items like that
+- [ ] CFW - when the rest of the site is compelte work on parts and accesssories
+- [ ] CFW - called steph, hes interested in getting it for his shop
+- [ ] CFW - follow up with steph
 - [ ] CLIENT FACING WEBSITE -  custom banner
 - [ ] CLIENT FACING WEBSITE -  custom color scheme
 - [ ] CLIENT FACING WEBSITE -  custom carasel
