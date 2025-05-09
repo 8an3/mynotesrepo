@@ -72,7 +72,7 @@
 - [ ] put in right side bar?
 
 - [ ] -------- 613 MOTORSPORTS --------
-- [ ] called steph, hes interested in getting it for his shop
+- [x] called steph, hes interested in getting it for his shop
 - [ ] follow up with steph
 - [ ] -------- CLIENT FACING SITE --------
 - [ ] home page
