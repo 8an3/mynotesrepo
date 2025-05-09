@@ -26,7 +26,7 @@
 
 - [ ] -------- SALES --------
 - [ ] mass email - need to redo
-- [ ] unit file - need to make trade in form i think this is done
+- [x] unit file - need to make trade in form i think this is done
 - [ ] unit file - need to find a way to see if all signatures have beeen signed, maybe add new field in the schema that couunts all the signatures when the user saves beforesending to client, when client signs get number from db and count how many signatures are in inputs since inputs only shows the signatures completed
 - [ ] unit file - make it so in the dev menu u can choose which brands each dealer has
 - [ ] for finance managers add call queue, that sales people can add clients too
