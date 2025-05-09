@@ -1,10 +1,21 @@
 # PRIORITIES
 
+
 - [ ] -------- HOME PAGE --------
 - [ ] add variable to env variables to check to see if this is a dealers site or not, if dealers site redirectr to client face site
+- [ ] -------- TICKETS --------
+- [ ] moving all client coms to tickets
+- [ ] web leads
+- [ ] incoming finance apps
+- [ ] display undone tickets in right side bar for each dept
+- [ ] the contact us page
+- [ ] inquire for more information on unit
+- [ ] reserve bike
 
 - [ ] -------- ADMIN --------
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
+- [ ] added bio to user
+- [ ] create section to modify varaibles for client facing site
 
 - [ ] -------- DASHBOARDS --------
 - [ ] ALL TABLES - for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables
@@ -52,11 +63,7 @@
 - [ ] front end as well except parts and accessories where it links to their own current providor so the landing page, and such copy Ottawa Harley Davidson pages and layout to have the same format, have sister area in admin section where dealer can fill in information that doesn't get auto filled plus a place where they can upload main photos to display their brand, althought put features like unit ediitng in portal staff so all users can edit inventory along with other items like that
 - [ ] when the rest of the site is compelte work on parts and accesssories
 - [ ] add login for dealers users for crm
-- [ ] client communitcations where do they go? ticketing system, showing unopened in right sidebar, attach to other schemas to you can make a unit file and reference it, or work order or pac order... move web leads to ticketing system
-- [ ] the contact us page
-- [ ] inquire for more information on unit
-- [ ] reserve bike
-- [ ] add them to right side bar?
+
 
 - [ ] -------- INVENTORY --------
 - [ ] add button to listings, so when they go over inventory with sales staff they can just click create unit file, then displays a command dialog to select a client or create a new one
