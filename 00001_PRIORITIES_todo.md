@@ -9,7 +9,7 @@
 - [ ] incoming finance apps
 - [ ] display undone tickets in right side bar for each dept
 - [ ] the contact us page
-- [ ] inquire for more information on unit
+- [x] inquire for more information on unit
 - [x] reserve bike
 
 - [ ] -------- ADMIN --------
