@@ -6,7 +6,7 @@
 - [ ] -------- TICKETS --------
 - [ ] moving all client coms to tickets
 - [ ] web leads
-- [ ] incoming finance apps
+- [x] incoming finance apps
 - [ ] display undone tickets in right side bar for each dept
 - [x] the contact us page
 - [x] inquire for more information on unit
