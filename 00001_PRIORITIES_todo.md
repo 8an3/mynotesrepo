@@ -43,7 +43,7 @@
 - [ ] WORKORDER - scheduler for empty brands have it select all technicians
 
 - [ ] -------- AUTH --------
-- [ ] custom oauth in compoents/microsoft/custom.login.tsx
+- [x] custom oauth in compoents/microsoft/custom.login.tsx
 
 - [ ] -------- TUTORIALS AND REFERENCE --------
 - [ ] in getting started page u explain that each section has a tutorial on the page it self... need to add those
