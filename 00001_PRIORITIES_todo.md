@@ -5,7 +5,7 @@
 - [ ] add variable to env variables to check to see if this is a dealers site or not, if dealers site redirectr to client face site
 - [ ] -------- TICKETS --------
 - [ ] moving all client coms to tickets
-- [ ] web leads
+- [x] web leads
 - [x] incoming finance apps
 - [ ] display undone tickets in right side bar for each dept
 - [x] the contact us page
