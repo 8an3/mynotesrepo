@@ -10,7 +10,7 @@
 - [ ] display undone tickets in right side bar for each dept
 - [ ] the contact us page
 - [ ] inquire for more information on unit
-- [ ] reserve bike
+- [x] reserve bike
 
 - [ ] -------- ADMIN --------
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
