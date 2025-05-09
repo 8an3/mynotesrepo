@@ -2,7 +2,7 @@
 
 
 - [x] -------- HOME PAGE --------
-- [ ] add variable to env variables to check to see if this is a dealers site or not, if dealers site redirectr to client face site
+- [x] add variable to env variables to check to see if this is a dealers site or not, if dealers site redirectr to client face site
 - [ ] -------- TICKETS --------
 - [ ] moving all client coms to tickets
 - [x] web leads
