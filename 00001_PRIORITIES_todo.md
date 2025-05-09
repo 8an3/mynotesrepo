@@ -67,6 +67,7 @@
 
 - [ ] -------- INVENTORY --------
 - [ ] add button to listings, so when they go over inventory with sales staff they can just click create unit file, then displays a command dialog to select a client or create a new one
+- [ ] added more models to inventory schema need to update that
 
 - [ ] -------- STAFF CHAT --------
 - [ ] put in right side bar?
