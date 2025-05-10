@@ -29,7 +29,7 @@
         - [ ] quote
         - [ ] overview
       - FINANCE
-        - [ ] finance buffer
+        - [ ] finance buffer - dealers like a 500-1000 buffer or even add tire and rim andn 2 year warr
         - [ ] call queue in ticketing system
         - [ ] finance hand off
     - SERVICE
