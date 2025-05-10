@@ -35,6 +35,7 @@
 - [ ] mass email - need to redo
 - [x] unit file - need to make trade in form i think this is done
 - [ ] unit file - need to find a way to see if all signatures have beeen signed, maybe add new field in the schema that couunts all the signatures when the user saves beforesending to client, when client signs get number from db and count how many signatures are in inputs since inputs only shows the signatures completed
+- [ ] unit file - notify user that inventory isnt assigned, same with setting it to sold
 
 - [ ] -------- CLIENT PORTAL --------
 - [ ] sales quotes tab, finish actions 
@@ -78,6 +79,8 @@
 - [ ] add button to listings, so when they go over inventory with sales staff they can just click create unit file, then displays a command dialog to select a client or create a new one
 - [ ] added more models to inventory schema need to update that
 - [ ] refunded deposit button to remove it from unit file and put it back up for sale
+- [ ] setting to sold, use seearch command search to search for unit file
+- [ ] once assigned, display button to navaigate there
 
 - [ ] -------- STAFF CHAT --------
 - [ ] put in right side bar?
