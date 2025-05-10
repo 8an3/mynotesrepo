@@ -20,6 +20,18 @@
       - [ ] web leads dash
       - [ ] calculator
       - [ ] inventory
+        - PROCESSSES
+        - [ ] auto call list dayt of
+        - [ ] auto call list in past and tomorrow
+        - [ ] how saales handles dealing with other depts
+        - [ ] all the many things done with the dash and its ui
+        - [ ] no main "sms application" using more precision by displaying and responding to each customer in their file or on their line on the dashbaord
+        - [ ] quote
+        - [ ] overview
+      - FINANCE
+        - [ ] finance buffer
+        - [ ] call queue in ticketing system
+        - [ ] finance hand off
     - SERVICE
       - [ ] dashboard
       - [ ] search
