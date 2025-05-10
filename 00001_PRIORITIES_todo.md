@@ -65,7 +65,7 @@
 - [ ] front end as well except parts and accessories where it links to their own current providor so the landing page, and such copy Ottawa Harley Davidson pages and layout to have the same format, have sister area in admin section where dealer can fill in information that doesn't get auto filled plus a place where they can upload main photos to display their brand, althought put features like unit ediitng in portal staff so all users can edit inventory along with other items like that
 - [ ] when the rest of the site is compelte work on parts and accesssories
 - [x] add login for dealers users for crm
-- [ ] move client portal to client facing site that way it prefills in form for them and its less confusing to use and seems like one big system
+- [x] move client portal to client facing site that way it prefills in form for them and its less confusing to use and seems like one big system
 - [ ] finish off nav users items
 
 
