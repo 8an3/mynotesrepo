@@ -67,3 +67,14 @@ model Automation {
   financeId    String?
   clientfileId String?
 }
+
+model WorkOrderNotes {
+  id          String     @id @default(cuid())
+    createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+
+  body        String?
+  userName    String?
+  userEmail   String?
+
+}
