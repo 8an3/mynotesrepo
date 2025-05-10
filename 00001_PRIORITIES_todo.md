@@ -26,12 +26,12 @@
 - [ ] -------- DEV --------
 - [ ] move  to a different site that isnt public facing, or atleast a different address then our public site, that way if someone does gain access they dont have access to your dealers data
 - [ ] back ups of databases for dealers once in production?
+- [ ] make it so in the dev menu u can choose which brands each dealer has
 
 - [ ] -------- SALES --------
 - [ ] mass email - need to redo
 - [x] unit file - need to make trade in form i think this is done
 - [ ] unit file - need to find a way to see if all signatures have beeen signed, maybe add new field in the schema that couunts all the signatures when the user saves beforesending to client, when client signs get number from db and count how many signatures are in inputs since inputs only shows the signatures completed
-- [ ] unit file - make it so in the dev menu u can choose which brands each dealer has
 
 - [ ] -------- CLIENT PORTAL --------
 - [ ] sales quotes tab, finish actions 
