@@ -3,6 +3,9 @@
 
 - [x] -------- HOME PAGE --------
 - [x] add variable to env variables to check to see if this is a dealers site or not, if dealers site redirectr to client face site
+
+- [ ] -------- SEARCHES --------
+- [ ] change from manual filtering to fuse
   
 - [ ] -------- TICKETS --------
 - [ ] moving all client coms to tickets
