@@ -66,6 +66,7 @@
 - [ ] when the rest of the site is compelte work on parts and accesssories
 - [x] add login for dealers users for crm
 - [ ] move client portal to client facing site that way it prefills in form for them and its less confusing to use and seems like one big system
+- [ ] finish off nav users items
 
 
 - [ ] -------- INVENTORY --------
