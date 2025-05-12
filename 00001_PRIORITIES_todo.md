@@ -17,7 +17,7 @@
 - [x] reserve bike
 - [ ] for finance managers add call queue, that sales people can add clients too can use ticketing system for this
 - [ ] move webleads to ticketing system have it so depending on the label it shows different menus and buttons to deal with it
-- [ ] filter by user when first opened
+- [x] filter by user when first opened
 - [ ] rTChatMessages.create need to search app and switch for tickets instead
 
 - [ ] -------- ADMIN --------
