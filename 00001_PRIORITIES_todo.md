@@ -53,7 +53,7 @@
 - [x] when the rest of the site is compelte work on parts and accesssories
 - [x] finish off nav users items
 - [x] reserveNow.dealerid has the client login and return process done already to copy off of
-- [ ] go through new lead process and all other customer contact processes
+- [x] go through new lead process and all other customer contact processes
 - [ ] finish off Web Lead process
 - [ ] finish off accessorise
 - [ ] create pages for button on inventory page, to create unit files
