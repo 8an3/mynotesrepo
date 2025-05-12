@@ -8,7 +8,7 @@
 - [ ] change from manual filtering to fuse
   
 - [ ] -------- TICKETS --------
-- [ ] moving all client coms to tickets
+- [x] moving all client coms to tickets
 - [x] web leads
 - [x] incoming finance apps
 - [ ] display undone tickets in right side bar for each dept
