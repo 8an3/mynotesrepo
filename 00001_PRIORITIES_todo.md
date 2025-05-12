@@ -58,7 +58,7 @@
 - [ ] finish off accessorise
 - [ ] create pages for button on inventory page, to create unit files
 - [ ] page removed - virtual tour moved to components/clientsite
-- [ ] page removed -  { title: "Build Your Own", url: URLS.BYO },
+- [x] page removed -  { title: "Build Your Own", url: URLS.BYO },
 - [x] page removed - promotions serfvices sales and pac, now once page
 - [x] page removed - photo gallery
 - [x] page removed -  blog
