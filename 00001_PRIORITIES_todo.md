@@ -75,7 +75,7 @@
 - [ ] -------- STAFF CHAT --------
 - [ ] put in right side bar?
 
-- [ ] -------- 613 MOTORSPORTS --------
+- [ ] -------- 613 MOTORSPORTS ---------
 - [x] called steph, hes interested in getting it for his shop
 - [ ] follow up with steph
 - [ ] -------- CLIENT FACING SITE --------
