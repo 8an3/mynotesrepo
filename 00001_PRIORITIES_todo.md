@@ -87,7 +87,8 @@
 - [ ] finish off Information Request process
 - [ ] finish off Test Drive Request process
 - [ ] finish off Trade In Request process
-- [ ] page removed - virtual tour
+- [ ] page removed - virtual tour moved to components/clientsite
+- [ ] page removed -  { title: "Build Your Own", url: URLS.BYO },
 
 
 
