@@ -89,6 +89,10 @@
 - [ ] finish off Trade In Request process
 - [ ] page removed - virtual tour moved to components/clientsite
 - [ ] page removed -  { title: "Build Your Own", url: URLS.BYO },
+- [ ] page removed - promotions serfvices sales and pac, now once page
+- [ ] page removed - photo gallery
+- [ ] page removed -  blog
+- [ ] page removed - newsletter
 
 
 
