@@ -50,7 +50,7 @@
 - [ ] finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
 
 - [ ] -------- CLIENT FACING WEBSITE --------
-- [ ] when the rest of the site is compelte work on parts and accesssories
+- [x] when the rest of the site is compelte work on parts and accesssories
 - [ ] finish off nav users items
 - [ ] reserveNow.dealerid has the client login and return process done already to copy off of
 - [ ] go through new lead process and all other customer contact processes
