@@ -51,7 +51,7 @@
 
 - [ ] -------- CLIENT FACING WEBSITE --------
 - [x] when the rest of the site is compelte work on parts and accesssories
-- [ ] finish off nav users items
+- [x] finish off nav users items
 - [ ] reserveNow.dealerid has the client login and return process done already to copy off of
 - [ ] go through new lead process and all other customer contact processes
 - [ ] finish off Web Lead process
