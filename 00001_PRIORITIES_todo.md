@@ -78,7 +78,7 @@
 - [x] finish off assign to client buttons
 - [ ] reserveNow.dealerid has the client login and return process done already to copy off of
 - [ ] go through new lead process and all other customer contact processes
-- [ ] finish off contact us process
+- [x] finish off contact us process
 - [ ] finish off Reserve Now process
 - [ ] finish off Web Lead process
 - [ ] finish off Finance App process
