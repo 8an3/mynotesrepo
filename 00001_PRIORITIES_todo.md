@@ -62,7 +62,7 @@
 - [ ] page removed - promotions serfvices sales and pac, now once page
 - [ ] page removed - photo gallery
 - [ ] page removed -  blog
-- [ ] page removed - newsletter
+- [x] page removed - newsletter
 
   
 - [ ] -------- INVENTORY --------
