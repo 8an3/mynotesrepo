@@ -74,6 +74,7 @@
 - [x] move client portal to client facing site that way it prefills in form for them and its less confusing to use and seems like one big system
 - [ ] finish off nav users items
 - [x] finish off assign to client buttons
+- [ ] go through new lead process and all other customer contact processes
 
 
 
