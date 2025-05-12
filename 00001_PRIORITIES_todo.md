@@ -39,6 +39,7 @@
 - [ ] unit file - notify user that inventory isnt assigned, same with setting it to sold
 - [ ] make it so if the file is already assigned to someone that they cant be contacted by another sales person, or display an alert diaolog warning that its already someones elses file
 - [ ] take note from ticket.dealerid and update financeids notes, check out notes on acc and wo since tickets version is alot nicer and cleaner
+- [ ] when clients go to book their own appotinement with sales use the reserveNow.dealerid has the client login and return process done already to copy off of so that clients are seraching for an email and could potentially get other peoples emails from that
 
 - [ ] -------- CLIENT PORTAL --------
 - [ ] sales quotes tab, finish actions 
@@ -64,7 +65,7 @@
 - [x] custom color scheme
 - [x] custom carasel
 - [x] post customer reviews
-- [x] custom sectoins - cleint can put as many as they want they just get taecced at the bottom of the front page
+- [x] custom sections - cleint can put as many as they want they just get taecced at the bottom of the front page
 - [x] Would need to design system for inventory for front end and give the ability for customer leave a deposit with e-transfer or leave their card info for sales staff to process when they can, in sales section add the ability for editing the listing and add pictures, listings would be pre populated by current inventory so you don't have to add anymore listings, this would also be good to work with auto trader and other platforms would have to create this later because I don't know if I should populate a http response with CSV data or an API route to send the needed data to the platform to create and update listings 
 - [x] unit listings, make it extremely easy for client to book appoinments, request call back, secure unit with deposit, give needed info upfront with the option to view all info
 - [x] add button to listings only visibile to sales, so when they go over inventory with sales staff they can just click create unit file, then displays a command dialog to select a client or create a new one
@@ -75,6 +76,7 @@
 - [x] move client portal to client facing site that way it prefills in form for them and its less confusing to use and seems like one big system
 - [ ] finish off nav users items
 - [x] finish off assign to client buttons
+- [ ] reserveNow.dealerid has the client login and return process done already to copy off of
 - [ ] go through new lead process and all other customer contact processes
 - [ ] finish off contact us process
 - [ ] finish off Reserve Now process
