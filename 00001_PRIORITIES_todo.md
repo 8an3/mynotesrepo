@@ -31,6 +31,7 @@
 - [ ] move  to a different site that isnt public facing, or atleast a different address then our public site, that way if someone does gain access they dont have access to your dealers data
 - [ ] back ups of databases for dealers once in production?
 - [ ] make it so in the dev menu u can choose which brands each dealer has
+- [ ] in order for dealers to have the latest data for the roadmap we need to make it an api request to the main website, which may not work due to cors...
 
 - [ ] -------- SALES --------
 - [ ] mass email - need to redo
