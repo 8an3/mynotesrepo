@@ -60,7 +60,7 @@
 - [ ] page removed - virtual tour moved to components/clientsite
 - [ ] page removed -  { title: "Build Your Own", url: URLS.BYO },
 - [ ] page removed - promotions serfvices sales and pac, now once page
-- [ ] page removed - photo gallery
+- [x] page removed - photo gallery
 - [x] page removed -  blog
 - [x] page removed - newsletter
 
