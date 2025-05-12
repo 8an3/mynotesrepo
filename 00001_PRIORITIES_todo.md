@@ -17,6 +17,7 @@
 - [x] reserve bike
 - [ ] for finance managers add call queue, that sales people can add clients too can use ticketing system for this
 - [ ] move webleads to ticketing system have it so depending on the label it shows different menus and buttons to deal with it
+- [ ] filter by user when first opened
 
 - [ ] -------- ADMIN --------
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
