@@ -84,7 +84,7 @@
 - [x] finish off contact us process
 - [x] finish off Reserve Now process
 - [x] finish off Web Lead process
-- [ ] finish off Finance App process
+- [x] finish off Finance App process
 - [ ] finish off Information Request process
 - [ ] finish off Test Drive Request process
 - [ ] finish off Trade In Request process
