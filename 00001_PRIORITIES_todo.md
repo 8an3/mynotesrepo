@@ -11,7 +11,7 @@
 - [x] moving all client coms to tickets
 - [x] web leads
 - [x] incoming finance apps
-- [ ] display undone tickets in right side bar for each dept
+- [x] display undone tickets in right side bar for each dept
 - [x] the contact us page
 - [x] inquire for more information on unit
 - [x] reserve bike
