@@ -13,6 +13,8 @@
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
 - [ ] added bio to user
 - [ ] create section to modify varaibles for client facing site
+- [ ] addUnit.tsx
+- [ ] unit.$dealerId.tsx
 
 - [ ] -------- DASHBOARDS --------
 - [ ] ALL TABLES - for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables
