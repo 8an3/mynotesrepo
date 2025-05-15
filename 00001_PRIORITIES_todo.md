@@ -31,6 +31,7 @@
 - [ ] make it so if the file is already assigned to someone that they cant be contacted by another sales person, or display an alert diaolog warning that its already someones elses file
 - [ ] take note from ticket.dealerid and update financeids notes, check out notes on acc and wo since tickets version is alot nicer and cleaner
 - [x] when clients go to book their own appotinement with sales use the reserveNow.dealerid has the client login and return process done already to copy off of so that clients are seraching for an email and could potentially get other peoples emails from that
+- [ ] Unit Notifier - Never miss a sales opportunity again. Our intelligent alert system automatically notifies customers when their desired vehicle arrives in inventory, creating instant sales opportunities
 
 - [ ] -------- CLIENT PORTAL --------
 - [ ] sales quotes tab, finish actions 
