@@ -4,7 +4,7 @@
 - [x] change from manual filtering to fuse
   
 - [ ] -------- TICKETS --------
-- [ ] for finance managers add call queue, that sales people can add clients too can use ticketing system for this
+- [x] for finance managers add call queue, that sales people can add clients too can use ticketing system for this
 - [ ] move webleads to ticketing system have it so depending on the label it shows different menus and buttons to deal with it
 - [ ] rTChatMessages.create need to search app and switch for tickets instead
 
