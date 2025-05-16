@@ -1,6 +1,6 @@
 # PRIORITIES
 
-- [ ] -------- SEARCHES --------
+- [x] -------- SEARCHES --------
 - [x] change from manual filtering to fuse
   
 - [x] -------- TICKETS --------
