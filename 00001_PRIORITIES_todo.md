@@ -82,7 +82,7 @@
 
 - [ ] -------- 613 MOTORSPORTS ---------
 - [x] called steph, hes interested in getting it for his shop
-- [ ] follow up with steph
+- [x] follow up with steph
 - [ ] -------- CLIENT FACING SITE --------
 - [ ] home page
 - [ ] -------- CLIENT PORTAL? --------
