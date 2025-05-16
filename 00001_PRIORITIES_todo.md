@@ -13,7 +13,7 @@
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
 - [ ] added bio to user
 - [ ] create section to modify varaibles for client facing site
-- [ ] addUnit.tsx
+- [x] addUnit.tsx
 - [ ] unit.$dealerId.tsx
 
 - [ ] -------- DASHBOARDS --------
