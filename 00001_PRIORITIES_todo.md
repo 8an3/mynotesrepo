@@ -1,13 +1,5 @@
 # PRIORITIES
 
-- [x] -------- SEARCHES --------
-- [x] change from manual filtering to fuse
-  
-- [x] -------- TICKETS --------
-- [x] for finance managers add call queue, that sales people can add clients too can use ticketing system for this
-- [x] move webleads to ticketing system have it so depending on the label it shows different menus and buttons to deal with it
-- [x] rTChatMessages.create need to search app and switch for tickets instead
-
 
 - [ ] -------- ADMIN --------
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
@@ -27,15 +19,15 @@
 
 - [ ] -------- SALES --------
 - [ ] mass email - need to redo
-- [x] unit file - need to make trade in form i think this is done
 - [ ] unit file - need to find a way to see if all signatures have beeen signed, maybe add new field in the schema that couunts all the signatures when the user saves beforesending to client, when client signs get number from db and count how many signatures are in inputs since inputs only shows the signatures completed
 - [ ] unit file - notify user that inventory isnt assigned, same with setting it to sold
-- [x] make it so if the file is already assigned to someone that they cant be contacted by another sales person, or display an alert diaolog warning that its already someones elses file
 - [ ] take note from ticket.dealerid and update financeids notes, check out notes on acc and wo since tickets version is alot nicer and cleaner
-- [x] when clients go to book their own appotinement with sales use the reserveNow.dealerid has the client login and return process done already to copy off of so that clients are seraching for an email and could potentially get other peoples emails from that
 - [ ] Unit Notifier - Never miss a sales opportunity again. Our intelligent alert system automatically notifies customers when their desired vehicle arrives in inventory, creating instant sales opportunities
 - [ ] test new mgrs calculator implementation
 - [ ] admin creates basic unit with not much filled in to rely on sales to polish listing off, while creating it searches in its default data pool of images, searches by model name and grabs all images associated with it, then its description, specs, and other items so once its saved and viewed on the webiste it looks like someone had gone over and polished everything over
+- [x] when clients go to book their own appotinement with sales use the reserveNow.dealerid has the client login and return process done already to copy off of so that clients are seraching for an email and could potentially get other peoples emails from that
+- [x] make it so if the file is already assigned to someone that they cant be contacted by another sales person, or display an alert diaolog warning that its already someones elses file
+- [x] unit file - need to make trade in form i think this is done
 
 - [ ] -------- CLIENT PORTAL --------
 - [ ] sales quotes tab, finish actions 
@@ -55,11 +47,6 @@
 - [ ] finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
 
 - [ ] -------- CLIENT FACING WEBSITE --------
-- [x] when the rest of the site is compelte work on parts and accesssories
-- [x] finish off nav users items
-- [x] reserveNow.dealerid has the client login and return process done already to copy off of
-- [x] go through new lead process and all other customer contact processes
-- [x] finish off Web Lead process
 - [ ] finish off accessorise
 - [x] create pages for button on inventory page, to create unit files
 - [x] page removed - virtual tour moved to components/clientsite
@@ -68,41 +55,33 @@
 - [x] page removed - photo gallery
 - [x] page removed -  blog
 - [x] page removed - newsletter
-
+- [x] when the rest of the site is compelte work on parts and accesssories
+- [x] finish off nav users items
+- [x] reserveNow.dealerid has the client login and return process done already to copy off of
+- [x] go through new lead process and all other customer contact processes
+- [x] finish off Web Lead process
   
 - [ ] -------- INVENTORY --------
-- [x] add button to listings, so when they go over inventory with sales staff they can just click create unit file, then displays a command dialog to select a client or create a new one
-- [x] added more models to inventory schema need to update that
 - [ ] refunded deposit button to remove it from unit file and put it back up for sale
 - [ ] setting to sold, use seearch command search to search for unit file
 - [x] once assigned, display button to navaigate there
+- [x] added more models to inventory schema need to update that
+- [x] add button to listings, so when they go over inventory with sales staff they can just click create unit file, then displays a command dialog to select a client or create a new one
 
-- [ ] -------- STAFF CHAT --------
+- [ ] -------- Side bar --------
 - [ ] put in right side bar?
+- [ ] tickets in sidebar?
 
 - [ ] -------- 613 MOTORSPORTS ---------
 - [x] called steph, hes interested in getting it for his shop
 - [x] follow up with steph
-- [ ] -------- CLIENT FACING SITE --------
-- [ ] home page
-- [ ] -------- CLIENT PORTAL? --------
-- [ ] order status
-- [ ] saved carts
-- [ ] passwordless auth
-- [ ] online chat
-- [ ] indiviual acc pages
-- [ ] cart
-- [ ] -------- INTERNAL --------
-- [ ] dashboard
-- [ ] create order
-- [ ] ticketing system
-- [ ] -------- ACC PAGES --------
-- [ ] print tags
-- [ ] inventory counter
-- [ ] receiving dashboard
-- [ ] -------- MGR DASHBOARD --------
-- [ ] performance dashbaord 
-- [ ] set inventory mins for auto ordering / create auto orders for review
-- [ ] -------- SETTINGS --------
-- [ ] users
+- [ ] sent him questionare on what he wants to see in it 
+
+- [x] -------- SEARCHES --------
+- [x] change from manual filtering to fuse
+  
+- [x] -------- TICKETS --------
+- [x] for finance managers add call queue, that sales people can add clients too can use ticketing system for this
+- [x] move webleads to ticketing system have it so depending on the label it shows different menus and buttons to deal with it
+- [x] rTChatMessages.create need to search app and switch for tickets instead
 
