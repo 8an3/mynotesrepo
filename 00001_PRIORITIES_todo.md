@@ -14,7 +14,7 @@
 - [ ] added bio to user
 - [ ] create section to modify varaibles for client facing site
 - [x] addUnit.tsx
-- [ ] unit.$dealerId.tsx
+- [x] unit.$dealerId.tsx
 
 - [ ] -------- DASHBOARDS --------
 - [ ] ALL TABLES - for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables
