@@ -35,6 +35,7 @@
 - [x] when clients go to book their own appotinement with sales use the reserveNow.dealerid has the client login and return process done already to copy off of so that clients are seraching for an email and could potentially get other peoples emails from that
 - [ ] Unit Notifier - Never miss a sales opportunity again. Our intelligent alert system automatically notifies customers when their desired vehicle arrives in inventory, creating instant sales opportunities
 - [ ] test new mgrs calculator implementation
+- [ ] admin creates basic unit with not much filled in to rely on sales to polish listing off, while creating it searches in its default data pool of images, searches by model name and grabs all images associated with it, then its description, specs, and other items so once its saved and viewed on the webiste it looks like someone had gone over and polished everything over
 
 - [ ] -------- CLIENT PORTAL --------
 - [ ] sales quotes tab, finish actions 
