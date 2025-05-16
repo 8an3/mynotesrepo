@@ -42,7 +42,7 @@
 - [ ] sales finance app, require clienbt to upload dl
 - [ ] in client portal sales quotes tab, finish actions 
 - [ ] in client portal sales finance app, require clienbt to upload dl
-- [ ] finish - parts request, copy over from client site or maybe put a button that says already a client?? login and divert to client portal version as it will populate all client fields
+- [x] finish - parts request, copy over from client site or maybe put a button that says already a client?? login and divert to client portal version as it will populate all client fields
 
 - [ ] -------- SERVICE --------
 - [ ] SERVICE WRITER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
