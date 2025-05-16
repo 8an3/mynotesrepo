@@ -1,7 +1,7 @@
 # PRIORITIES
 
 - [ ] -------- SEARCHES --------
-- [ ] change from manual filtering to fuse
+- [x] change from manual filtering to fuse
   
 - [ ] -------- TICKETS --------
 - [ ] for finance managers add call queue, that sales people can add clients too can use ticketing system for this
