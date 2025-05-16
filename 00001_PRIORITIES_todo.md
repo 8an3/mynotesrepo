@@ -59,7 +59,7 @@
 - [x] finish off nav users items
 - [x] reserveNow.dealerid has the client login and return process done already to copy off of
 - [x] go through new lead process and all other customer contact processes
-- [ ] finish off Web Lead process
+- [x] finish off Web Lead process
 - [ ] finish off accessorise
 - [x] create pages for button on inventory page, to create unit files
 - [x] page removed - virtual tour moved to components/clientsite
