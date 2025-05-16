@@ -75,7 +75,7 @@
 - [x] added more models to inventory schema need to update that
 - [ ] refunded deposit button to remove it from unit file and put it back up for sale
 - [ ] setting to sold, use seearch command search to search for unit file
-- [ ] once assigned, display button to navaigate there
+- [x] once assigned, display button to navaigate there
 
 - [ ] -------- STAFF CHAT --------
 - [ ] put in right side bar?
