@@ -61,7 +61,7 @@
 - [x] go through new lead process and all other customer contact processes
 - [ ] finish off Web Lead process
 - [ ] finish off accessorise
-- [ ] create pages for button on inventory page, to create unit files
+- [x] create pages for button on inventory page, to create unit files
 - [x] page removed - virtual tour moved to components/clientsite
 - [x] page removed -  { title: "Build Your Own", url: URLS.BYO },
 - [x] page removed - promotions serfvices sales and pac, now once page
