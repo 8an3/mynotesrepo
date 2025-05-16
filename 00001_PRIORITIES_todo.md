@@ -72,7 +72,7 @@
   
 - [ ] -------- INVENTORY --------
 - [x] add button to listings, so when they go over inventory with sales staff they can just click create unit file, then displays a command dialog to select a client or create a new one
-- [ ] added more models to inventory schema need to update that
+- [x] added more models to inventory schema need to update that
 - [ ] refunded deposit button to remove it from unit file and put it back up for sale
 - [ ] setting to sold, use seearch command search to search for unit file
 - [ ] once assigned, display button to navaigate there
