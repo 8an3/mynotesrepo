@@ -11,6 +11,7 @@
 - [ ] dyna load hottest items
 - [ ] dyna load managers special items
 - [ ] save cart items in local storage
+- [ ] test
 
 - [ ] -------- ADMIN --------
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
