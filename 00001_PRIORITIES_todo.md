@@ -11,7 +11,8 @@
 - [ ] dyna load hottest items
 - [ ] dyna load managers special items
 - [ ] save cart items in local storage
-- [ ] test
+- [ ] remove auto focus on http://localhost:3000/portal/sales/inventory/UNIT_1
+- [ ] the reason why http://localhost:3000/portal/sales/inventory/UNIT_1 is having weird scrolling issues is because it does not have a parent route providing the layout for it so move inventory to inventory.data, then make inventory the parent route and set overflow-y-auto so the whole page scrolls and not some weird looking container thing
 
 - [ ] -------- ADMIN --------
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
