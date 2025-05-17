@@ -1,5 +1,33 @@
 # COMPLETED
-
+- [x] finish - parts request, copy over from client site or maybe put a button that says already a client?? login and divert to client portal version as it will populate all client fields
+- [x] -------- SEARCHES --------
+- [x] change from manual filtering to fuse
+- [x] -------- TICKETS --------
+- [x] for finance managers add call queue, that sales people can add clients too can use ticketing system for this
+- [x] move webleads to ticketing system have it so depending on the label it shows different menus and buttons to deal with it
+- [x] rTChatMessages.create need to search app and switch for tickets instead
+- [x] once assigned, display button to navaigate there
+- [x] added more models to inventory schema need to update that
+- [x] add button to listings, so when they go over inventory with sales staff they can just click create unit file, then displays a command dialog to select a client or create a new one
+- [x] finish off accessorise
+- [x] create pages for button on inventory page, to create unit files
+- [x] page removed - virtual tour moved to components/clientsite
+- [x] page removed -  { title: "Build Your Own", url: URLS.BYO },
+- [x] page removed - promotions serfvices sales and pac, now once page
+- [x] page removed - photo gallery
+- [x] page removed -  blog
+- [x] page removed - newsletter
+- [x] when the rest of the site is compelte work on parts and accesssories
+- [x] finish off nav users items
+- [x] reserveNow.dealerid has the client login and return process done already to copy off of
+- [x] go through new lead process and all other customer contact processes
+- [x] finish off Web Lead process
+- [x] admin creates basic unit with not much filled in to rely on sales to polish listing off, while creating it searches in its default data pool of images, searches by model name and grabs all images associated with it, then its description, specs, and other items so once its saved and viewed on the webiste it looks like someone had gone over and polished everything over
+- [x] when clients go to book their own appotinement with sales use the reserveNow.dealerid has the client login and return process done already to copy off of so that clients are seraching for an email and could potentially get other peoples emails from that
+- [x] make it so if the file is already assigned to someone that they cant be contacted by another sales person, or display an alert diaolog warning that its already someones elses file
+- [x] unit file - need to make trade in form i think this is done
+- [x] addUnit.tsx
+- [x] unit.$dealerId.tsx
 - [x] -------- HOME PAGE --------
 - [x] add variable to env variables to check to see if this is a dealers site or not, if dealers site redirectr to client face site
 - [x] -------- AUTH ---------
