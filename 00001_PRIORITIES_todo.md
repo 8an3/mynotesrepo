@@ -3,6 +3,13 @@
 
 - [ ] finish exercise page
 - [ ] finish poprtal/admin/inventory/create
+- [ ] for finishing off accessories and product page
+- [ ] dynamically load brands
+- [ ] dyna load categories
+- [ ] dyna load pac hero use same hero, add site/section  to hero to we can get the ones we need where we nee them
+- [ ] dyna load  feature items
+- [ ] dyna load hottest items
+- [ ] dyna load managers special items
 
 - [ ] -------- ADMIN --------
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
