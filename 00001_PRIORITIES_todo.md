@@ -59,7 +59,7 @@
 
 - [ ] -------- CLIENT FACING WEBSITE --------
 - [ ] service scheduler
-- [ ] finish off accessorise
+- [x] finish off accessorise
 - [x] create pages for button on inventory page, to create unit files
 - [x] page removed - virtual tour moved to components/clientsite
 - [x] page removed -  { title: "Build Your Own", url: URLS.BYO },
