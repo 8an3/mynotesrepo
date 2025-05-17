@@ -24,7 +24,7 @@
 - [ ] take note from ticket.dealerid and update financeids notes, check out notes on acc and wo since tickets version is alot nicer and cleaner
 - [ ] Unit Notifier - Never miss a sales opportunity again. Our intelligent alert system automatically notifies customers when their desired vehicle arrives in inventory, creating instant sales opportunities
 - [ ] test new mgrs calculator implementation
-- [ ] admin creates basic unit with not much filled in to rely on sales to polish listing off, while creating it searches in its default data pool of images, searches by model name and grabs all images associated with it, then its description, specs, and other items so once its saved and viewed on the webiste it looks like someone had gone over and polished everything over
+- [x] admin creates basic unit with not much filled in to rely on sales to polish listing off, while creating it searches in its default data pool of images, searches by model name and grabs all images associated with it, then its description, specs, and other items so once its saved and viewed on the webiste it looks like someone had gone over and polished everything over
 - [x] when clients go to book their own appotinement with sales use the reserveNow.dealerid has the client login and return process done already to copy off of so that clients are seraching for an email and could potentially get other peoples emails from that
 - [x] make it so if the file is already assigned to someone that they cant be contacted by another sales person, or display an alert diaolog warning that its already someones elses file
 - [x] unit file - need to make trade in form i think this is done
