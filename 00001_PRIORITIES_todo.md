@@ -47,6 +47,7 @@
 - [ ] finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
 
 - [ ] -------- CLIENT FACING WEBSITE --------
+- [ ] service scheduler
 - [ ] finish off accessorise
 - [x] create pages for button on inventory page, to create unit files
 - [x] page removed - virtual tour moved to components/clientsite
