@@ -1,6 +1,9 @@
 # PRIORITIES
 
 
+- [ ] finish exercise page
+- [ ] finish poprtal/admin/inventory/create
+
 - [ ] -------- ADMIN --------
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
 - [ ] added bio to user
