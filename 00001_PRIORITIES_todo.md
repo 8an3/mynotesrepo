@@ -71,6 +71,8 @@
 - [x] called steph, hes interested in getting it for his shop
 - [x] follow up with steph
 - [ ] sent him questionare on what he wants to see in it 
-
+- [ ] questions
+- [ ] how do you usually keep track of actual profits on a per sale basis, i only ever see parts employees discount the whole order. so how do you know what your biggest profit makers are? or what your actual profits are so you can reliably forecast - kept price in accessories model, moved msrp and cost to AccessoriesDistributor to store actual prices on accessories, store price sold in accessories,  added sold for
+- [ ] keep pricing in in accessories model or move to 
 
 
