@@ -39,6 +39,7 @@
 - [ ] take note from ticket.dealerid and update financeids notes, check out notes on acc and wo since tickets version is alot nicer and cleaner
 - [ ] Unit Notifier - Never miss a sales opportunity again. Our intelligent alert system automatically notifies customers when their desired vehicle arrives in inventory, creating instant sales opportunities
 - [ ] test new mgrs calculator implementation
+- [ ] create page to create, edit currentMY
 
 - [ ] -------- CLIENT PORTAL --------
 - [ ] sales quotes tab, finish actions 
