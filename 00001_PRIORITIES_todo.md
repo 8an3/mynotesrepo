@@ -3,6 +3,7 @@
 
 - [ ] finish exercise page
 - [ ] package.json     "postinstall": "prisma generate",
+- [ ] root package.json   "install": "pnpm recursive install", "i": "pnpm recursive install",
 - [ ] finish poprtal/admin/inventory/create
 - [ ] for finishing off accessories and product page
 - [ ] dynamically load brands
