@@ -19,6 +19,7 @@
 - [ ] store on bucket, point img with url
 - [ ] need to create a route for sales  return redirect(`/portal/sales/search/${f.dealerId}`) to search and get the required items to redirect to  return redirect(`/portal/sales/customer/${f.clientfileId}/${f.id}`)
 - [ ] delete portal/sales/stockUnit... whats it for?... nvm its the unit picker... were probably gonna have to redesign that  by now
+- [ ] move all current "new units" to currentMY like harley bmwmotrorrad, convert them all if u can
 
 - [ ] -------- ADMIN --------
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
