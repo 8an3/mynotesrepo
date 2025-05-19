@@ -2,6 +2,7 @@
 
 
 - [ ] finish exercise page
+- [ ] package.json     "postinstall": "prisma generate",
 - [ ] finish poprtal/admin/inventory/create
 - [ ] for finishing off accessories and product page
 - [ ] dynamically load brands
