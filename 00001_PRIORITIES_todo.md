@@ -1,6 +1,6 @@
 # PRIORITIES
 
-- [ ] left off on new parts/accessores dashboard and tickets dashbaord pagination just stopped working beecause i think its not linked correctly from the laoder to the paginatrorfunction
+- [x] left off on new parts/accessores dashboard and tickets dashbaord pagination just stopped working beecause i think its not linked correctly from the laoder to the paginatrorfunction
 
 - [ ] finish exercise page
 - [ ] package.json     "postinstall": "prisma generate",
