@@ -3,8 +3,8 @@
 - [x] left off on new parts/accessores dashboard and tickets dashbaord pagination just stopped working beecause i think its not linked correctly from the laoder to the paginatrorfunction
 
 - [ ] finish exercise page
-- [ ] package.json     "postinstall": "prisma generate",
-- [ ] root package.json   "install": "pnpm recursive install", "i": "pnpm recursive install",
+- [x] package.json     "postinstall": "prisma generate",
+- [x] root package.json   "install": "pnpm recursive install", "i": "pnpm recursive install",
 - [ ] finish poprtal/admin/inventory/create
 - [ ] for finishing off accessories and product page
 - [ ] dynamically load brands
