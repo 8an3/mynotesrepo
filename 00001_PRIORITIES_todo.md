@@ -9,7 +9,7 @@
 - [ ] finish poprtal/admin/inventory/create
 - [ ] for finishing off accessories and product page
 - [ ] dynamically load brands
-- [ ] dyna load categories
+- [x] dyna load categories
 - [x] dyna load pac hero use same hero, add site/section  to hero to we can get the ones we need where we nee them
 - [x] dyna load  feature items
 - [x] dyna load hottest items
