@@ -11,7 +11,7 @@
 - [ ] dynamically load brands
 - [ ] dyna load categories
 - [ ] dyna load pac hero use same hero, add site/section  to hero to we can get the ones we need where we nee them
-- [ ] dyna load  feature items
+- [x] dyna load  feature items
 - [ ] dyna load hottest items
 - [ ] dyna load managers special items
 - [ ] save cart items in local storage
