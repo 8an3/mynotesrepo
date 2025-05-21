@@ -79,7 +79,7 @@
 - [ ] -------- 613 MOTORSPORTS ---------
 - [x] called steph, hes interested in getting it for his shop
 - [x] follow up with steph
-- [ ] sent him questionare on what he wants to see in it 
+- [x] sent him questionare on what he wants to see in it 
 - [ ] questions
 - [ ] how do u want to discount items
 
