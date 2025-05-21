@@ -2,7 +2,7 @@
 
 - [x] left off on new parts/accessores dashboard and tickets dashbaord pagination just stopped working beecause i think its not linked correctly from the laoder to the paginatrorfunction
 - [ ] left off at harley and bmw current my uplado in the database
-- [ ] need to put DealerBrandsActivate on current my page and display brands current my models
+- [x] need to put DealerBrandsActivate on current my page and display brands current my models
 
 - [x] finish exercise page
 - [x] package.json     "postinstall": "prisma generate",
