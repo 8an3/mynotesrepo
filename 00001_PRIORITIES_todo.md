@@ -9,6 +9,8 @@
 - [x] root package.json   "install": "pnpm recursive install", "i": "pnpm recursive install",
 - [ ] finish poprtal/admin/inventory/create
 - [x] for finishing off accessories and product page
+- [ ] finish create acc
+- [ ] finish acc view page
 - [ ] dynamically load brands
 - [x] dyna load categories
 - [x] dyna load pac hero use same hero, add site/section  to hero to we can get the ones we need where we nee them
