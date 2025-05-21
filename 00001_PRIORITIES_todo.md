@@ -3,7 +3,7 @@
 - [x] left off on new parts/accessores dashboard and tickets dashbaord pagination just stopped working beecause i think its not linked correctly from the laoder to the paginatrorfunction
 - [ ] need to put DealerBrandsActivate on current my page and display brands current my models
 
-- [ ] finish exercise page
+- [x] finish exercise page
 - [x] package.json     "postinstall": "prisma generate",
 - [x] root package.json   "install": "pnpm recursive install", "i": "pnpm recursive install",
 - [ ] finish poprtal/admin/inventory/create
