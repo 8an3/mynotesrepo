@@ -80,7 +80,7 @@
 
 - [ ] -------- Side bar --------
 - [ ] put in right side bar?
-- [x] tickets in sidebar?
+- [ ] tickets in sidebar?
 
 - [ ] -------- 613 MOTORSPORTS ---------
 - [x] called steph, hes interested in getting it for his shop
