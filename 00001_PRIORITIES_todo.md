@@ -7,7 +7,7 @@
 - [x] finish exercise page
 - [x] package.json     "postinstall": "prisma generate",
 - [x] root package.json   "install": "pnpm recursive install", "i": "pnpm recursive install",
-- [ ] finish poprtal/admin/inventory/create
+- [ ] finish poprtal/admin/inventory/create,  stock data is already created from current model years, just need to add model names ( i think ) to each of the database entries
 - [x] for finishing off accessories and product page
 - [ ] finish create acc
 - [ ] finish acc view page
@@ -29,6 +29,7 @@
 - [ ] move all current "new units" to currentMY like harley bmwmotrorrad, convert them all if u can
 - [ ] ned to finish off the action in book service
 - [ ] we should be getting the user to log in to submit the form if they havent yetsame in part request, demodays,
+
 
 
 - [ ] -------- ADMIN --------
