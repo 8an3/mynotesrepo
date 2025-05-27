@@ -11,7 +11,7 @@
 - [x] for finishing off accessories and product page
 - [ ] finish create acc
 - [ ] finish acc view page
-- [ ] dynamically load brands
+- [x] dynamically load brands
 - [x] dyna load categories
 - [x] dyna load pac hero use same hero, add site/section  to hero to we can get the ones we need where we nee them
 - [x] dyna load  feature items
