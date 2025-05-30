@@ -7,7 +7,7 @@
 - [ ] finish poprtal/admin/inventory/create,  stock data is already created from current model years, just need to add model names ( i think ) to each of the database entries
 - [ ] finish create acc
 - [ ] the reason why http://localhost:3000/portal/sales/inventory/UNIT_1 is having weird scrolling issues is because it does not have a parent route providing the layout for it so move inventory to inventory.data, then make inventory the parent route and set overflow-y-auto so the whole page scrolls and not some weird looking container thing
-- [ ] obivouisly finish accessories
+- [x] obivouisly finish accessories
 - [ ] for image uploads either
 - [ ] convert to data uri to store and convert back on load
 - [ ] store on bucket, point img with url
