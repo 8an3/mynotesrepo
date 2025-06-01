@@ -140,5 +140,5 @@
 - [x] -------- Side bar --------
 - [x] put in right side bar?
 - [x] tickets in sidebar?
- 
+
 
