@@ -63,9 +63,7 @@
 - [ ] refunded deposit button to remove it from unit file and put it back up for sale
 - [ ] setting to sold, use seearch command search to search for unit file
 
-- [ ] -------- Side bar --------
-- [ ] put in right side bar?
-- [ ] tickets in sidebar?
+
 
 - [ ] -------- 613 MOTORSPORTS ---------
 - [x] called steph, hes interested in getting it for his shop
