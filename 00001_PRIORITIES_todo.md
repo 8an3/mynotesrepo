@@ -6,10 +6,10 @@
 - [ ] and do something with the save feature from the byo
 - [ ] finish poprtal/admin/inventory/create,  stock data is already created from current model years, just need to add model names ( i think ) to each of the database entries
 - [ ] the reason why http://localhost:3000/portal/sales/inventory/UNIT_1 is having weird scrolling issues is because it does not have a parent route providing the layout for it so move inventory to inventory.data, then make inventory the parent route and set overflow-y-auto so the whole page scrolls and not some weird looking container thing
-- [ ] for image uploads either
-- [ ] convert to data uri to store and convert back on load like in /portal/admin/dashboard
-- [ ] store as blob, started in /portal/api/image/create
-- [ ] for email use email sidebar from shadcn sidebars now in /components/emails/ui
+- [ ] IMAGES - for image uploads either
+- [ ] IMAGES - convert to data uri to store and convert back on load like in /portal/admin/dashboard
+- [ ] IMAGES - store as blob, started in /portal/api/image/create
+- [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
 
 
 - [ ] -------- ADMIN --------
@@ -62,8 +62,6 @@
 - [ ] -------- INVENTORY --------
 - [ ] refunded deposit button to remove it from unit file and put it back up for sale
 - [ ] setting to sold, use seearch command search to search for unit file
-
-
 
 - [ ] -------- 613 MOTORSPORTS ---------
 - [x] called steph, hes interested in getting it for his shop

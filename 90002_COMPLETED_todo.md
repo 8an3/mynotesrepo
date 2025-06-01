@@ -112,3 +112,33 @@
 - [x] NAV - selecting a snippet does not bring you to the snippet in the file
 - [x] NAV - mdviwer not found
 - [x] https://www.ntrsync.dedyn.io/
+- [x] need to create a route for sales  return redirect(`/portal/sales/search/${f.dealerId}`) to search and get the required items to redirect to  return redirect(`/portal/sales/customer/${f.clientfileId}/${f.id}`)
+- [x] left off on new parts/accessores dashboard and tickets dashbaord pagination just stopped working beecause i think its not linked correctly from the laoder to the paginatrorfunction
+- [x] left off at harley and bmw current my uplado in the database
+- [x] need to put DealerBrandsActivate on current my page and display brands current my models
+- [x] finish acc view page
+- [x] dynamically load brands
+- [x] dyna load categories
+- [x] dyna load pac hero use same hero, add site/section  to hero to we can get the ones we need where we nee them
+- [x] dyna load  feature items
+- [x] dyna load hottest items
+- [x] dyna load managers special items
+- [x] save cart items in local storage
+- [x] remove auto focus on http://localhost:3000/portal/sales/inventory/UNIT_1
+- [x] finish exercise page
+- [x] package.json     "postinstall": "prisma generate",
+- [x] root package.json   "install": "pnpm recursive install", "i": "pnpm recursive install",
+- [x] for finishing off accessories and product page
+- [x] delete portal/sales/stockUnit... whats it for?... nvm its the unit picker... were probably gonna have to redesign that  by now
+- [x] move all current "new units" to currentMY like harley bmwmotrorrad, convert them all if u can
+- [x] we should be getting the user to log in to submit the form if they havent yetsame in part request, demodays,
+- [x] add positino website
+- [x] finish create acc
+- [x] obivouisly finish accessories
+- [x] for dealer/accessories/inventory/$dealerid related products was taken out, after all said is done try to make it work, will need to move the function to an api route in order to get the data
+- [x] need to make performance graphs for managers and owner, similar to sales persons version
+- [x] -------- Side bar --------
+- [x] put in right side bar?
+- [x] tickets in sidebar?
+
+
