@@ -1,28 +1,32 @@
 # PRIORITIES
 
-- [ ] the reason why http://localhost:3000/portal/sales/inventory/UNIT_1 is having weird scrolling issues is because it does not have a parent route providing the layout for it so move inventory to inventory.data, then make inventory the parent route and set overflow-y-auto so the whole page scrolls and not some weird looking container thing
 - [ ] IMAGES - for image uploads either
 - [ ] IMAGES - convert to data uri to store and convert back on load like in /portal/admin/dashboard
 - [ ] IMAGES - store as blob, started in /portal/api/image/create
 - [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
 
+- [ ] -------- ACCESSORIES --------
+- [ ] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
+
 - [ ] -------- ADMIN --------
 - [ ] added bio to user
-- [ ] create section to modify varaibles for client facing site
-- [ ] combine portal/admin/overview and admin/settings/geenral
 - [ ] redo /admin/users/user.$userId
 - [ ] finish /admin/users/user.create
 - [ ] finish /admin/inventory/unit/create need to make sure it pulls stock data when creating
-- [ ] finish poprtal/admin/inventory/create,  stock data is already created from current model years, just need to add model names ( i think ) to each of the database entries
-
-- [ ] -------- DASHBOARDS --------
-- [ ] ALL TABLES - for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables
 
 - [ ] -------- DEV --------
-- [ ] move  to a different site that isnt public facing, or atleast a different address then our public site, that way if someone does gain access they dont have access to your dealers data
+- [ ] move to a different site that isnt public facing, or atleast a different address then our public site, that way if someone does gain access they dont have access to your dealers data
 - [ ] back ups of databases for dealers once in production?
-- [ ] make it so in the dev menu u can choose which brands each dealer has
 - [ ] in order for dealers to have the latest data for the roadmap we need to make it an api request to the main website, which may not work due to cors...
+- [ ] CHECK SUBSCRIPTION move to dev and the last day of the month run the script through automation, or set up an api to get the alerts
+- [ ] in loader put const partnerSite = dealer.partnerSite to gain access to calendar site
+- [ ] DEV / CONTROLPANEL when saving dealer details save projectName
+- [ ] need dashboard to connect to all the dealers dashboards
+- [ ] DASHBOARD - to manage phone numbers for users
+- [ ] DASHBOARD - to monitor / and charge correct amounts for text / voice / email
+- [ ] DASHBOARD - manager potential customer base
+- [ ] DASHBOARD - manage authentication for emergencies for dealers
+
 
 - [ ] -------- SALES --------
 - [ ] mass email - need to redo
@@ -68,3 +72,13 @@
 - [ ] questions
 - [ ] how do u want to discount items
 
+- [x] create section to modify varaibles for client facing site
+- [x] move roles to dev so you can control the dealers roles from there
+- [x] need to subscription portal
+- [x] ALL TABLES - for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables, we are pull data a lot more effeciently than activix so it doesnt slow down as much as theirs, tested at 1000
+- [x] combine portal/admin/overview and admin/settings/geenral
+- [x] finish poprtal/admin/inventory/unit/create,  stock data is already created from current model years, just need to add model names ( i think ) to each of the database entries
+- [x] make it so in the dev menu u can choose which brands each dealer has
+- [x] to login as any dealer user, have seperate dealer site where its closed off to everyone but dev and have the authentication login as user with their dealers db
+- [x] log into any dealers site - completed ensure dev user so you can log into any website
+- [x] the reason why http://localhost:3000/portal/sales/inventory/UNIT_1 is having weird scrolling issues is because it does not have a parent route providing the layout for it so move inventory to inventory.data, then make inventory the parent route and set overflow-y-auto so the whole page scrolls and not some weird looking container thing
