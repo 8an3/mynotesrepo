@@ -1,17 +1,10 @@
 # PRIORITIES
 
-
-- [ ] need to create `/dealer/currentMY/reserveNow/${model.id}`
-- [ ] need to create `/dealer/currentMY/contact/${model.id}`
-- [ ] and do something with the save feature from the byo
-- [ ] finish poprtal/admin/inventory/create,  stock data is already created from current model years, just need to add model names ( i think ) to each of the database entries
 - [ ] the reason why http://localhost:3000/portal/sales/inventory/UNIT_1 is having weird scrolling issues is because it does not have a parent route providing the layout for it so move inventory to inventory.data, then make inventory the parent route and set overflow-y-auto so the whole page scrolls and not some weird looking container thing
 - [ ] IMAGES - for image uploads either
 - [ ] IMAGES - convert to data uri to store and convert back on load like in /portal/admin/dashboard
 - [ ] IMAGES - store as blob, started in /portal/api/image/create
 - [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
-
-
 
 - [ ] -------- ADMIN --------
 - [ ] added bio to user
@@ -19,6 +12,8 @@
 - [ ] combine portal/admin/overview and admin/settings/geenral
 - [ ] redo /admin/users/user.$userId
 - [ ] finish /admin/users/user.create
+- [ ] finish /admin/inventory/unit/create need to make sure it pulls stock data when creating
+- [ ] finish poprtal/admin/inventory/create,  stock data is already created from current model years, just need to add model names ( i think ) to each of the database entries
 
 - [ ] -------- DASHBOARDS --------
 - [ ] ALL TABLES - for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables
@@ -45,7 +40,9 @@
 - [ ] in client portal sales quotes tab, finish actions 
 - [ ] in client portal sales finance app, require clienbt to upload dl
 - [ ] ned to finish off the action in book service
-
+- [ ] need to create `/dealer/currentMY/reserveNow/${model.id}`
+- [ ] need to create `/dealer/currentMY/contact/${model.id}`
+- [ ] and do something with the save feature from the byo
 
 - [ ] -------- SERVICE --------
 - [ ] SERVICE WRITER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
