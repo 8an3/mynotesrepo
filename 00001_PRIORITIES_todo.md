@@ -18,15 +18,14 @@
 - [x] for dealer/accessories/inventory/$dealerid related products was taken out, after all said is done try to make it work, will need to move the function to an api route in order to get the data
 - [x] add positino website
 - [ ] for email use email sidebar from shadcn sidebars now in /components/emails/ui
-- [ ] redo /admin/users/user.$userId
-- [ ] finish /admin/users/user.create
-- [ ] make sure finance handoff works
 
 - [ ] -------- ADMIN --------
 - [x] need to make performance graphs for managers and owner, similar to sales persons version
 - [ ] added bio to user
 - [ ] create section to modify varaibles for client facing site
 - [ ] combine portal/admin/overview and admin/settings/geenral
+- [ ] redo /admin/users/user.$userId
+- [ ] finish /admin/users/user.create
 
 - [ ] -------- DASHBOARDS --------
 - [ ] ALL TABLES - for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables
@@ -45,6 +44,7 @@
 - [ ] Unit Notifier - Never miss a sales opportunity again. Our intelligent alert system automatically notifies customers when their desired vehicle arrives in inventory, creating instant sales opportunities
 - [ ] test new mgrs calculator implementation
 - [ ] create page to create, edit currentMY
+- [ ] make sure finance handoff works
 
 - [ ] -------- CLIENT PORTAL --------
 - [ ] sales quotes tab, finish actions 
