@@ -20,6 +20,7 @@
 - [ ] for email use email sidebar from shadcn sidebars now in /components/emails/ui
 - [ ] redo /admin/users/user.$userId
 - [ ] finish /admin/users/user.create
+- [ ] make sure finance handoff works
 
 - [ ] -------- ADMIN --------
 - [ ] need to make performance graphs for managers and owner, similar to sales persons version
