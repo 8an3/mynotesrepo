@@ -12,6 +12,7 @@
 - [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
 
 
+
 - [ ] -------- ADMIN --------
 - [ ] added bio to user
 - [ ] create section to modify varaibles for client facing site
