@@ -9,8 +9,8 @@
 - [ ] the reason why http://localhost:3000/portal/sales/inventory/UNIT_1 is having weird scrolling issues is because it does not have a parent route providing the layout for it so move inventory to inventory.data, then make inventory the parent route and set overflow-y-auto so the whole page scrolls and not some weird looking container thing
 - [x] obivouisly finish accessories
 - [ ] for image uploads either
-- [ ] convert to data uri to store and convert back on load
-- [ ] store on bucket, point img with url
+- [ ] convert to data uri to store and convert back on load like in /portal/admin/dashboard
+- [ ] store as blob, started in /portal/api/image/create
 - [x] delete portal/sales/stockUnit... whats it for?... nvm its the unit picker... were probably gonna have to redesign that  by now
 - [ ] move all current "new units" to currentMY like harley bmwmotrorrad, convert them all if u can
 - [ ] ned to finish off the action in book service
