@@ -5,7 +5,7 @@
 - [ ] need to create `/dealer/currentMY/contact/${model.id}`
 - [ ] and do something with the save feature from the byo
 - [ ] finish poprtal/admin/inventory/create,  stock data is already created from current model years, just need to add model names ( i think ) to each of the database entries
-- [ ] finish create acc
+- [x] finish create acc
 - [ ] the reason why http://localhost:3000/portal/sales/inventory/UNIT_1 is having weird scrolling issues is because it does not have a parent route providing the layout for it so move inventory to inventory.data, then make inventory the parent route and set overflow-y-auto so the whole page scrolls and not some weird looking container thing
 - [x] obivouisly finish accessories
 - [ ] for image uploads either
