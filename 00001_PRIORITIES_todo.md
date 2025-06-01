@@ -13,7 +13,6 @@
 
 
 - [ ] -------- ADMIN --------
-- [x] need to make performance graphs for managers and owner, similar to sales persons version
 - [ ] added bio to user
 - [ ] create section to modify varaibles for client facing site
 - [ ] combine portal/admin/overview and admin/settings/geenral
@@ -45,9 +44,7 @@
 - [ ] in client portal sales quotes tab, finish actions 
 - [ ] in client portal sales finance app, require clienbt to upload dl
 - [ ] ned to finish off the action in book service
-- [x] finish create acc
-- [x] obivouisly finish accessories
-- [x] for dealer/accessories/inventory/$dealerid related products was taken out, after all said is done try to make it work, will need to move the function to an api route in order to get the data
+
 
 - [ ] -------- SERVICE --------
 - [ ] SERVICE WRITER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
@@ -77,24 +74,3 @@
 - [ ] questions
 - [ ] how do u want to discount items
 
-- [x] need to create a route for sales  return redirect(`/portal/sales/search/${f.dealerId}`) to search and get the required items to redirect to  return redirect(`/portal/sales/customer/${f.clientfileId}/${f.id}`)
-- [x] left off on new parts/accessores dashboard and tickets dashbaord pagination just stopped working beecause i think its not linked correctly from the laoder to the paginatrorfunction
-- [x] left off at harley and bmw current my uplado in the database
-- [x] need to put DealerBrandsActivate on current my page and display brands current my models
-- [x] finish acc view page
-- [x] dynamically load brands
-- [x] dyna load categories
-- [x] dyna load pac hero use same hero, add site/section  to hero to we can get the ones we need where we nee them
-- [x] dyna load  feature items
-- [x] dyna load hottest items
-- [x] dyna load managers special items
-- [x] save cart items in local storage
-- [x] remove auto focus on http://localhost:3000/portal/sales/inventory/UNIT_1
-- [x] finish exercise page
-- [x] package.json     "postinstall": "prisma generate",
-- [x] root package.json   "install": "pnpm recursive install", "i": "pnpm recursive install",
-- [x] for finishing off accessories and product page
-- [x] delete portal/sales/stockUnit... whats it for?... nvm its the unit picker... were probably gonna have to redesign that  by now
-- [x] move all current "new units" to currentMY like harley bmwmotrorrad, convert them all if u can
-- [x] we should be getting the user to log in to submit the form if they havent yetsame in part request, demodays,
-- [x] add positino website
