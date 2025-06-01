@@ -12,7 +12,7 @@
 - [ ] convert to data uri to store and convert back on load like in /portal/admin/dashboard
 - [ ] store as blob, started in /portal/api/image/create
 - [x] delete portal/sales/stockUnit... whats it for?... nvm its the unit picker... were probably gonna have to redesign that  by now
-- [ ] move all current "new units" to currentMY like harley bmwmotrorrad, convert them all if u can
+- [x] move all current "new units" to currentMY like harley bmwmotrorrad, convert them all if u can
 - [ ] ned to finish off the action in book service
 - [ ] we should be getting the user to log in to submit the form if they havent yetsame in part request, demodays,
 - [ ] for dealer/accessories/inventory/$dealerid related products was taken out, after all said is done try to make it work, will need to move the function to an api route in order to get the data
