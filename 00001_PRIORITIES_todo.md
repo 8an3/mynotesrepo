@@ -5,19 +5,12 @@
 - [ ] need to create `/dealer/currentMY/contact/${model.id}`
 - [ ] and do something with the save feature from the byo
 - [ ] finish poprtal/admin/inventory/create,  stock data is already created from current model years, just need to add model names ( i think ) to each of the database entries
-- [x] finish create acc
 - [ ] the reason why http://localhost:3000/portal/sales/inventory/UNIT_1 is having weird scrolling issues is because it does not have a parent route providing the layout for it so move inventory to inventory.data, then make inventory the parent route and set overflow-y-auto so the whole page scrolls and not some weird looking container thing
-- [x] obivouisly finish accessories
 - [ ] for image uploads either
 - [ ] convert to data uri to store and convert back on load like in /portal/admin/dashboard
 - [ ] store as blob, started in /portal/api/image/create
-- [x] delete portal/sales/stockUnit... whats it for?... nvm its the unit picker... were probably gonna have to redesign that  by now
-- [x] move all current "new units" to currentMY like harley bmwmotrorrad, convert them all if u can
-- [ ] ned to finish off the action in book service
-- [x] we should be getting the user to log in to submit the form if they havent yetsame in part request, demodays,
-- [x] for dealer/accessories/inventory/$dealerid related products was taken out, after all said is done try to make it work, will need to move the function to an api route in order to get the data
-- [x] add positino website
 - [ ] for email use email sidebar from shadcn sidebars now in /components/emails/ui
+
 
 - [ ] -------- ADMIN --------
 - [x] need to make performance graphs for managers and owner, similar to sales persons version
@@ -46,11 +39,15 @@
 - [ ] create page to create, edit currentMY
 - [ ] make sure finance handoff works
 
-- [ ] -------- CLIENT PORTAL --------
+- [ ] -------- CLIENT SITE --------
 - [ ] sales quotes tab, finish actions 
 - [ ] sales finance app, require clienbt to upload dl
 - [ ] in client portal sales quotes tab, finish actions 
 - [ ] in client portal sales finance app, require clienbt to upload dl
+- [ ] ned to finish off the action in book service
+- [x] finish create acc
+- [x] obivouisly finish accessories
+- [x] for dealer/accessories/inventory/$dealerid related products was taken out, after all said is done try to make it work, will need to move the function to an api route in order to get the data
 
 - [ ] -------- SERVICE --------
 - [ ] SERVICE WRITER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
@@ -97,3 +94,7 @@
 - [x] package.json     "postinstall": "prisma generate",
 - [x] root package.json   "install": "pnpm recursive install", "i": "pnpm recursive install",
 - [x] for finishing off accessories and product page
+- [x] delete portal/sales/stockUnit... whats it for?... nvm its the unit picker... were probably gonna have to redesign that  by now
+- [x] move all current "new units" to currentMY like harley bmwmotrorrad, convert them all if u can
+- [x] we should be getting the user to log in to submit the form if they havent yetsame in part request, demodays,
+- [x] add positino website
