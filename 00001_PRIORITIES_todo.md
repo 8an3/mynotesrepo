@@ -15,10 +15,10 @@
 - [ ] how do csis go to customers
 - [ ] need to redo scrapers
 
-- [ ] -------- ACCESSORIES --------
+- [x] -------- ACCESSORIES --------
 - [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
 
-- [ ] -------- ADMIN --------
+- [x] -------- ADMIN --------
 - [x] added bio to user
 - [x] redo /admin/users/user.$userId
 - [ ] finish /admin/users/user.create
@@ -30,7 +30,7 @@
 - [ ] mass email - need to redo
 - [ ] unit file - need to find a way to see if all signatures have beeen signed, maybe add new field in the schema that couunts all the signatures when the user saves beforesending to client, when client signs get number from db and count how many signatures are in inputs since inputs only shows the signatures completed
 - [ ] unit file - notify user that inventory isnt assigned, same with setting it to sold
-- [ ] take note from ticket.dealerid and update financeids notes, check out notes on acc and wo since tickets version is alot nicer and cleaner
+- [x] take note from ticket.dealerid and update financeids notes, check out notes on acc and wo since tickets version is alot nicer and cleaner
 - [ ] Unit Notifier - Never miss a sales opportunity again. Our intelligent alert system automatically notifies customers when their desired vehicle arrives in inventory, creating instant sales opportunities
 - [ ] test new mgrs calculator implementation
 - [ ] create page to create, edit currentMY
