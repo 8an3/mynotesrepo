@@ -14,18 +14,6 @@
 - [ ] finish /admin/users/user.create
 - [ ] finish /admin/inventory/unit/create need to make sure it pulls stock data when creating
 
-- [ ] -------- DEV --------
-- [ ] move to a different site that isnt public facing, or atleast a different address then our public site, that way if someone does gain access they dont have access to your dealers data
-- [ ] back ups of databases for dealers once in production?
-- [ ] in order for dealers to have the latest data for the roadmap we need to make it an api request to the main website, which may not work due to cors...
-- [ ] CHECK SUBSCRIPTION move to dev and the last day of the month run the script through automation, or set up an api to get the alerts
-- [ ] in loader put const partnerSite = dealer.partnerSite to gain access to calendar site
-- [ ] DEV / CONTROLPANEL when saving dealer details save projectName
-- [ ] need dashboard to connect to all the dealers dashboards
-- [ ] DASHBOARD - to manage phone numbers for users
-- [ ] DASHBOARD - to monitor / and charge correct amounts for text / voice / email
-- [ ] DASHBOARD - manager potential customer base
-- [ ] DASHBOARD - manage authentication for emergencies for dealers
 
 
 - [ ] -------- SALES --------
@@ -66,6 +54,21 @@
 - [ ] -------- INVENTORY --------
 - [ ] refunded deposit button to remove it from unit file and put it back up for sale
 - [ ] setting to sold, use seearch command search to search for unit file
+
+
+- [ ] -------- DEV --------
+- [ ] move to a different site that isnt public facing, or atleast a different address then our public site, that way if someone does gain access they dont have access to your dealers data
+- [ ] back ups of databases for dealers once in production?
+- [ ] in order for dealers to have the latest data for the roadmap we need to make it an api request to the main website, which may not work due to cors...
+- [ ] CHECK SUBSCRIPTION move to dev and the last day of the month run the script through automation, or set up an api to get the alerts
+- [ ] in loader put const partnerSite = dealer.partnerSite to gain access to calendar site
+- [ ] DEV / CONTROLPANEL when saving dealer details save projectName
+- [ ] need dashboard to connect to all the dealers dashboards
+- [ ] DASHBOARD - to manage phone numbers for users
+- [ ] DASHBOARD - to monitor / and charge correct amounts for text / voice / email
+- [ ] DASHBOARD - manager potential customer base
+- [ ] DASHBOARD - manage authentication for emergencies for dealers
+
 
 - [ ] -------- 613 MOTORSPORTS ---------
 - [x] called steph, hes interested in getting it for his shop
