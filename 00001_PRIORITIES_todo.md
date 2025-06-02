@@ -13,7 +13,7 @@
 - [x] users dialog
 - [ ] what about viewing completed csis
 - [ ] how do csis go to customers
-- [ ] need to redo scrapers
+- [x] need to redo scrapers
 
 - [x] -------- ACCESSORIES --------
 - [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
