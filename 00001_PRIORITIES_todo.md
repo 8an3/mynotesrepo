@@ -15,7 +15,7 @@
 - [ ] how do csis go to customers
 - [ ] need to redo scrapers
 
-- [ ] -------- ACCESSORIES --------
+- [x] -------- ACCESSORIES --------
 - [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
 
 - [x] -------- ADMIN --------
