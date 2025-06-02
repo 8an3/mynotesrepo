@@ -4,6 +4,13 @@
 - [ ] IMAGES - convert to data uri to store and convert back on load like in /portal/admin/dashboard
 - [x] IMAGES - store as blob, started in /portal/api/image/create
 - [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
+- [ ] dealers dialog
+- [ ] clients dialog
+- [ ] client site dialog
+- [ ] data scraper
+- [ ] ie dialog
+- [ ] reports dialog 
+- [ ] users dialog
 
 - [ ] -------- ACCESSORIES --------
 - [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
