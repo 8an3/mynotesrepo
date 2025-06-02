@@ -2,7 +2,7 @@
 
 - [ ] IMAGES - for image uploads either
 - [ ] IMAGES - convert to data uri to store and convert back on load like in /portal/admin/dashboard
-- [ ] IMAGES - store as blob, started in /portal/api/image/create
+- [x] IMAGES - store as blob, started in /portal/api/image/create
 - [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
 
 - [ ] -------- ACCESSORIES --------
