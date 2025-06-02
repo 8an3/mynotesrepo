@@ -7,7 +7,7 @@
 - [x] dealers dialog
 - [x] clients dialog
 - [x] client site dialog
-- [ ] data scraper
+- [x] data scraper
 - [x] ie dialog
 - [x] reports dialog 
 - [x] users dialog
