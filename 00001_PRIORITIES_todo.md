@@ -9,7 +9,7 @@
 - [ ] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
 
 - [ ] -------- ADMIN --------
-- [ ] added bio to user
+- [x] added bio to user
 - [ ] redo /admin/users/user.$userId
 - [ ] finish /admin/users/user.create
 - [ ] finish /admin/inventory/unit/create need to make sure it pulls stock data when creating
