@@ -10,7 +10,7 @@
 - [ ] data scraper
 - [x] ie dialog
 - [x] reports dialog 
-- [ ] users dialog
+- [x] users dialog
 
 - [ ] -------- ACCESSORIES --------
 - [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
