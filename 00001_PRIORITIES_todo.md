@@ -4,7 +4,7 @@
 - [ ] IMAGES - convert to data uri to store and convert back on load like in /portal/admin/dashboard
 - [x] IMAGES - store as blob, started in /portal/api/image/create
 - [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
-- [ ] dealers dialog
+- [x] dealers dialog
 - [ ] clients dialog
 - [ ] client site dialog
 - [ ] data scraper
