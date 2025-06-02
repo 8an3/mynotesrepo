@@ -9,7 +9,7 @@
 - [ ] client site dialog
 - [ ] data scraper
 - [x] ie dialog
-- [ ] reports dialog 
+- [x] reports dialog 
 - [ ] users dialog
 
 - [ ] -------- ACCESSORIES --------
