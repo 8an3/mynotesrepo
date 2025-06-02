@@ -5,7 +5,7 @@
 - [x] IMAGES - store as blob, started in /portal/api/image/create
 - [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
 - [x] dealers dialog
-- [ ] clients dialog
+- [x] clients dialog
 - [x] client site dialog
 - [ ] data scraper
 - [x] ie dialog
