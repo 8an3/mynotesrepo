@@ -6,7 +6,7 @@
 - [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
 - [x] dealers dialog
 - [ ] clients dialog
-- [ ] client site dialog
+- [x] client site dialog
 - [ ] data scraper
 - [x] ie dialog
 - [x] reports dialog 
