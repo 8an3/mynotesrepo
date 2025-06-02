@@ -11,7 +11,7 @@
 - [x] ie dialog
 - [x] reports dialog 
 - [x] users dialog
-- [ ] what about viewing completed csis
+- [x] what about viewing completed csis
 - [ ] how do csis go to customers
 - [ ] need to redo scrapers
 
