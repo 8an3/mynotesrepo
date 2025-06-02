@@ -6,7 +6,7 @@
 - [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
 
 - [ ] -------- ACCESSORIES --------
-- [ ] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
+- [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
 
 - [ ] -------- ADMIN --------
 - [x] added bio to user
