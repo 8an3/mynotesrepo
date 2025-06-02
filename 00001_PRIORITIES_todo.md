@@ -8,7 +8,7 @@
 - [ ] clients dialog
 - [ ] client site dialog
 - [ ] data scraper
-- [ ] ie dialog
+- [x] ie dialog
 - [ ] reports dialog 
 - [ ] users dialog
 
