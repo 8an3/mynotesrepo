@@ -10,6 +10,7 @@
 - [x] data scraper
 - [x] ie dialog
 - [x] reports dialog 
+- [ ] stock data dialog
 - [x] users dialog
 - [x] what about viewing completed csis
 - [ ] how do csis go to customers
