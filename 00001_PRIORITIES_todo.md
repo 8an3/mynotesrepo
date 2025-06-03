@@ -37,7 +37,9 @@
 - [ ] make sure finance handoff works
 - [ ] dealer/accessories/newOrder/cm06lhi4u0001lb03xvaq4gwu print receipt not working in prod
 - [ ] need to redo clientfile
-
+- [ ] -------- INVENTORY --------
+- [ ] refunded deposit button to remove it from unit file and put it back up for sale
+- [ ] setting to sold, use seearch command search to search for unit file
 
 - [ ] -------- CLIENT SITE --------
 - [ ] sales quotes tab, finish actions 
@@ -48,6 +50,7 @@
 - [ ] need to create `/dealer/currentMY/reserveNow/${model.id}`
 - [ ] need to create `/dealer/currentMY/contact/${model.id}`
 - [ ] and do something with the save feature from the byo
+- [ ] service scheduler
 
 - [ ] -------- SERVICE --------
 - [ ] SERVICE WRITER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
@@ -59,12 +62,7 @@
 - [ ] need to add legend for docs, Service Work Order, Bill Of Sale, so as to know which when they create the docs
 - [ ] finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
 
-- [ ] -------- CLIENT FACING WEBSITE --------
-- [ ] service scheduler
-  
-- [ ] -------- INVENTORY --------
-- [ ] refunded deposit button to remove it from unit file and put it back up for sale
-- [ ] setting to sold, use seearch command search to search for unit file
+
 
 
 - [ ] -------- DEV --------
