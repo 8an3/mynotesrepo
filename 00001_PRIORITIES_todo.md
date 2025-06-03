@@ -21,7 +21,7 @@
 - [x] -------- ADMIN --------
 - [x] added bio to user
 - [x] redo /admin/users/user.$userId
-- [ ] finish /admin/users/user.create
+- [x] finish /admin/users/user.create
 - [x] finish /admin/inventory/unit/create need to make sure it pulls stock data when creating
 
 
