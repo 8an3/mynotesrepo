@@ -1,6 +1,6 @@
 # PRIORITIES
 
-- [ ] left off at unit file notes keep checking from there
+- [x] left off at unit file notes keep checking from there
 - [x] IMAGES - for image uploads either
 - [x] IMAGES - convert to data uri to store and convert back on load like in /portal/admin/dashboard
 - [x] IMAGES - store as blob, started in /portal/api/image/create
