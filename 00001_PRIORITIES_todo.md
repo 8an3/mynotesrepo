@@ -15,6 +15,7 @@
 - [x] what about viewing completed csis
 - [ ] how do csis go to customers
 - [x] need to redo scrapers
+- [ ] look at the whole process of changing a deal, from the manager to the unit file
 
 - [x] -------- ACCESSORIES --------
 - [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
