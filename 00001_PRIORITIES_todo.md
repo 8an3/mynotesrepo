@@ -20,6 +20,7 @@
 - [ ] when making free for all users, have a way for sales managers to join and see their teams stats, when sales people sign up they will have to assign themselves a dealer
 - [ ] show sales funnel percentages appts to quotes to sales converted
 - [ ] for client site we need to filter out current my units that are displayed by the current year
+- [ ] when creating currentMYModels make sure they attach to the dealer in the database
 
 - [x] -------- ACCESSORIES --------
 - [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
