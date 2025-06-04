@@ -16,6 +16,8 @@
 - [ ] how do csis go to customers
 - [x] need to redo scrapers
 - [ ] look at the whole process of changing a deal, from the manager to the unit file
+- [ ] when making free for all users, have a way for sales managers to join and see their teams stats, when sales people sign up they will have to assign themselves a dealer
+- [ ] show sales funnel percentages appts to quotes to sales converted
 
 - [x] -------- ACCESSORIES --------
 - [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
@@ -25,8 +27,6 @@
 - [x] redo /admin/users/user.$userId
 - [x] finish /admin/users/user.create
 - [x] finish /admin/inventory/unit/create need to make sure it pulls stock data when creating
-
-
 
 - [ ] -------- SALES --------
 - [ ] mass email - need to redo
