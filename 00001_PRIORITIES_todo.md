@@ -24,6 +24,7 @@
 - [ ] need to update client site configurator to accomadate more complex models ie manitou
 - [ ] need to update options overview in sales - once options are selected we need to add the total together and save it to the finance object to be used in the finance calc
 - [ ] need to update create currentMY page
+- [ ] UNITFILE - Need to somehow get all the totals from the finance tab to the deposits tab maybe use redux somehow....
 
 - [x] -------- ACCESSORIES --------
 - [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
