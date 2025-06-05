@@ -21,6 +21,9 @@
 - [ ] show sales funnel percentages appts to quotes to sales converted
 - [ ] for client site we need to filter out current my units that are displayed by the current year
 - [ ] when creating currentMYModels make sure they attach to the dealer in the database
+- [ ] need to update client site configurator to accomadate more complex models ie manitou
+- [ ] need to update options overview in sales - once options are selected we need to add the total together and save it to the finance object to be used in the finance calc
+- [ ] need to update create currentMY page
 
 - [x] -------- ACCESSORIES --------
 - [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
