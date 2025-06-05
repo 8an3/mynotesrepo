@@ -26,6 +26,7 @@
 - [ ] need to update create currentMY page
 - [ ] UNITFILE - Need to somehow get all the totals from the finance tab to the deposits tab maybe use redux somehow....
 - [ ] remoive bmwmoto and manoptions from finance calc
+- [ ] need to add finance buffer somewhere in admin
 
 - [x] -------- ACCESSORIES --------
 - [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
