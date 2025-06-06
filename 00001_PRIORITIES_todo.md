@@ -10,7 +10,7 @@
 
 
 - [ ] -------- SALES --------
-- [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
+- [x] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
 - [ ] show sales funnel percentages appts to quotes to sales converted
 - [ ] UNITFILE - Need to somehow get all the totals from the finance tab to the deposits tab maybe use redux somehow....
 - [ ] remove bmwmoto and manoptions from finance calc
