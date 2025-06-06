@@ -1,22 +1,9 @@
 # PRIORITIES
 
-- [x] left off at quote, options and overview fixing, fixed main dropdown menu in calc, and was also working on new email client
-- [x] IMAGES - for image uploads either
-- [x] IMAGES - convert to data uri to store and convert back on load like in /portal/admin/dashboard
-- [x] IMAGES - store as blob, started in /portal/api/image/create
+
 - [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
-- [x] dealers dialog
-- [x] clients dialog
-- [x] client site dialog
-- [x] data scraper
-- [x] ie dialog
-- [x] reports dialog 
 - [ ] stock data dialog
-- [x] users dialog
-- [x] what about viewing completed csis
 - [ ] how do csis go to customers
-- [x] need to redo scrapers
-- [x] look at the whole process of changing a deal, from the manager to the unit file
 - [ ] when making free for all users, have a way for sales managers to join and see their teams stats, when sales people sign up they will have to assign themselves a dealer
 - [ ] show sales funnel percentages appts to quotes to sales converted
 - [ ] for client site we need to filter out current my units that are displayed by the current year
@@ -29,20 +16,11 @@
 - [ ] need to add finance buffer somewhere in admin
 - [ ] need a way to input custom line items for bos so extra items can be inputted
 
-- [x] -------- ACCESSORIES --------
-- [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
-
-- [x] -------- ADMIN --------
-- [x] added bio to user
-- [x] redo /admin/users/user.$userId
-- [x] finish /admin/users/user.create
-- [x] finish /admin/inventory/unit/create need to make sure it pulls stock data when creating
 
 - [ ] -------- SALES --------
 - [ ] mass email - need to redo
 - [ ] unit file - need to find a way to see if all signatures have beeen signed, maybe add new field in the schema that couunts all the signatures when the user saves beforesending to client, when client signs get number from db and count how many signatures are in inputs since inputs only shows the signatures completed
 - [ ] unit file - notify user that inventory isnt assigned, same with setting it to sold
-- [x] take note from ticket.dealerid and update financeids notes, check out notes on acc and wo since tickets version is alot nicer and cleaner
 - [ ] Unit Notifier - Never miss a sales opportunity again. Our intelligent alert system automatically notifies customers when their desired vehicle arrives in inventory, creating instant sales opportunities
 - [ ] test new mgrs calculator implementation
 - [ ] create page to create, edit currentMY
@@ -98,15 +76,4 @@
 - [ ] questions
 - [ ] how do u want to discount items
 
-- [x] create section to modify varaibles for client facing site
-- [x] move roles to dev so you can control the dealers roles from there
-- [x] need to subscription portal
-- [x] ALL TABLES - for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables, we are pull data a lot more effeciently than activix so it doesnt slow down as much as theirs, tested at 1000
-- [x] combine portal/admin/overview and admin/settings/geenral
-- [x] finish poprtal/admin/inventory/unit/create,  stock data is already created from current model years, just need to add model names ( i think ) to each of the database entries
-- [x] make it so in the dev menu u can choose which brands each dealer has
-- [x] to login as any dealer user, have seperate dealer site where its closed off to everyone but dev and have the authentication login as user with their dealers db
-- [x] log into any dealers site - completed ensure dev user so you can log into any website
-- [x] the reason why http://localhost:3000/portal/sales/inventory/UNIT_1 is having weird scrolling issues is because it does not have a parent route providing the layout for it so move inventory to inventory.data, then make inventory the parent route and set overflow-y-auto so the whole page scrolls and not some weird looking container thing
 
-- [x] trest1234
