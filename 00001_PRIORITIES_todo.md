@@ -37,6 +37,7 @@
 - [ ] mass email - need to redo
 - [x] need to redo clientfile
 - [ ] make sms and email client draggable
+- [x] put combo box in text editor for atributes
 
 
 - [ ] -------- INVENTORY --------
