@@ -36,7 +36,7 @@
 - [ ] sales quotes tab, finish actions 
 - [ ] sales finance app, require clienbt to upload dl
 - [ ] in client portal sales quotes tab, finish actions 
-- [ ] in client portal sales finance app, require clienbt to upload dl
+- [x] in client portal sales finance app, require clienbt to upload dl
 - [ ] ned to finish off the action in book service
 - [ ] need to create `/dealer/currentMY/reserveNow/${model.id}`
 - [ ] need to create `/dealer/currentMY/contact/${model.id}`
