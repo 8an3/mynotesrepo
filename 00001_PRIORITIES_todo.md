@@ -2,7 +2,7 @@
 
 - [ ] stock data dialog
 - [ ] how do csis go to customers
-- [ ] when making free for all users, have a way for sales managers to join and see their teams stats, when sales people sign up they will have to assign themselves a dealer
+
 - [ ] when creating currentMYModels make sure they attach to the dealer in the database
 - [ ] need to update create currentMY page
 - [ ] need to add finance buffer somewhere in admin
