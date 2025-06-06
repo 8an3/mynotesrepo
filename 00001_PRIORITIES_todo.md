@@ -42,7 +42,7 @@
 - [ ] need to create `/dealer/currentMY/contact/${model.id}`
 - [ ] and do something with the save feature from the byo
 - [ ] service scheduler
-- [ ] for client site we need to filter out current my units that are displayed by the current year
+- [ ] for client site we need to filter out current my units that are displayed by the current year, already updated sales/options so we can copy it from there
 - [ ] need to update client site configurator to accomadate more complex models ie manitou
 
 
@@ -55,7 +55,7 @@
 
 
 - [ ] -------- TUTORIALS AND REFERENCE --------
-- [x] in getting started page u explain that each section has a tutorial on the page it self... need to add those
+- [ ] in getting started page u explain that each section has a tutorial on the page it self... need to add those
 - [x] need to add legend for docs, Service Work Order, Bill Of Sale, so as to know which when they create the docs
 - [ ] finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
 
