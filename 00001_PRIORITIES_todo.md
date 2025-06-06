@@ -2,7 +2,7 @@
 
 - [ ] stock data dialog
 - [ ] how do csis go to customers
-
+- [ ] admin - display punch clock values so admin can easily do payroll
 - [ ] when creating currentMYModels make sure they attach to the dealer in the database
 - [ ] need to update create currentMY page
 - [ ] need to add finance buffer somewhere in admin
