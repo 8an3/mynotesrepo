@@ -1,111 +1,11 @@
 # COMPLETED
-- [x] finish - parts request, copy over from client site or maybe put a button that says already a client?? login and divert to client portal version as it will populate all client fields
-- [x] -------- SEARCHES --------
-- [x] change from manual filtering to fuse
-- [x] -------- TICKETS --------
-- [x] for finance managers add call queue, that sales people can add clients too can use ticketing system for this
-- [x] move webleads to ticketing system have it so depending on the label it shows different menus and buttons to deal with it
-- [x] rTChatMessages.create need to search app and switch for tickets instead
-- [x] once assigned, display button to navaigate there
-- [x] added more models to inventory schema need to update that
-- [x] add button to listings, so when they go over inventory with sales staff they can just click create unit file, then displays a command dialog to select a client or create a new one
-- [x] finish off accessorise
-- [x] create pages for button on inventory page, to create unit files
-- [x] page removed - virtual tour moved to components/clientsite
-- [x] page removed -  { title: "Build Your Own", url: URLS.BYO },
-- [x] page removed - promotions serfvices sales and pac, now once page
-- [x] page removed - photo gallery
-- [x] page removed -  blog
-- [x] page removed - newsletter
-- [x] when the rest of the site is compelte work on parts and accesssories
-- [x] finish off nav users items
-- [x] reserveNow.dealerid has the client login and return process done already to copy off of
-- [x] go through new lead process and all other customer contact processes
-- [x] finish off Web Lead process
-- [x] admin creates basic unit with not much filled in to rely on sales to polish listing off, while creating it searches in its default data pool of images, searches by model name and grabs all images associated with it, then its description, specs, and other items so once its saved and viewed on the webiste it looks like someone had gone over and polished everything over
-- [x] when clients go to book their own appotinement with sales use the reserveNow.dealerid has the client login and return process done already to copy off of so that clients are seraching for an email and could potentially get other peoples emails from that
-- [x] make it so if the file is already assigned to someone that they cant be contacted by another sales person, or display an alert diaolog warning that its already someones elses file
-- [x] unit file - need to make trade in form i think this is done
-- [x] addUnit.tsx
-- [x] unit.$dealerId.tsx
-- [x] -------- HOME PAGE --------
-- [x] add variable to env variables to check to see if this is a dealers site or not, if dealers site redirectr to client face site
-- [x] -------- AUTH ---------
-- [x] custom oauth in compoents/microsoft/custom.login.tsx
-- [x] finish off contact us process
-- [x] finish off Reserve Now process
-- [x] finish off Finance App process
-- [x] finish off Information Request process
-- [x] finish off Test Drive Request process
-- [x] finish off Trade In Request process
-- [x] finish off assign to client buttons
-- [x] add login for dealers users for crm
-- [x] move client portal to client facing site that way it prefills in form for them and its less confusing to use and seems like one big system
-- [x] unit listings, make it extremely easy for client to book appoinments, request call back, secure unit with deposit, give needed info upfront with the option to view all info
-- [x] add button to listings only visibile to sales, so when they go over inventory with sales staff they can just click create unit file, then displays a command dialog to select a client or create a new one
-- [x] button for client to leave deposit 
-- [x] custom banner
-- [x] custom color scheme
-- [x] custom carasel
-- [x] post customer reviews
-- [x] custom sections - cleint can put as many as they want they just get taecced at the bottom of the front page
-- [x] Would need to design system for inventory for front end and give the ability for customer leave a deposit with e-transfer or leave their card info for sales staff to process when they can, in sales section add the ability for editing the listing and add pictures, listings would be pre populated by current inventory so you don't have to add anymore listings, this would also be good to work with auto trader and other platforms would have to create this later because I don't know if I should populate a http response with CSV data or an API route to send the needed data to the platform to create and update listings 
-- [x] front end as well except parts and accessories where it links to their own current providor so the landing page, and such copy Ottawa Harley Davidson pages and layout to have the same format, have sister area in admin section where dealer can fill in information that doesn't get auto filled plus a place where they can upload main photos to display their brand, althought put features like unit ediitng in portal staff so all users can edit inventory along with other items like that
-- [x] moving all client coms to tickets
-- [x] web leads
-- [x] incoming finance apps
-- [x] display undone tickets in right side bar for each dept
-- [x] the contact us page
-- [x] inquire for more information on unit
-- [x] reserve bike
-- [x] filter by user when first opened
-- [x] need to create replyAll, forwardAll, reply and forward responses for microsoft server - these functions are sent by the editor
-- [x] email working again but needs a little bit of work to be finsihed
-- [x] order dash, same as inventory count but you go around scanning items and slecting a quantity to purchase in managers dash
-- [x] dynamic
-- [x] currently working - need to attach to components and find a way to turn on or off pending payment by customer
-- [x] websockets in remix
 
-- [x] create the 'wall', a table of just stats and stats not for everyone but try to break verything down -- for range date pick see shad cd examples cards, middle row third from the top
-- [x] FIX MANAGER SECTION
-- [x] FIX ADMIN SECTION
-- [x] manager / dash fix sales stats section and finish page... just redo the leadersboard section in manager menu x sales people and have a section of all open contracts and have filters on the table to easily search for customers with refunds certain amount of time not contacted etc tabs have dash like sales person then have a tab for each sales person and their stats
-- [x] admin dashboard - when going over clients and other objects ie for clients open dialog on left have nave men`u with a first level of items such as finance work order acc order and the when you click on it you can then click on the tabs for each layer on that data segment
-- [x] end of day report sales people arent printing out
-- [x] super in depth sales stats to dive in to each process and where you can improve
-- [x] for sales stats and end of day amounts create a dashboard to go with the printouts
-- [x] have your own csi reporting for the dealer that can be sent to customers JUST NEED TO MAKE MOCK EMAIL FOR IT
-- [x] make a bill of sale where it prints the items off of acc and parts orders - KIND OF ALREADY DONE BY PUSHING ACC TOTAL TO BOS BUT DOES NOT ITEMIZE ITEMS
-- [x] Owners dashboard
-- [x] Owner Section
-- [x] https://codesandbox.io/p/devbox/cranky-wiles-r6n472?file=%2Fapp%2Fcontext.tsx shows how to setup socket.io inside a Express server and together with a Remix app and how to connect from the browser.
-- [x] double check dealer/sales/customer/clietfile/financeid supposed to pull evreything from finance only at quote does it pull from dealerfees
-- [x] dashboard - to manage the dealers
-- [x] AI writing partner for emails, templates and scripts - done in components folder
-- [x] sales / customer / clientid / finance id -- replace payments dialog with -- https://github.com/shadcn-ui/ui/blob/1081536246b44b6664f4c99bc3f1b3614e632841/apps/www/components/cards/data-table.tsx#L203
-- [x] use the same idea and apply the same filter in calendar and see if it works beter
-- [x] need to add a cancel button to customer date lists so if needed can revert bakc to null
-- [x] need to update filter functions to new format in sales calendar - new filter adds the ability to match against a group of dates / maybe have a mixutre of them for the general filters
-- [x] NO CATEGORY - sent canadian blue another email, stating we wil sell it for them ... or let them keep the clients and profits in whatever fashion they want. CONTACTED AWAITING WORD BACK
-- [x] Uncaught ReferenceError: item is not defined    at Object.onClick (notifications.tsx:197:41)
-- [x] sent canadian blue another email, stating we wil sell it for them ... or let them keep the clients and profits in whatever fashion they want. CONTACTED AWAITING WORD BACK
-- [X] discount with passwords
 - [x] https://www.dealersalesassistant.ca/authportal/createSession/undefined
 - [x] on unit file have button to request trade in appraisal 
 - [x] Need to fill in faq andwers
 - [x] NO CATEGORY - Uncaught ReferenceError: item is not defined    at Object.onClick (notifications.tsx:197:41)
 - [x] Features why and the advantage check to see if it's better just to do one page instead too much reading
-- [x] https://www.dealersalesassistant.ca/items/pricing mobile view looks terrible
-- [ ] - [x] regular snippet viewer isnt searching through snippers
-- [x] MOBILE - finish pwa integration
-- [x] MOBILE - was working on editor function last 
-- [x] MOBILE - issue with selecting repo 
-- [x] MOBILE - auto sync needs to be hooked up
-- [x] NRCSync - need to add delete option for right clicking 
-- [x] NRCSync - dynamicly adjustabel height textarea based on how many lines of text
-- [x] NRCSync - have it so when u click to toggle a todo item to be completed have it so it doesnt open the file
-- [x] NRCSync - issue with pulling... but weirdly save pushes just fine....
-- [x] VSCode - when creating notes filename prefix isnt working correctly
+- [x] https://www.dealersalesassistant.ca/items/pricing mobile view needs to be redone
 - [x] NAV - Default Apps Configuration
 - [x] NAV - need to make it move from workspace to workspace and delete default folders
 - [x] NAV - selecting edit in snippet viewer doesnt work
@@ -140,5 +40,35 @@
 - [x] -------- Side bar --------
 - [x] put in right side bar?
 - [x] tickets in sidebar?
-
+- [x] create section to modify varaibles for client facing site
+- [x] move roles to dev so you can control the dealers roles from there
+- [x] need to subscription portal
+- [x] ALL TABLES - for controlling the amount of rows loading at a time on a dashboard look at pagination controlled from react tables, we are pull data a lot more effeciently than activix so it doesnt slow down as much as theirs, tested at 1000
+- [x] combine portal/admin/overview and admin/settings/geenral
+- [x] finish poprtal/admin/inventory/unit/create,  stock data is already created from current model years, just need to add model names ( i think ) to each of the database entries
+- [x] make it so in the dev menu u can choose which brands each dealer has
+- [x] to login as any dealer user, have seperate dealer site where its closed off to everyone but dev and have the authentication login as user with their dealers db
+- [x] log into any dealers site - completed ensure dev user so you can log into any website
+- [x] the reason why http://localhost:3000/portal/sales/inventory/UNIT_1 is having weird scrolling issues is because it does not have a parent route providing the layout for it so move inventory to inventory.data, then make inventory the parent route and set overflow-y-auto so the whole page scrolls and not some weird looking container thing
+- [x] -------- ACCESSORIES --------
+- [x] need to auto inventory order to inventory page so you know what to order due to min levels compared to in stock
+- [x] take note from ticket.dealerid and update financeids notes, check out notes on acc and wo since tickets version is alot nicer and cleaner
+- [x] -------- ADMIN --------
+- [x] added bio to user
+- [x] redo /admin/users/user.$userId
+- [x] finish /admin/users/user.create
+- [x] finish /admin/inventory/unit/create need to make sure it pulls stock data when creating
+- [x] dealers dialog
+- [x] clients dialog
+- [x] client site dialog
+- [x] data scraper
+- [x] ie dialog
+- [x] reports dialog 
+- [x] IMAGES - for image uploads either
+- [x] IMAGES - convert to data uri to store and convert back on load like in /portal/admin/dashboard
+- [x] IMAGES - store as blob, started in /portal/api/image/create
+- [x] users dialog
+- [x] what about viewing completed csis
+- [x] need to redo scrapers
+- [x] look at the whole process of changing a deal, from the manager to the unit file
 
