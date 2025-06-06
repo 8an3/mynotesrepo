@@ -13,7 +13,7 @@
 - [x] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
 - [ ] show sales funnel percentages appts to quotes to sales converted
 - [ ] UNITFILE - Need to somehow get all the totals from the finance tab to the deposits tab maybe use redux somehow....
-- [ ] remove bmwmoto and manoptions from finance calc
+- [x] remove bmwmoto and manoptions from finance calc
 - [ ] need to update options overview in sales - once options are selected we need to add the total together and save it to the finance object to be used in the finance calc
 - [ ] need a way to input custom line items for bos so extra items can be inputted
 - [ ] unit file - need to find a way to see if all signatures have beeen signed, maybe add new field in the schema that couunts all the signatures when the user saves beforesending to client, when client signs get number from db and count how many signatures are in inputs since inputs only shows the signatures completed
