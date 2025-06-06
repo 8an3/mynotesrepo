@@ -67,7 +67,7 @@
 - [x] in order for dealers to have the latest data for the roadmap we need to make it an api request to the main website, which may not work due to cors...
 - [ ] CHECK SUBSCRIPTION move to dev and the last day of the month run the script through automation, or set up an api to get the alerts
 - [x] in loader put const partnerSite = dealer.partnerSite to gain access to calendar site
-- [ ] DEV / CONTROLPANEL when saving dealer details save projectName
+- [ ] DEV / CONTROLPANEL vercel api response when saving dealer details save projectName
 - [x] need dashboard to connect to all the dealers dashboards
 - [ ] DASHBOARD - to manage phone numbers for users
 - [ ] DASHBOARD - to monitor / and charge correct amounts for text / voice / email
