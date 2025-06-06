@@ -54,6 +54,3 @@ https://www.youtube.com/watch?v=-0Qi0yMyLwQ optimistic add for modifying forms f
 - [ ] IMPROVE USER EXP - Optimizing Network Requests: Minimize the number of network requests made by bundling data together where possible using HTTP/2 to reduce connection overhead and compressing data responses with GZIP or Brotli
 - [x] IMPROVE USER EXP - Client-Side State Management: If your app has frequent server interactions for small bits of data consider using a global state management solution like Zustand or Redux to store data in memory where possible to reduce server calls
 
-- [ ] -------- SHIT IDEAS --------
-- [ ] finance section in finance file have it where it can be switch to manual mode only where there are no calculations being done
-- [ ] SHIT IDEAS - dynamic dashboard widgets
