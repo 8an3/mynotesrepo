@@ -25,6 +25,7 @@
 - [ ] dealer/accessories/newOrder/cm06lhi4u0001lb03xvaq4gwu print receipt not working in prod
 - [ ] mass email - need to redo
 - [x] need to redo clientfile
+- [ ] make sms and email client draggable
 
 
 - [ ] -------- INVENTORY --------
