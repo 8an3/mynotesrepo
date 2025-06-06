@@ -65,7 +65,7 @@
 - [ ] CHECK SUBSCRIPTION move to dev and the last day of the month run the script through automation, or set up an api to get the alerts
 - [x] in loader put const partnerSite = dealer.partnerSite to gain access to calendar site
 - [ ] DEV / CONTROLPANEL when saving dealer details save projectName
-- [ ] need dashboard to connect to all the dealers dashboards
+- [x] need dashboard to connect to all the dealers dashboards
 - [ ] DASHBOARD - to manage phone numbers for users
 - [ ] DASHBOARD - to monitor / and charge correct amounts for text / voice / email
 - [ ] DASHBOARD - manager potential customer base
