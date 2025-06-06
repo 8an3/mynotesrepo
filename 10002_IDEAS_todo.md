@@ -3,6 +3,7 @@
 - [x] DASHBOARDS - whenever you have time test with 2500, 5000 data objects to see if we need to paginate server side
 - [ ] ping users cell phones when email or text comes through in the crm ensures they get notified even when they are away from desk
 - [ ] free for single users? with paid upgrades? ie email sms phone calls
+- [ ] when making free for all users, have a way for sales managers to join and see their teams stats, when sales people sign up they will have to assign themselves a dealer
 - [ ] payment processor for purchases?
 - [ ] cross platform ad manager, post it once here and push it to different providors
 
