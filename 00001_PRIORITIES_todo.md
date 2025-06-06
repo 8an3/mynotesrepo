@@ -54,7 +54,7 @@
 
 - [ ] -------- TUTORIALS AND REFERENCE --------
 - [ ] in getting started page u explain that each section has a tutorial on the page it self... need to add those
-- [ ] need to add legend for docs, Service Work Order, Bill Of Sale, so as to know which when they create the docs
+- [x] need to add legend for docs, Service Work Order, Bill Of Sale, so as to know which when they create the docs
 - [ ] finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
 
 
