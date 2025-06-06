@@ -1,24 +1,20 @@
 # PRIORITIES
 
-
-- [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
 - [ ] stock data dialog
 - [ ] how do csis go to customers
 - [ ] when making free for all users, have a way for sales managers to join and see their teams stats, when sales people sign up they will have to assign themselves a dealer
-- [ ] show sales funnel percentages appts to quotes to sales converted
-- [ ] for client site we need to filter out current my units that are displayed by the current year
 - [ ] when creating currentMYModels make sure they attach to the dealer in the database
-- [ ] need to update client site configurator to accomadate more complex models ie manitou
-- [ ] need to update options overview in sales - once options are selected we need to add the total together and save it to the finance object to be used in the finance calc
 - [ ] need to update create currentMY page
-- [ ] UNITFILE - Need to somehow get all the totals from the finance tab to the deposits tab maybe use redux somehow....
-- [ ] remoive bmwmoto and manoptions from finance calc
 - [ ] need to add finance buffer somewhere in admin
-- [ ] need a way to input custom line items for bos so extra items can be inputted
 
 
 - [ ] -------- SALES --------
-- [ ] mass email - need to redo
+- [ ] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
+- [ ] show sales funnel percentages appts to quotes to sales converted
+- [ ] UNITFILE - Need to somehow get all the totals from the finance tab to the deposits tab maybe use redux somehow....
+- [ ] remove bmwmoto and manoptions from finance calc
+- [ ] need to update options overview in sales - once options are selected we need to add the total together and save it to the finance object to be used in the finance calc
+- [ ] need a way to input custom line items for bos so extra items can be inputted
 - [ ] unit file - need to find a way to see if all signatures have beeen signed, maybe add new field in the schema that couunts all the signatures when the user saves beforesending to client, when client signs get number from db and count how many signatures are in inputs since inputs only shows the signatures completed
 - [ ] unit file - notify user that inventory isnt assigned, same with setting it to sold
 - [ ] Unit Notifier - Never miss a sales opportunity again. Our intelligent alert system automatically notifies customers when their desired vehicle arrives in inventory, creating instant sales opportunities
@@ -26,7 +22,10 @@
 - [ ] create page to create, edit currentMY
 - [ ] make sure finance handoff works
 - [ ] dealer/accessories/newOrder/cm06lhi4u0001lb03xvaq4gwu print receipt not working in prod
+- [ ] mass email - need to redo
 - [ ] need to redo clientfile
+
+
 - [ ] -------- INVENTORY --------
 - [ ] refunded deposit button to remove it from unit file and put it back up for sale
 - [ ] setting to sold, use seearch command search to search for unit file
@@ -41,18 +40,21 @@
 - [ ] need to create `/dealer/currentMY/contact/${model.id}`
 - [ ] and do something with the save feature from the byo
 - [ ] service scheduler
+- [ ] for client site we need to filter out current my units that are displayed by the current year
+- [ ] need to update client site configurator to accomadate more complex models ie manitou
+
 
 - [ ] -------- SERVICE --------
 - [ ] SERVICE WRITER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
 - [ ] WORKORDER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
 - [ ] WORKORDER - scheduler for empty brands have it select all technicians
+- [ ] service scheduler
+
 
 - [ ] -------- TUTORIALS AND REFERENCE --------
 - [ ] in getting started page u explain that each section has a tutorial on the page it self... need to add those
 - [ ] need to add legend for docs, Service Work Order, Bill Of Sale, so as to know which when they create the docs
 - [ ] finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
-
-
 
 
 - [ ] -------- DEV --------
@@ -67,6 +69,7 @@
 - [ ] DASHBOARD - to monitor / and charge correct amounts for text / voice / email
 - [ ] DASHBOARD - manager potential customer base
 - [ ] DASHBOARD - manage authentication for emergencies for dealers
+- [ ] add cors to /portal/dev/api/roadmap
 
 
 - [ ] -------- 613 MOTORSPORTS ---------
