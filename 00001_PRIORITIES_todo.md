@@ -1,6 +1,6 @@
 # PRIORITIES
 
-- [ ] stock data dialog
+- [x] stock data dialog
 - [ ] how do csis go to customers
 
 - [ ] when creating currentMYModels make sure they attach to the dealer in the database
