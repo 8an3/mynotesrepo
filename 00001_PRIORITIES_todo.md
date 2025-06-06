@@ -7,6 +7,7 @@
 - [ ] need to update create currentMY page
 - [ ] need to add finance buffer somewhere in admin
 - [ ] need to do quick walkthrough video from main site for dealers to look at 
+- [ ] admin need to update DealRequest due to schema change
 
 
 - [ ] -------- SALES --------
