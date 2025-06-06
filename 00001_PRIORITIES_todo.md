@@ -24,7 +24,7 @@
 - [ ] make sure finance handoff works
 - [ ] dealer/accessories/newOrder/cm06lhi4u0001lb03xvaq4gwu print receipt not working in prod
 - [ ] mass email - need to redo
-- [ ] need to redo clientfile
+- [x] need to redo clientfile
 
 
 - [ ] -------- INVENTORY --------
