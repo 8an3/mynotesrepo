@@ -1,6 +1,6 @@
 # IDEAS
 
-- [ ] DASHBOARDS - whenever you have time test with 2500, 5000 data objects to see if we need to paginate server side
+- [x] DASHBOARDS - whenever you have time test with 2500, 5000 data objects to see if we need to paginate server side
 - [ ] ping users cell phones when email or text comes through in the crm ensures they get notified even when they are away from desk
 - [ ] free for single users? with paid upgrades? ie email sms phone calls
 - [ ] payment processor for purchases?
