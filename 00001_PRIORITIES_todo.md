@@ -27,6 +27,8 @@
 - [ ] redo mobile service cal
 - [x] redo sales dashbaord
 - [x] redo employeee schedulers
+- [ ] redo sales right side bar
+- [ ] redo service right sidebar
 
 
 - [ ] -------- SALES --------
