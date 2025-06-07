@@ -82,6 +82,8 @@
 - [ ] @react-pdf/renderer: Used for PDF generation
 - [ ] react-pdf: Used for PDF viewing
 - [ ] PDF Signing Libraries Best Option: pdf-lib + custom implementation Why: Most flexible approach for Remix  Implementation Strategy: Use pdf-lib to add signature fields Implement your own signing workflow Store signature events in your database
+- [ ] Winner for Viewing Efficiency:✅ Blob (better for pure viewing, especially large documents).
+- [ ] Winner for Form Inputs & Signing:✅ DOM (PDFViewer) (easier to overlay interactive elements).
 
 
 - [ ] -------- INVENTORY --------
