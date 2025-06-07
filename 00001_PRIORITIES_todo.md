@@ -25,6 +25,8 @@
 - [ ] redo sales calendar
 - [ ] redo sales mobile calendar
 - [ ] redo mobile service cal
+- [x] redo sales dashbaord
+- [x] redo employeee schedulers
 
 
 - [ ] -------- SALES --------
