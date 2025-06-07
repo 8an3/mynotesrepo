@@ -46,6 +46,15 @@
 - [x] need to redo clientfile
 - [ ] make sms and email client draggable
 - [x] put combo box in text editor for atributes
+- [ ] pdf - create and print pdfs
+- [ ] pdf - view pdfs
+- [ ] pdf - sign pdfs
+- [ ] pdf - create form on pdf
+- [ ] pdf - edit form on pdf
+- [ ] pdf - create template
+- [ ] pdf - add pdf or image as background
+- [ ] pdf - map fields on x and y axis so you can map inputted data
+- [ ] pdf - save information in meta data, opened time, amount of signatures, amount signed etc
 
 
 - [ ] -------- INVENTORY --------
