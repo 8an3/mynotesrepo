@@ -1,6 +1,6 @@
 # PRIORITIES
 
-- [ ] stock data dialog
+- [ ] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
 - [ ] how do csis go to customers
 - [ ] admin - display punch clock values so admin can easily do payroll
 - [ ] when creating currentMYModels make sure they attach to the dealer in the database
@@ -22,7 +22,6 @@
 - [ ] redo tech cal
 - [ ] redo delivery cal
 - [ ] service cal
-- [ ] 
 
 
 - [ ] -------- SALES --------
