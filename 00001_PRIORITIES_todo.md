@@ -22,6 +22,10 @@
 - [ ] redo tech cal
 - [ ] redo delivery cal
 - [ ] service cal
+- [ ] redo sales calendar
+- [ ] redo sales mobile calendar
+- [ ] redo mobile service cal
+- [ ] 
 
 
 - [ ] -------- SALES --------
