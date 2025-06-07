@@ -46,6 +46,9 @@
 - [x] need to redo clientfile
 - [ ] make sms and email client draggable
 - [x] put combo box in text editor for atributes
+
+
+- [ ] -------- PDF --------
 - [ ] pdf - create and print pdfs
 - [ ] pdf - view pdfs
 - [ ] pdf - sign pdfs
@@ -55,6 +58,30 @@
 - [ ] pdf - add pdf or image as background
 - [ ] pdf - map fields on x and y axis so you can map inputted data
 - [ ] pdf - save information in meta data, opened time, amount of signatures, amount signed etc
+- [ ] Signature Tracking: 
+- [ ] Store when a client opens a document 
+- [ ] Track signature completion 
+- [ ] Send notifications
+- [ ] Template Management: 
+- [ ] Save templates to database 
+- [ ] Load existing templates 
+- [ ] Preview templates with sample data
+- [ ] Label Generation: 
+- [ ] QR code integration 
+- [ ] Dynamic label layouts 
+- [ ] Batch printing
+- [ ] Database Integration: 
+- [ ] Connect to your existing database 
+- [ ] Fetch data for PDF generation 
+- [ ] Store completed documents
+- [ ] Set up your database models for templates and documents 
+- [ ] Implement authentication for clients to sign documents 
+- [ ] Add more field types (text, images, QR codes) 
+- [ ] Implement drag-and-drop for the template builder 
+- [ ] Add PDF generation with @react-pdf/renderer or similar library
+- [ ] @react-pdf/renderer: Used for PDF generation
+- [ ] react-pdf: Used for PDF viewing
+- [ ] PDF Signing Libraries Best Option: pdf-lib + custom implementation Why: Most flexible approach for Remix  Implementation Strategy: Use pdf-lib to add signature fields Implement your own signing workflow Store signature events in your database
 
 
 - [ ] -------- INVENTORY --------
