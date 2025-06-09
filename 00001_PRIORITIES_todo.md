@@ -24,7 +24,7 @@
 - [ ] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
 - [ ] for sales calendar have appoinemtns show up on the right, appts change depending on the day selected, clicking on a appt display the appt in the footer
 - [ ] redo tech cal
-- [ ] redo delivery cal
+- [x] redo delivery cal
 - [ ] service cal
 - [ ] redo sales calendar
 - [ ] redo sales mobile calendar
