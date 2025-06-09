@@ -13,22 +13,23 @@
 - [ ] create scripts viewer that is movable so sales people can move it around the screen or close when needed
 - [ ] unicorn search needs to be completed
 - [ ] started on creating my own pdf me
+- [ ] in the right side bar header put a left and right chevron on the ends to control the days of the calendar without having to open it
 
 - [ ] -------- CALENDAR --------
-- [ ] with event slots - right side bar service calendar, and sales calendar, mobile sales calendar, mobile service calendar, mobile and regular tech calendar ----!!!! try to combine with inline time picker for sales appointment setter
+- [x] with event slots - right side bar service calendar, and sales calendar, mobile sales calendar, mobile service calendar, mobile and regular tech calendar ----!!!! try to combine with inline time picker for sales appointment setter
 - [ ] time presets - service appointment setter
 - [ ] multi month and selections - time off selector
 - [ ] dob / dobDrawer - client file, turn dob drawer into the response diaolog and drawer
 - [x] time picker inline or regualr - csales dashbaord appointment setter
 - [ ] chart filter - end of day reports, reports, leaderboasrd, sales stats
-- [x] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
-- [x] for sales calendar have appoinemtns show up on the right, appts change depending on the day selected, clicking on a appt display the appt in the footer
+- [ ] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
+- [ ] for sales calendar have appoinemtns show up on the right, appts change depending on the day selected, clicking on a appt display the appt in the footer
 - [ ] redo tech cal
 - [x] redo delivery cal
-- [x] service cal
+- [ ] service cal
 - [x] redo sales calendar
 - [ ] redo sales mobile calendar
-- [x] redo mobile service cal
+- [ ] redo mobile service cal
 - [x] redo sales dashbaord
 - [x] redo employeee schedulers
 - [x] redo sales right side bar
@@ -55,7 +56,7 @@
 - [ ] make sms and email client draggable
 - [x] put combo box in text editor for atributes
 - [ ] should go over notificationsUser.create at some point
-- [x] show unread emails in side bar? and text messages?
+- [ ] show unread emails in side bar? and text messages?
 
 
 
