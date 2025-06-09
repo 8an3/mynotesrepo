@@ -15,20 +15,20 @@
 - [ ] started on creating my own pdf me
 
 - [ ] -------- CALENDAR --------
-- [x] with event slots - right side bar service calendar, and sales calendar, mobile sales calendar, mobile service calendar, mobile and regular tech calendar ----!!!! try to combine with inline time picker for sales appointment setter
+- [ ] with event slots - right side bar service calendar, and sales calendar, mobile sales calendar, mobile service calendar, mobile and regular tech calendar ----!!!! try to combine with inline time picker for sales appointment setter
 - [ ] time presets - service appointment setter
 - [ ] multi month and selections - time off selector
 - [ ] dob / dobDrawer - client file, turn dob drawer into the response diaolog and drawer
 - [x] time picker inline or regualr - csales dashbaord appointment setter
 - [ ] chart filter - end of day reports, reports, leaderboasrd, sales stats
-- [ ] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
+- [x] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
 - [x] for sales calendar have appoinemtns show up on the right, appts change depending on the day selected, clicking on a appt display the appt in the footer
 - [ ] redo tech cal
 - [x] redo delivery cal
-- [ ] service cal
+- [x] service cal
 - [x] redo sales calendar
 - [ ] redo sales mobile calendar
-- [ ] redo mobile service cal
+- [x] redo mobile service cal
 - [x] redo sales dashbaord
 - [x] redo employeee schedulers
 - [x] redo sales right side bar
