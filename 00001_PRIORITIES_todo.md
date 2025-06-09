@@ -26,7 +26,7 @@
 - [ ] redo tech cal
 - [x] redo delivery cal
 - [x] service cal
-- [x] redo sales calendar
+- [ ] redo sales calendar
 - [ ] redo sales mobile calendar
 - [x] redo mobile service cal
 - [x] redo sales dashbaord
