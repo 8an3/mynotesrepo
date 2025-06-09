@@ -15,7 +15,7 @@
 - [ ] started on creating my own pdf me
 
 - [ ] -------- CALENDAR --------
-- [ ] with event slots - right side bar service calendar, and sales calendar, mobile sales calendar, mobile service calendar, mobile and regular tech calendar ----!!!! try to combine with inline time picker for sales appointment setter
+- [x] with event slots - right side bar service calendar, and sales calendar, mobile sales calendar, mobile service calendar, mobile and regular tech calendar ----!!!! try to combine with inline time picker for sales appointment setter
 - [ ] time presets - service appointment setter
 - [ ] multi month and selections - time off selector
 - [ ] dob / dobDrawer - client file, turn dob drawer into the response diaolog and drawer
