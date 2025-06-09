@@ -55,7 +55,7 @@
 - [ ] make sms and email client draggable
 - [x] put combo box in text editor for atributes
 - [ ] should go over notificationsUser.create at some point
-- [ ] show unread emails in side bar? and text messages?
+- [x] show unread emails in side bar? and text messages?
 
 
 
