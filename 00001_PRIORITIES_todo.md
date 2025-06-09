@@ -12,6 +12,7 @@
 - [x] admin user schduling  for dealers or schedules that are a bit more all over the place each userSchedule will need to have a date will have its own set day so i fixed the schema but i want to accomadte for both scheduling styles so the managers that can set a fixed schedule every week never have to come back to do this, but the managers that need to have more control in scheduling it also accomadats them too  can we change it to accomdate both styles?
 - [ ] create scripts viewer that is movable so sales people can move it around the screen or close when needed
 - [ ] unicorn search needs to be completed
+- [ ] started on creating my own pdf me
 
 - [ ] -------- CALENDAR --------
 - [ ] with event slots - right side bar service calendar, and sales calendar, mobile sales calendar, mobile service calendar, mobile and regular tech calendar ----!!!! try to combine with inline time picker for sales appointment setter
