@@ -1,5 +1,6 @@
 # PRIORITIES
 
+- [ ] left off at cal sidebar, had calendar working need to finish appt dialog, client im chat, email client is working but the ui is kinda funky
 - [ ] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
 - [ ] how do csis go to customers
 - [ ] admin - display punch clock values so admin can easily do payroll
