@@ -10,7 +10,7 @@
 - [ ] need to do quick walkthrough video from main site for dealers to look at 
 - [ ] admin need to update DealRequest due to schema change
 - [x] admin user schduling  for dealers or schedules that are a bit more all over the place each userSchedule will need to have a date will have its own set day so i fixed the schema but i want to accomadte for both scheduling styles so the managers that can set a fixed schedule every week never have to come back to do this, but the managers that need to have more control in scheduling it also accomadats them too  can we change it to accomdate both styles?
-- [ ] create scripts viewer that is movable so sales people can move it around the screen or close when needed
+- [x] create scripts viewer that is movable so sales people can move it around the screen or close when needed
 - [ ] unicorn search needs to be completed
 - [ ] started on creating my own pdf me
 - [x] in the right side bar header put a left and right chevron on the ends to control the days of the calendar without having to open it
