@@ -13,7 +13,7 @@
 - [ ] create scripts viewer that is movable so sales people can move it around the screen or close when needed
 - [ ] unicorn search needs to be completed
 - [ ] started on creating my own pdf me
-- [ ] in the right side bar header put a left and right chevron on the ends to control the days of the calendar without having to open it
+- [x] in the right side bar header put a left and right chevron on the ends to control the days of the calendar without having to open it
 - [x] sales dashboard when a client doesnt have a unit on file, isntead of how it is currently because it resets the dashbaord list anyways change it to open a dialog to select a brand and then a model, the brand list get actvated brands
 
 - [ ] -------- CALENDAR --------
