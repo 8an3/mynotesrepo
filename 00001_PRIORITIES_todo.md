@@ -1,6 +1,6 @@
 # PRIORITIES
 
-- [ ] left off at cal sidebar, had calendar working need to finish appt dialog, client im chat, email client is working but the ui is kinda funky, was trying to fix classname of content remove all heights as the sidebar takes car of the overflow y auto itself so we shouldnt be set that and those funky fucking flex-col that seems to completely disrup any overflow y auto before it
+- [x] left off at cal sidebar, had calendar working need to finish appt dialog, client im chat, email client is working but the ui is kinda funky, was trying to fix classname of content remove all heights as the sidebar takes car of the overflow y auto itself so we shouldnt be set that and those funky fucking flex-col that seems to completely disrup any overflow y auto before it
 - [ ] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
 - [ ] how do csis go to customers
 - [ ] admin - display punch clock values so admin can easily do payroll
