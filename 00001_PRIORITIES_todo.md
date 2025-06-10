@@ -15,6 +15,7 @@
 - [ ] started on creating my own pdf me
 - [x] in the right side bar header put a left and right chevron on the ends to control the days of the calendar without having to open it
 - [x] sales dashboard when a client doesnt have a unit on file, isntead of how it is currently because it resets the dashbaord list anyways change it to open a dialog to select a brand and then a model, the brand list get actvated brands
+- [ ] in sidebar filter by resource id
 
 - [ ] -------- CALENDAR --------
 - [x] with event slots - right side bar service calendar, and sales calendar, mobile sales calendar, mobile service calendar, mobile and regular tech calendar ----!!!! try to combine with inline time picker for sales appointment setter
