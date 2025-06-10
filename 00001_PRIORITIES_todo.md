@@ -30,7 +30,7 @@
 - [x] redo delivery cal
 - [ ] service cal
 - [x] redo sales calendar
-- [ ] redo sales mobile calendar
+- [x] redo sales mobile calendar
 - [ ] redo mobile service cal
 - [x] redo sales dashbaord
 - [x] redo employeee schedulers
