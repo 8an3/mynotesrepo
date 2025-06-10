@@ -21,7 +21,7 @@
 - [x] with event slots - right side bar service calendar, and sales calendar, mobile sales calendar, mobile service calendar, mobile and regular tech calendar ----!!!! try to combine with inline time picker for sales appointment setter
 - [ ] time presets - service appointment setter
 - [x] multi month and selections - time off selector
-- [ ] dob / dobDrawer - client file, turn dob drawer into the response diaolog and drawer
+- [x] dob / dobDrawer - client file, turn dob drawer into the response diaolog and drawer
 - [x] time picker inline or regualr - csales dashbaord appointment setter
 - [ ] chart filter - end of day reports, reports, leaderboasrd, sales stats
 - [ ] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
