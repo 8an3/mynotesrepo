@@ -20,7 +20,7 @@
 - [ ] -------- CALENDAR --------
 - [x] with event slots - right side bar service calendar, and sales calendar, mobile sales calendar, mobile service calendar, mobile and regular tech calendar ----!!!! try to combine with inline time picker for sales appointment setter
 - [ ] time presets - service appointment setter
-- [ ] multi month and selections - time off selector
+- [x] multi month and selections - time off selector
 - [ ] dob / dobDrawer - client file, turn dob drawer into the response diaolog and drawer
 - [x] time picker inline or regualr - csales dashbaord appointment setter
 - [ ] chart filter - end of day reports, reports, leaderboasrd, sales stats
