@@ -58,7 +58,7 @@
 - [ ] dealer/accessories/newOrder/cm06lhi4u0001lb03xvaq4gwu print receipt not working in prod
 - [ ] mass email - need to redo
 - [x] need to redo clientfile
-- [ ] make sms and email client draggable
+- [x] make sms and email client draggable
 - [x] put combo box in text editor for atributes
 - [ ] should go over notificationsUser.create at some point
 - [ ] show unread emails in side bar? and text messages?
