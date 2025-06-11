@@ -1,6 +1,6 @@
 # PRIORITIES
 
-- [ ] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
+- [x] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
 - [ ] how do csis go to customers
 - [ ] admin - display punch clock values so admin can easily do payroll
 - [ ] when creating currentMYModels make sure they attach to the dealer in the database
@@ -75,8 +75,8 @@
 - [ ] @react-pdf/renderer: Used for PDF generation
 - [ ] react-pdf: Used for PDF viewing
 - [ ] PDF Signing Libraries Best Option: pdf-lib + custom implementation Why: Most flexible approach for Remix  Implementation Strategy: Use pdf-lib to add signature fields Implement your own signing workflow Store signature events in your database
-- [ ] Winner for Viewing Efficiency:✅ Blob (better for pure viewing, especially large documents).
-- [ ] Winner for Form Inputs & Signing:✅ DOM (PDFViewer) (easier to overlay interactive elements).
+- [ ] Winner for Viewing Efficiency:â Blob (better for pure viewing, especially large documents).
+- [ ] Winner for Form Inputs & Signing:â DOM (PDFViewer) (easier to overlay interactive elements).
 
 
 - [ ] -------- INVENTORY --------
