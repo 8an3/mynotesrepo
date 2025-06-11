@@ -28,7 +28,7 @@
 - [x] for sales calendar have appoinemtns show up on the right, appts change depending on the day selected, clicking on a appt display the appt in the footer
 - [ ] redo tech cal
 - [x] redo delivery cal
-- [ ] service cal
+- [ ] service cal, have calendar on the left with the options of filtering, then everything to the right each column will be a technician, and displays each of their appointments through out the day, do custom drag and drop
 - [x] redo sales calendar
 - [x] redo sales mobile calendar
 - [x] redo mobile service cal
