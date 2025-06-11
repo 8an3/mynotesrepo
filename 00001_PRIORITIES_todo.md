@@ -31,7 +31,7 @@
 - [ ] service cal
 - [x] redo sales calendar
 - [x] redo sales mobile calendar
-- [ ] redo mobile service cal
+- [x] redo mobile service cal
 - [x] redo sales dashbaord
 - [x] redo employeee schedulers
 - [x] redo sales right side bar
