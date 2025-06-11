@@ -38,7 +38,7 @@
 - [ ] redo service right sidebar
 - [ ] neeed to add communications abilties to mobile sales dashboard
 - [ ] disable right sidebar for mobile?
-- [ ] sms is redone in calsidebar needs to be tested before moving to everyhwhere else, this is getting all chats, the other sms for client specfic is already done with new email and phone for dashbaords already in sales dashbaord
+- [x] sms is redone in calsidebar needs to be tested before moving to everyhwhere else, this is getting all chats, the other sms for client specfic is already done with new email and phone for dashbaords already in sales dashbaord
 
 
 - [ ] -------- SALES --------
