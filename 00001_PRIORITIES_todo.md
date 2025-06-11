@@ -36,6 +36,7 @@
 - [x] redo employeee schedulers
 - [x] redo sales right side bar
 - [ ] redo service right sidebar
+- [ ] neeed to add communications abilties to mobile sales dashboard
 
 
 - [ ] -------- SALES --------
