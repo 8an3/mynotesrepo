@@ -1,9 +1,9 @@
 # PRIORITIES
-
-- [x] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
-- [x] how do csis go to customers
-- [x] admin - display punch clock values so admin can easily do payroll
-- [x] when creating currentMYModels make sure they attach to the dealer in the database
+- [ ] left of on ntrsync, input in todo list losses focus really fast cant event type, one thing has to be fixes on notes and reminder id and everything else will be good to go
+- [ ] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
+- [ ] how do csis go to customers
+- [ ] admin - display punch clock values so admin can easily do payroll
+- [ ] when creating currentMYModels make sure they attach to the dealer in the database
 - [ ] need to update create currentMY page
 - [ ] need to add finance buffer somewhere in admin
 - [ ] need to do quick walkthrough video from main site for dealers to look at 
