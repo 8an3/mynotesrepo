@@ -3,7 +3,7 @@
 - [x] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
 - [x] how do csis go to customers
 - [x] admin - display punch clock values so admin can easily do payroll
-- [ ] when creating currentMYModels make sure they attach to the dealer in the database
+- [x] when creating currentMYModels make sure they attach to the dealer in the database
 - [ ] need to update create currentMY page
 - [ ] need to add finance buffer somewhere in admin
 - [ ] need to do quick walkthrough video from main site for dealers to look at 
