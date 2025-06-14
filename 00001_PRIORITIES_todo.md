@@ -20,7 +20,7 @@
 - [x] service cal, have calendar on the left with the options of filtering, then everything to the right each column will be a technician, and displays each of their appointments through out the day, do custom drag and drop
 - [ ] redo service right sidebar
 - [ ] neeed to add communications abilties to mobile sales dashboard
-- [ ] disable right sidebar for mobile?
+- [x] disable right sidebar for mobile?
 
 
 
