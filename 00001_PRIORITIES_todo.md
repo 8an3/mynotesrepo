@@ -17,7 +17,7 @@
 - [ ] chart filter - end of day reports, reports, leaderboasrd, sales stats
 - [ ] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
 - [x] redo tech cal
-- [ ] service cal, have calendar on the left with the options of filtering, then everything to the right each column will be a technician, and displays each of their appointments through out the day, do custom drag and drop
+- [x] service cal, have calendar on the left with the options of filtering, then everything to the right each column will be a technician, and displays each of their appointments through out the day, do custom drag and drop
 - [ ] redo service right sidebar
 - [ ] neeed to add communications abilties to mobile sales dashboard
 - [ ] disable right sidebar for mobile?
