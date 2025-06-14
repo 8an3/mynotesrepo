@@ -7,7 +7,7 @@
 - [ ] need to update create currentMY page
 - [x] need to add finance buffer somewhere in admin
 - [ ] need to do quick walkthrough video from main site for dealers to look at 
-- [ ] admin need to update DealRequest due to schema change
+- [ ] need to update admin due to schema change for DealRequest or whever deal requests are done
 - [ ] unicorn search needs to be completed
 - [x] started on creating my own pdf me
 
