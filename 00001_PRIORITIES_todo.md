@@ -51,7 +51,7 @@
 - [ ] pdf - create template
 - [ ] pdf - add pdf or image as background
 - [ ] pdf - map fields on x and y axis so you can map inputted data
-- [ ] pdf - save information in meta data, opened time, amount of signatures, amount signed etc
+- [x] pdf - save information in meta data, opened time, amount of signatures, amount signed etc
 - [ ] Signature Tracking: 
 - [ ] Store when a client opens a document 
 - [ ] Track signature completion 
