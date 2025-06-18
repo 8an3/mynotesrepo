@@ -67,7 +67,7 @@
 - [x] Database Integration: 
 - [x] Connect to your existing database 
 - [x] Fetch data for PDF generation 
-- [ ] Store completed documents
+- [x] Store completed documents
 - [ ] Set up your database models for templates and documents 
 - [ ] Implement authentication for clients to sign documents 
 - [ ] Add more field types (text, images, QR codes) 
