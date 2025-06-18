@@ -71,7 +71,7 @@
 - [x] Set up your database models for templates and documents 
 - [x] Implement authentication for clients to sign documents 
 - [x] Add more field types (text, images, QR codes) 
-- [ ] Implement drag-and-drop for the template builder 
+- [x] Implement drag-and-drop for the template builder 
 - [ ] Add PDF generation with @react-pdf/renderer or similar library
 - [ ] @react-pdf/renderer: Used for PDF generation
 - [ ] react-pdf: Used for PDF viewing
