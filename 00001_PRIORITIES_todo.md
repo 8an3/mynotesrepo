@@ -54,7 +54,7 @@
 - [x] pdf - save information in meta data, opened time, amount of signatures, amount signed etc
 - [x] Signature Tracking: 
 - [x] Store when a client opens a document 
-- [ ] Track signature completion 
+- [x] Track signature completion 
 - [ ] Send notifications
 - [ ] Template Management: 
 - [ ] Save templates to database 
