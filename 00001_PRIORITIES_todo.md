@@ -17,6 +17,7 @@
 - [ ] need to create action and add forms to on drop and such for service calendar
 - [ ] redo service right sidebar
 - [ ] neeed to add communications abilties to mobile sales dashboard
+- [ ] client setter
 
 
 
