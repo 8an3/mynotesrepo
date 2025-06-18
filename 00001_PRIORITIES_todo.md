@@ -46,7 +46,7 @@
 - [ ] pdf - create and print pdfs
 - [x] pdf - view pdfs
 - [x] pdf - sign pdfs
-- [ ] pdf - create form on pdf
+- [x] pdf - create form on pdf
 - [ ] pdf - edit form on pdf
 - [ ] pdf - create template
 - [ ] pdf - add pdf or image as background
