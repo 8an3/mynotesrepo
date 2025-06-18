@@ -52,7 +52,7 @@
 - [x] pdf - add pdf or image as background
 - [x] pdf - map fields on x and y axis so you can map inputted data
 - [x] pdf - save information in meta data, opened time, amount of signatures, amount signed etc
-- [ ] Signature Tracking: 
+- [x] Signature Tracking: 
 - [ ] Store when a client opens a document 
 - [ ] Track signature completion 
 - [ ] Send notifications
