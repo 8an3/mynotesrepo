@@ -66,7 +66,7 @@
 - [ ] Batch printing
 - [x] Database Integration: 
 - [x] Connect to your existing database 
-- [ ] Fetch data for PDF generation 
+- [x] Fetch data for PDF generation 
 - [ ] Store completed documents
 - [ ] Set up your database models for templates and documents 
 - [ ] Implement authentication for clients to sign documents 
