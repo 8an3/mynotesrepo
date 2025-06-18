@@ -72,7 +72,7 @@
 - [x] Implement authentication for clients to sign documents 
 - [x] Add more field types (text, images, QR codes) 
 - [x] Implement drag-and-drop for the template builder 
-- [ ] Add PDF generation with @react-pdf/renderer or similar library
+- [x] Add PDF generation with @react-pdf/renderer or similar library
 - [ ] @react-pdf/renderer: Used for PDF generation
 - [ ] react-pdf: Used for PDF viewing
 - [ ] PDF Signing Libraries Best Option: pdf-lib + custom implementation Why: Most flexible approach for Remix  Implementation Strategy: Use pdf-lib to add signature fields Implement your own signing workflow Store signature events in your database
