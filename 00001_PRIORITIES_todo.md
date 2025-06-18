@@ -65,7 +65,7 @@
 - [ ] Dynamic label layouts 
 - [ ] Batch printing
 - [x] Database Integration: 
-- [ ] Connect to your existing database 
+- [x] Connect to your existing database 
 - [ ] Fetch data for PDF generation 
 - [ ] Store completed documents
 - [ ] Set up your database models for templates and documents 
