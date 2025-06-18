@@ -64,7 +64,7 @@
 - [x] QR code integration 
 - [ ] Dynamic label layouts 
 - [ ] Batch printing
-- [ ] Database Integration: 
+- [x] Database Integration: 
 - [ ] Connect to your existing database 
 - [ ] Fetch data for PDF generation 
 - [ ] Store completed documents
