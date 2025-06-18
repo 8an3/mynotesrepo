@@ -56,7 +56,7 @@
 - [x] Store when a client opens a document 
 - [x] Track signature completion 
 - [ ] Send notifications
-- [ ] Template Management: 
+- [x] Template Management: 
 - [ ] Save templates to database 
 - [ ] Load existing templates 
 - [ ] Preview templates with sample data
