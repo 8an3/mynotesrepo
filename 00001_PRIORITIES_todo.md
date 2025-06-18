@@ -57,7 +57,7 @@
 - [x] Track signature completion 
 - [ ] Send notifications
 - [x] Template Management: 
-- [ ] Save templates to database 
+- [x] Save templates to database 
 - [ ] Load existing templates 
 - [ ] Preview templates with sample data
 - [ ] Label Generation: 
