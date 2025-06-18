@@ -59,7 +59,7 @@
 - [x] Template Management: 
 - [x] Save templates to database 
 - [x] Load existing templates 
-- [ ] Preview templates with sample data
+- [x] Preview templates with sample data
 - [ ] Label Generation: 
 - [ ] QR code integration 
 - [ ] Dynamic label layouts 
