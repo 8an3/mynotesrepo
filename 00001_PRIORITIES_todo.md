@@ -44,7 +44,7 @@
 
 - [ ] -------- PDF --------
 - [ ] pdf - create and print pdfs
-- [ ] pdf - view pdfs
+- [x] pdf - view pdfs
 - [ ] pdf - sign pdfs
 - [ ] pdf - create form on pdf
 - [ ] pdf - edit form on pdf
