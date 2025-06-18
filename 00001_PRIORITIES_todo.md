@@ -58,7 +58,7 @@
 - [ ] Send notifications
 - [x] Template Management: 
 - [x] Save templates to database 
-- [ ] Load existing templates 
+- [x] Load existing templates 
 - [ ] Preview templates with sample data
 - [ ] Label Generation: 
 - [ ] QR code integration 
