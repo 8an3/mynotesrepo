@@ -13,11 +13,11 @@
 - [ ] -------- CALENDAR --------
 - [ ] time presets - service appointment setter
 - [ ] chart filter - end of day reports, reports, leaderboasrd, sales stats
-- [x] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
 - [ ] need to create action and add forms to on drop and such for service calendar
 - [ ] redo service right sidebar
 - [ ] neeed to add communications abilties to mobile sales dashboard
 - [ ] client setter
+- [x] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
 
 
 
