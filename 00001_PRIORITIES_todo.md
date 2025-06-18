@@ -63,7 +63,7 @@
 - [ ] Label Generation: 
 - [x] QR code integration 
 - [ ] Dynamic label layouts 
-- [ ] Batch printing
+- [x] Batch printing
 - [ ] Database Integration: 
 - [ ] Connect to your existing database 
 - [ ] Fetch data for PDF generation 
