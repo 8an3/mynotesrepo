@@ -70,7 +70,7 @@
 - [x] Store completed documents
 - [x] Set up your database models for templates and documents 
 - [x] Implement authentication for clients to sign documents 
-- [ ] Add more field types (text, images, QR codes) 
+- [x] Add more field types (text, images, QR codes) 
 - [ ] Implement drag-and-drop for the template builder 
 - [ ] Add PDF generation with @react-pdf/renderer or similar library
 - [ ] @react-pdf/renderer: Used for PDF generation
