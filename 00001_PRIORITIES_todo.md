@@ -2,26 +2,22 @@
 
 - [ ] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
 - [ ] how do csis go to customers
-- [x] admin - display punch clock values so admin can easily do payroll
 - [ ] when creating currentMYModels make sure they attach to the dealer in the database
 - [ ] need to update create currentMY page
-- [x] need to add finance buffer somewhere in admin
 - [ ] need to do quick walkthrough video from main site for dealers to look at 
 - [ ] need to update admin due to schema change for DealRequest or whever deal requests are done
 - [ ] unicorn search needs to be completed
-- [x] started on creating my own pdf me
+
 
 
 - [ ] -------- CALENDAR --------
 - [ ] time presets - service appointment setter
 - [ ] chart filter - end of day reports, reports, leaderboasrd, sales stats
 - [ ] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
-- [x] redo tech cal
-- [x] service cal, have calendar on the left with the options of filtering, then everything to the right each column will be a technician, and displays each of their appointments through out the day, do custom drag and drop
 - [ ] need to create action and add forms to on drop and such for service calendar
 - [ ] redo service right sidebar
 - [ ] neeed to add communications abilties to mobile sales dashboard
-- [x] disable right sidebar for mobile?
+
 
 
 
@@ -40,44 +36,11 @@
 - [ ] mass email - need to redo
 
 
-
-
 - [ ] -------- PDF --------
-- [x] pdf - create and print pdfs
-- [x] pdf - view pdfs
-- [x] pdf - sign pdfs
-- [x] pdf - create form on pdf
-- [x] pdf - edit form on pdf
-- [x] pdf - create template
-- [x] pdf - add pdf or image as background
-- [x] pdf - map fields on x and y axis so you can map inputted data
-- [x] pdf - save information in meta data, opened time, amount of signatures, amount signed etc
-- [x] Signature Tracking: 
-- [x] Store when a client opens a document 
-- [x] Track signature completion 
 - [ ] Send notifications
-- [x] Template Management: 
-- [x] Save templates to database 
-- [x] Load existing templates 
-- [x] Preview templates with sample data
 - [ ] Label Generation: 
-- [x] QR code integration 
 - [ ] Dynamic label layouts 
 - [ ] Batch printing
-- [x] Database Integration: 
-- [x] Connect to your existing database 
-- [x] Fetch data for PDF generation 
-- [x] Store completed documents
-- [x] Set up your database models for templates and documents 
-- [x] Implement authentication for clients to sign documents 
-- [x] Add more field types (text, images, QR codes) 
-- [x] Implement drag-and-drop for the template builder 
-- [x] Add PDF generation with @react-pdf/renderer or similar library
-- [x] @react-pdf/renderer: Used for PDF generation
-- [x] react-pdf: Used for PDF viewing
-- [x] PDF Signing Libraries Best Option: pdf-lib + custom implementation Why: Most flexible approach for Remix  Implementation Strategy: Use pdf-lib to add signature fields Implement your own signing workflow Store signature events in your database
-- [x] Winner for Viewing Efficiency:Ã¢ÂÂ Blob (better for pure viewing, especially large documents).
-- [x] Winner for Form Inputs & Signing:Ã¢ÂÂ DOM (PDFViewer) (easier to overlay interactive elements).
 
 
 - [ ] -------- INVENTORY --------
@@ -130,6 +93,9 @@
 
 
 - [ ] -------- COMPLETED --------
+- [x] started on creating my own pdf me
+- [x] admin - display punch clock values so admin can easily do payroll
+- [x] need to add finance buffer somewhere in admin
 - [ ] dev
 - [x] in loader put const partnerSite = dealer.partnerSite to gain access to calendar site
 - [x] need dashboard to connect to all the dealers dashboards
@@ -156,7 +122,10 @@
 - [x] test new mgrs calculator implementation
 - [x] remove bmwmoto and manoptions from finance calc
 - [x] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
-- [ ] calendar
+- [ ] CALENDAR
+- [x] disable right sidebar for mobile?
+- [x] service cal, have calendar on the left with the options of filtering, then everything to the right each column will be a technician, and displays each of their appointments through out the day, do custom drag and drop
+- [x] redo tech cal
 - [x] sms is redone in calsidebar needs to be tested before moving to everyhwhere else, this is getting all chats, the other sms for client specfic is already done with new email and phone for dashbaords already in sales dashbaord
 - [x] redo sales calendar
 - [x] redo sales mobile calendar
@@ -170,4 +139,36 @@
 - [x] dob / dobDrawer - client file, turn dob drawer into the response diaolog and drawer
 - [x] time picker inline or regualr - csales dashbaord appointment setter
 - [x] with event slots - right side bar service calendar, and sales calendar, mobile sales calendar, mobile service calendar, mobile and regular tech calendar ----!!!! try to combine with inline time picker for sales appointment setter
+- [ ] PDF
+- [x] Database Integration: 
+- [x] Connect to your existing database 
+- [x] Fetch data for PDF generation 
+- [x] Store completed documents
+- [x] Set up your database models for templates and documents 
+- [x] Implement authentication for clients to sign documents 
+- [x] Add more field types (text, images, QR codes) 
+- [x] Implement drag-and-drop for the template builder 
+- [x] Add PDF generation with @react-pdf/renderer or similar library
+- [x] @react-pdf/renderer: Used for PDF generation
+- [x] react-pdf: Used for PDF viewing
+- [x] PDF Signing Libraries Best Option: pdf-lib + custom implementation Why: Most flexible approach for Remix  Implementation Strategy: Use pdf-lib to add signature fields Implement your own signing workflow Store signature events in your database
+- [x] Winner for Viewing Efficiency:Ã¢ÂÂ Blob (better for pure viewing, especially large documents).
+- [x] Winner for Form Inputs & Signing:Ã¢ÂÂ DOM (PDFViewer) (easier to overlay interactive elements).
+- [x] pdf - create and print pdfs
+- [x] pdf - view pdfs
+- [x] pdf - sign pdfs
+- [x] pdf - create form on pdf
+- [x] pdf - edit form on pdf
+- [x] pdf - create template
+- [x] pdf - add pdf or image as background
+- [x] pdf - map fields on x and y axis so you can map inputted data
+- [x] pdf - save information in meta data, opened time, amount of signatures, amount signed etc
+- [x] Signature Tracking: 
+- [x] Store when a client opens a document 
+- [x] Track signature completion 
+- [x] Template Management: 
+- [x] Save templates to database 
+- [x] Load existing templates 
+- [x] Preview templates with sample data
+- [x] QR code integration 
 
