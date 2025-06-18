@@ -61,7 +61,7 @@
 - [x] Load existing templates 
 - [x] Preview templates with sample data
 - [ ] Label Generation: 
-- [ ] QR code integration 
+- [x] QR code integration 
 - [ ] Dynamic label layouts 
 - [ ] Batch printing
 - [ ] Database Integration: 
