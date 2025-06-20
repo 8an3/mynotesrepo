@@ -1,6 +1,6 @@
 # PRIORITIES
 
-- [ ] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
+- [x] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
 - [ ] how do csis go to customers
 - [ ] when creating currentMYModels make sure they attach to the dealer in the database
 - [ ] need to update create currentMY page
