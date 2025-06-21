@@ -1,6 +1,5 @@
 # PRIORITIES
 
-- [x] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
 - [ ] how do csis go to customers
 - [ ] when creating currentMYModels make sure they attach to the dealer in the database
 - [ ] need to update create currentMY page
@@ -13,14 +12,12 @@
 
 
 - [ ] -------- CALENDAR --------
-- [x] time presets - service appointment setter
 - [ ] chart filter - end of day reports, reports, leaderboasrd, sales stats
 - [ ] need to create action and add forms to on drop and such for service calendar
 - [ ] redo service right sidebar
 - [ ] neeed to add communications abilties to mobile sales dashboard
 - [ ] client setter
-- [x] /workOrder/calendar/:workOrderId for setting initial appointment to mechanic use time preset
-- [x] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
+
 
 
 
@@ -42,11 +39,8 @@
 
 - [ ] -------- PDF --------
 - [ ] Send notifications
-- [x] Label Generation: 
-- [x] Dynamic label layouts 
-- [x] Batch printing
 - [ ] connect pdf signer with client portal
-- [x] label maker
+
 
 
 - [ ] -------- INVENTORY --------
@@ -61,16 +55,12 @@
 - [ ] need to create `/dealer/currentMY/reserveNow/${model.id}`
 - [ ] need to create `/dealer/currentMY/contact/${model.id}`
 - [ ] and do something with the save feature from the byo
-- [x] service scheduler
 - [ ] for client site we need to filter out current my units that are displayed by the current year, already updated sales/options so we can copy it from there
 - [ ] need to update client site configurator to accomadate more complex models ie manitou
 
 
 - [ ] -------- SERVICE --------
-- [x] SERVICE WRITER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
-- [x] WORKORDER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
-- [x] WORKORDER - scheduler for empty brands have it select all technicians
-- [x] service scheduler
+
 - [ ] delivery calendar - put in print day incase the driver doesnt have a cell/ charger
 
 - [ ] -------- TUTORIALS AND REFERENCE --------
@@ -99,6 +89,11 @@
 
 
 - [ ] -------- COMPLETED --------
+- [x] SERVICE WRITER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
+- [x] WORKORDER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
+- [x] WORKORDER - scheduler for empty brands have it select all technicians
+- [x] service scheduler
+- [x] service scheduler
 - [x] started on creating my own pdf me
 - [x] admin - display punch clock values so admin can easily do payroll
 - [x] need to add finance buffer somewhere in admin
@@ -177,4 +172,11 @@
 - [x] Load existing templates 
 - [x] Preview templates with sample data
 - [x] QR code integration 
-
+- [x] Label Generation: 
+- [x] Dynamic label layouts 
+- [x] Batch printing
+- [x] label maker
+- [x] /workOrder/calendar/:workOrderId for setting initial appointment to mechanic use time preset
+- [x] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
+- [x] time presets - service appointment setter
+- [x] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
