@@ -7,6 +7,8 @@
 - [ ] need to do quick walkthrough video from main site for dealers to look at 
 - [ ] need to update admin due to schema change for DealRequest or whever deal requests are done
 - [ ] unicorn search needs to be completed
+- [ ] CustomTemplatePrint need to repalce with actual print
+- [ ] PrintPdf same as above
 
 
 
