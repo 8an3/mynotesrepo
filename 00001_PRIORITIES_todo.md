@@ -13,7 +13,7 @@
 
 
 - [ ] -------- CALENDAR --------
-- [ ] time presets - service appointment setter
+- [x] time presets - service appointment setter
 - [ ] chart filter - end of day reports, reports, leaderboasrd, sales stats
 - [ ] need to create action and add forms to on drop and such for service calendar
 - [ ] redo service right sidebar
