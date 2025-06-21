@@ -61,7 +61,7 @@
 - [ ] need to create `/dealer/currentMY/reserveNow/${model.id}`
 - [ ] need to create `/dealer/currentMY/contact/${model.id}`
 - [ ] and do something with the save feature from the byo
-- [ ] service scheduler
+- [x] service scheduler
 - [ ] for client site we need to filter out current my units that are displayed by the current year, already updated sales/options so we can copy it from there
 - [ ] need to update client site configurator to accomadate more complex models ie manitou
 
@@ -70,7 +70,7 @@
 - [x] SERVICE WRITER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
 - [x] WORKORDER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
 - [x] WORKORDER - scheduler for empty brands have it select all technicians
-- [ ] service scheduler
+- [x] service scheduler
 - [ ] delivery calendar - put in print day incase the driver doesnt have a cell/ charger
 
 - [ ] -------- TUTORIALS AND REFERENCE --------
