@@ -46,7 +46,7 @@
 - [x] Dynamic label layouts 
 - [x] Batch printing
 - [ ] connect pdf signer with client portal
-- [ ] label maker
+- [x] label maker
 
 
 - [ ] -------- INVENTORY --------
