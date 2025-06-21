@@ -42,7 +42,7 @@
 
 - [ ] -------- PDF --------
 - [ ] Send notifications
-- [ ] Label Generation: 
+- [x] Label Generation: 
 - [ ] Dynamic label layouts 
 - [ ] Batch printing
 - [ ] connect pdf signer with client portal
