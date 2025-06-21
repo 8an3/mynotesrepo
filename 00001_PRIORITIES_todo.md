@@ -19,7 +19,7 @@
 - [ ] redo service right sidebar
 - [ ] neeed to add communications abilties to mobile sales dashboard
 - [ ] client setter
-- [ ] /workOrder/calendar/:workOrderId for setting initial appointment to mechanic use time preset
+- [x] /workOrder/calendar/:workOrderId for setting initial appointment to mechanic use time preset
 - [x] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
 
 
