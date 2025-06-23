@@ -17,6 +17,7 @@
 - [ ] client setter
 
 - [ ] -------- SALES --------
+- [ ] create "sales coach", activateable through profile, give tips, tricks, warnings as the user does actions for example when rebooking appts, if the appt is set out farther than three days confirm that they really want to set it out that far into the future risking loosing the client in doing so, and have a button where they text or email client that says not sure what to say? and when they open the tool tip explain that they should open the scripts to get ideas on how to approach the client
 - [ ] show sales funnel percentages appts to quotes to sales converted
 - [ ] UNITFILE FINANCE CALC - Need to somehow get all the totals from the finance tab to the deposits tab maybe use redux somehow....
 - [ ] FINANCE CALC - need to ensure all options figures are going through
