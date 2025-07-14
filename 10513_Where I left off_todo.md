@@ -1,6 +1,6 @@
 # Where I left off
 
-- [ ] PROJECT
+- [x] PROJECT
 - [x] DevStack
 - [x] DevStackUI
   
