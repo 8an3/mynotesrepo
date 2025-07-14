@@ -1,7 +1,7 @@
 # Where I left off
 
 - [ ] PROJECT
-- [ ] DevStack
+- [x] DevStack
 - [ ] DevStackUI
 - 
 - [ ] FILE
