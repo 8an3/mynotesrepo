@@ -2,7 +2,7 @@
 
 - [ ] PROJECT
 - [x] DevStack
-- [ ] DevStackUI
+- [x] DevStackUI
 - 
 - [ ] FILE
 - [ ] transfer extension.ts from ui to devstack src/extension
