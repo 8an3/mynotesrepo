@@ -1,55 +1,97 @@
 # COMPLETED
 
-- [x] need to create replyAll, forwardAll, reply and forward responses for microsoft server - these functions are sent by the editor
-- [x] email working again but needs a little bit of work to be finsihed
-- [x] order dash, same as inventory count but you go around scanning items and slecting a quantity to purchase in managers dash
-- [x] dynamic
-- [x] currently working - need to attach to components and find a way to turn on or off pending payment by customer
-- [x] websockets in remix
 
-- [x] create the 'wall', a table of just stats and stats not for everyone but try to break verything down -- for range date pick see shad cd examples cards, middle row third from the top
-- [x] FIX MANAGER SECTION
-- [x] FIX ADMIN SECTION
-- [x] manager / dash fix sales stats section and finish page... just redo the leadersboard section in manager menu x sales people and have a section of all open contracts and have filters on the table to easily search for customers with refunds certain amount of time not contacted etc tabs have dash like sales person then have a tab for each sales person and their stats
-- [x] admin dashboard - when going over clients and other objects ie for clients open dialog on left have nave men`u with a first level of items such as finance work order acc order and the when you click on it you can then click on the tabs for each layer on that data segment
-- [x] end of day report sales people arent printing out
-- [x] super in depth sales stats to dive in to each process and where you can improve
-- [x] for sales stats and end of day amounts create a dashboard to go with the printouts
-- [x] have your own csi reporting for the dealer that can be sent to customers JUST NEED TO MAKE MOCK EMAIL FOR IT
-- [x] make a bill of sale where it prints the items off of acc and parts orders - KIND OF ALREADY DONE BY PUSHING ACC TOTAL TO BOS BUT DOES NOT ITEMIZE ITEMS
-- [x] Owners dashboard
-- [x] Owner Section
-- [x] https://codesandbox.io/p/devbox/cranky-wiles-r6n472?file=%2Fapp%2Fcontext.tsx shows how to setup socket.io inside a Express server and together with a Remix app and how to connect from the browser.
-- [x] double check dealer/sales/customer/clietfile/financeid supposed to pull evreything from finance only at quote does it pull from dealerfees
-- [x] dashboard - to manage the dealers
-- [x] AI writing partner for emails, templates and scripts - done in components folder
-- [x] sales / customer / clientid / finance id -- replace payments dialog with -- https://github.com/shadcn-ui/ui/blob/1081536246b44b6664f4c99bc3f1b3614e632841/apps/www/components/cards/data-table.tsx#L203
-- [x] use the same idea and apply the same filter in calendar and see if it works beter
-- [x] need to add a cancel button to customer date lists so if needed can revert bakc to null
-- [x] need to update filter functions to new format in sales calendar - new filter adds the ability to match against a group of dates / maybe have a mixutre of them for the general filters
-- [x] NO CATEGORY - sent canadian blue another email, stating we wil sell it for them ... or let them keep the clients and profits in whatever fashion they want. CONTACTED AWAITING WORD BACK
-- [x] Uncaught ReferenceError: item is not defined    at Object.onClick (notifications.tsx:197:41)
-- [x] sent canadian blue another email, stating we wil sell it for them ... or let them keep the clients and profits in whatever fashion they want. CONTACTED AWAITING WORD BACK
-- [X] discount with passwords
-- [x] https://www.dealersalesassistant.ca/authportal/createSession/undefined
-- [x] on unit file have button to request trade in appraisal 
-- [x] Need to fill in faq andwers
-- [x] NO CATEGORY - Uncaught ReferenceError: item is not defined    at Object.onClick (notifications.tsx:197:41)
-- [x] Features why and the advantage check to see if it's better just to do one page instead too much reading
-- [x] https://www.dealersalesassistant.ca/items/pricing mobile view looks terrible
-- [ ] - [x] regular snippet viewer isnt searching through snippers
-- [x] MOBILE - finish pwa integration
-- [x] MOBILE - was working on editor function last 
-- [x] MOBILE - issue with selecting repo 
-- [x] MOBILE - auto sync needs to be hooked up
-- [x] NRCSync - need to add delete option for right clicking 
-- [x] NRCSync - dynamicly adjustabel height textarea based on how many lines of text
-- [x] NRCSync - have it so when u click to toggle a todo item to be completed have it so it doesnt open the file
-- [x] NRCSync - issue with pulling... but weirdly save pushes just fine....
-- [x] VSCode - when creating notes filename prefix isnt working correctly
-- [x] NAV - Default Apps Configuration
-- [x] NAV - need to make it move from workspace to workspace and delete default folders
-- [x] NAV - selecting edit in snippet viewer doesnt work
-- [x] NAV - selecting a snippet does not bring you to the snippet in the file
-- [x] NAV - mdviwer not found
-- [x] https://www.ntrsync.dedyn.io/
+
+
+- [x] SERVICE WRITER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
+- [x] WORKORDER CALENDAR - second appt through calendar scheduler or check if the same appointment can be stretched to the following day going into the next day, still need a way to add custom spots have a searchable drop down to choose client for appointment then searchable dropdown for the work order number to select the work order to attach it to, then just let them customize the rest with just a text area for them to leave a comment for a description for the appointment 
+- [x] WORKORDER - scheduler for empty brands have it select all technicians
+- [x] service scheduler
+- [x] service scheduler
+- [x] started on creating my own pdf me
+- [x] admin - display punch clock values so admin can easily do payroll
+- [x] need to add finance buffer somewhere in admin
+- [ ] dev
+- [x] in loader put const partnerSite = dealer.partnerSite to gain access to calendar site
+- [x] need dashboard to connect to all the dealers dashboards
+- [x] in order for dealers to have the latest data for the roadmap we need to make it an api request to the main website, which may not work due to cors...
+- [ ] general
+- [x] in the right side bar header put a left and right chevron on the ends to control the days of the calendar without having to open it
+- [x] sales dashboard when a client doesnt have a unit on file, isntead of how it is currently because it resets the dashbaord list anyways change it to open a dialog to select a brand and then a model, the brand list get actvated brands
+- [x] in sidebar filter by resource id
+- [x] left off at cal sidebar, had calendar working need to finish appt dialog, client im chat, email client is working but the ui is kinda funky, was trying to fix classname of content remove all heights as the sidebar takes car of the overflow y auto itself so we shouldnt be set that and those funky fucking flex-col that seems to completely disrup any overflow y auto before it
+- [x] create scripts viewer that is movable so sales people can move it around the screen or close when needed
+- [x] admin user schduling  for dealers or schedules that are a bit more all over the place each userSchedule will need to have a date will have its own set day so i fixed the schema but i want to accomadte for both scheduling styles so the managers that can set a fixed schedule every week never have to come back to do this, but the managers that need to have more control in scheduling it also accomadats them too  can we change it to accomdate both styles?
+- [ ] tutorials
+- [x] in getting started page u explain that each section has a tutorial on the page it self... need to add those
+- [x] need to add legend for docs, Service Work Order, Bill Of Sale, so as to know which when they create the docs
+- [x] finance.salesStatus to show the customer where the bike is currently if its on order, at the shop, in service etc need to set this up in the unit file
+- [ ] service
+- [x] ned to finish off the action in book service
+- [ ] sales
+- [x] need to redo clientfile
+- [x] make sms and email client draggable
+- [x] put combo box in text editor for atributes
+- [x] should go over notificationsUser.create at some point
+- [x] show unread emails in side bar? and text messages?
+- [x] test new mgrs calculator implementation
+- [x] remove bmwmoto and manoptions from finance calc
+- [x] EMAIL - for email use email sidebar from shadcn sidebars now in /components/emails/ui
+- [ ] CALENDAR
+- [x] disable right sidebar for mobile?
+- [x] service cal, have calendar on the left with the options of filtering, then everything to the right each column will be a technician, and displays each of their appointments through out the day, do custom drag and drop
+- [x] redo tech cal
+- [x] sms is redone in calsidebar needs to be tested before moving to everyhwhere else, this is getting all chats, the other sms for client specfic is already done with new email and phone for dashbaords already in sales dashbaord
+- [x] redo sales calendar
+- [x] redo sales mobile calendar
+- [x] redo mobile service cal
+- [x] redo sales dashbaord
+- [x] redo employeee schedulers
+- [x] redo sales right side bar
+- [x] redo delivery cal
+- [x] for sales calendar have appoinemtns show up on the right, appts change depending on the day selected, clicking on a appt display the appt in the footer
+- [x] multi month and selections - time off selector
+- [x] dob / dobDrawer - client file, turn dob drawer into the response diaolog and drawer
+- [x] time picker inline or regualr - csales dashbaord appointment setter
+- [x] with event slots - right side bar service calendar, and sales calendar, mobile sales calendar, mobile service calendar, mobile and regular tech calendar ----!!!! try to combine with inline time picker for sales appointment setter
+- [ ] PDF
+- [x] Database Integration: 
+- [x] Connect to your existing database 
+- [x] Fetch data for PDF generation 
+- [x] Store completed documents
+- [x] Set up your database models for templates and documents 
+- [x] Implement authentication for clients to sign documents 
+- [x] Add more field types (text, images, QR codes) 
+- [x] Implement drag-and-drop for the template builder 
+- [x] Add PDF generation with @react-pdf/renderer or similar library
+- [x] @react-pdf/renderer: Used for PDF generation
+- [x] react-pdf: Used for PDF viewing
+- [x] PDF Signing Libraries Best Option: pdf-lib + custom implementation Why: Most flexible approach for Remix  Implementation Strategy: Use pdf-lib to add signature fields Implement your own signing workflow Store signature events in your database
+- [x] Winner for Viewing Efficiency:Ã¢ÂÂ Blob (better for pure viewing, especially large documents).
+- [x] Winner for Form Inputs & Signing:Ã¢ÂÂ DOM (PDFViewer) (easier to overlay interactive elements).
+- [x] pdf - create and print pdfs
+- [x] pdf - view pdfs
+- [x] pdf - sign pdfs
+- [x] pdf - create form on pdf
+- [x] pdf - edit form on pdf
+- [x] pdf - create template
+- [x] pdf - add pdf or image as background
+- [x] pdf - map fields on x and y axis so you can map inputted data
+- [x] pdf - save information in meta data, opened time, amount of signatures, amount signed etc
+- [x] Signature Tracking: 
+- [x] Store when a client opens a document 
+- [x] Track signature completion 
+- [x] Template Management: 
+- [x] Save templates to database 
+- [x] Load existing templates 
+- [x] Preview templates with sample data
+- [x] QR code integration 
+- [x] Label Generation: 
+- [x] Dynamic label layouts 
+- [x] Batch printing
+- [x] label maker
+- [x] /workOrder/calendar/:workOrderId for setting initial appointment to mechanic use time preset
+- [x] for service calendar for service writer, use with time presets, but put the presets in the footer x the amount of mechanices, first col would be tech 1 second col would be tech 2 so they can see all of their techs appts at once and have the workorder display on the right side the full length so they can quickly roll through events
+- [x] time presets - service appointment setter
+- [x] stock data dialog, put in create currentMy, create unit and the units files as well where you can edit inventory items not the unit file as in sales
+
