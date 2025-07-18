@@ -6,7 +6,8 @@
   
 - [ ] FILE
 - [ ] neeed to go over new files in devstakc2i
-- [ ] and fi c
+- [ ] aremove electron from devstack
+- [ ] need top figure whats on with delete
 
 
 
