@@ -1,7 +1,7 @@
 # DevStack
 
 
-- [ ] UI - for commands builder and such use DisplayInstallCode and add other releavant details, tpe of command, hidden
+- [x] UI - for commands builder and such use DisplayInstallCode and add other releavant details, tpe of command, hidden
 - [x] NAV - vscode theme builder custom theme not working
 - [x] NAV - file nesting
 - [x] NAV - formatter
