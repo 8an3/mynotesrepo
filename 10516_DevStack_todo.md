@@ -11,6 +11,28 @@
 - [ ]     "inputOption.activeBorder": "#292524",
 - [ ]     "inputOption.activeBackground": "#241d0a",
 - [ ]     "inputOption.activeForeground": "#facc12",
+
+
+- [ ] PAGES COMPLETED
+- [ ] Chains edit / create
+- [ ] cmd create / edit
+- [ ] Color Wheel
+- [ ] Commands
+- [ ] Add missing Imports
+- [ ] default apps
+- [ ] formatter
+- [ ] lucide icons
+- [ ] md5 cheat seet
+- [ ] snippets
+- [ ] snippets creeate edit
+- [ ] str
+- [ ] str chain create / edit
+- [ ] str cmds create edit
+- [ ] theme build
+- [ ] vscode cmds cheat sheet
+
+
+
     
     
 
