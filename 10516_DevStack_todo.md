@@ -22,7 +22,7 @@
 - [ ] default apps
 - [ ] formatter
 - [ ] lucide icons
-- [ ] md5 cheat seet
+- [x] md5 cheat seet
 - [ ] snippets
 - [ ] snippets creeate edit
 - [ ] str
