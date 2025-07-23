@@ -29,7 +29,7 @@
 - [ ] str chain create / edit
 - [ ] str cmds create edit
 - [ ] theme build
-- [ ] vscode cmds cheat sheet
+- [x] vscode cmds cheat sheet
 
 
 
