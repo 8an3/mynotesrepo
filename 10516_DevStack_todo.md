@@ -31,6 +31,8 @@
 - [x] theme build
 - [x] vscode cmds cheat sheet
 
+- [ ] need to figure out what values the controls the colro of the bars in the charts
+
 
 
     

@@ -2,153 +2,73 @@
 
 - [x] PROJECT
 - [x] DevStack
-
+- [x] DevStackUI
   
 - [ ] FILE
-- [ ] extension.ts
+- [ ] neeed to go over new files in devstakc2i
+- [ ] aremove electron from devstack
+- [ ] need top figure whats on with delete
+
 
 
 - [ ] FUNCTION
-- [ ] node server
+- [ ] in new items folder
 
 - [ ] NOTE
-- [ ] how does does it know which workspace to save to when the data is sent back from the web app
-- [ ] need to resort to workspace picker as user can freely change their active workspace
-- [ ] To prompt the user to select a workspace when saving data in a VS Code extension, follow this step-by-step approach:
+Perfect! Now I understand - you already have a complete Electron app with React/Vite setup. I've created the integration code to add VSCode extension communication to your existing DevStackUI app.
+What to do:
+1. Update your existing files:
 
-Solution: Show a Workspace Picker
-Here's how to implement a workspace selection dialog:
+Replace your main.js with the updated version (adds VSCode server)
+Replace your preload.js with the updated version (adds VSCode APIs)
 
-typescript
-import * as vscode from 'vscode';
+2. Add React components:
 
-export async function saveDataWithWorkspacePrompt(data: any) {
-    // 1. Get all open workspaces
-    const workspaces = vscode.workspace.workspaceFolders;
+Create src/hooks/useVSCodeBridge.js - React hook for VSCode communication
+Create src/components/VSCodeBridge.jsx - UI component for testing communication
+Add the component to your main React app
 
-    if (!workspaces || workspaces.length === 0) {
-        vscode.window.showErrorMessage("No workspaces are open!");
-        return;
-    }
+3. For your VSCode extension:
 
-    // 2. Show quick pick menu if multiple workspaces exist
-    if (workspaces.length > 1) {
-        const selected = await vscode.window.showQuickPick(
-            workspaces.map(ws => ({
-                label: ws.name,
-                description: ws.uri.fsPath,
-                workspace: ws // Store the full workspace reference
-            })),
-            {
-                placeHolder: "Select a workspace to save to",
-                title: "Workspace Selection"
-            }
-        );
+Add the DevStackUIBridge class to your existing extension
+Add these commands to your extension's package.json:
 
-        if (!selected) return; // User cancelled
-
-        // 3. Save to the selected workspace
-        await saveToWorkspace(selected.workspace, data);
-    } else {
-        // 4. Auto-select if only one workspace exists
-        await saveToWorkspace(workspaces[0], data);
-    }
+json{
+  "contributes": {
+    "commands": [
+      {
+        "command": "devstackui.connect",
+        "title": "Connect to DevStackUI"
+      },
+      {
+        "command": "devstackui.disconnect", 
+        "title": "Disconnect from DevStackUI"
+      },
+      {
+        "command": "devstackui.sendTest",
+        "title": "Send Test to DevStackUI"
+      },
+      {
+        "command": "devstackui.getWorkspaceInfo",
+        "title": "Get Workspace Info"
+      }
+    ]
+  }
 }
+4. How it works:
 
-async function saveToWorkspace(workspace: vscode.WorkspaceFolder, data: any) {
-    // Get or create workspace-specific storage path
-    const workspaceStoragePath = vscode.Uri.joinPath(
-        workspace.uri,
-        '.vscode',
-        'my-extension-data.json'
-    );
+Your existing React app now has VSCode communication built in
+Port 8765 handles the communication
+The React component gives you a UI to test sending/receiving messages
+Your VSCode extension can send commands, requests, and data to your Electron app
+Everything integrates with your existing Vite/React setup
 
-    // Save data (example: write to a JSON file)
-    await vscode.workspace.fs.writeFile(
-        workspaceStoragePath,
-        Buffer.from(JSON.stringify(data, null, 2))
-    );
+5. Testing:
 
-    vscode.window.showInformationMessage(
-        `Data saved to workspace: ${workspace.name}`
-    );
-}
-Key Features
-Workspace Detection:
+Run your app: npm run dev
+Open your VSCode extension
+Use the command palette: "Connect to DevStackUI"
+Send test messages between them
+Use the React component UI to monitor communication
 
-Uses vscode.workspace.workspaceFolders to get all open workspaces
-
-Handles single/multiple workspace cases gracefully
-
-User Interaction:
-
-showQuickPick() displays a searchable list with:
-
-Workspace names (label)
-
-Paths (description)
-
-Full workspace reference in the returned object
-
-Storage Strategy:
-
-Saves to .vscode/my-extension-data.json in the selected workspace
-
-Uses VS Code's file system API (vscode.workspace.fs)
-
-Alternative: Workspace-Specific Extension Storage
-For simpler cases, use the extension's built-in storage:
-
-typescript
-// In your extension activation:
-const workspaceStorage = context.workspaceState;
-
-// To save:
-workspaceStorage.update('myDataKey', data);
-
-// To retrieve later:
-const savedData = workspaceStorage.get('myDataKey');
-UI Customization Options
-Add Icons:
-
-typescript
-items: workspaces.map(ws => ({
-    label: `$(folder) ${ws.name}`,
-    iconPath: vscode.ThemeIcon.Folder
-}))
-Group by Workspace Type:
-
-typescript
-detail: ws.uri.scheme === 'file' ? 'Local Folder' : 'Remote (SSH/Container)'
-Remember Last Selection:
-
-typescript
-const lastUsed = context.workspaceState.get<string>('lastUsedWorkspace');
-const picks = workspaces.map(ws => ({...}));
-if (lastUsed) {
-    picks.sort((a,b) => 
-        a.label === lastUsed ? -1 : b.label === lastUsed ? 1 : 0
-    );
-}
-Handling Remote Workspaces
-For SSH/Dev Containers/WSL workspaces:
-
-typescript
-const isRemote = workspace.uri.scheme !== 'file';
-if (isRemote) {
-    // Handle remote filesystem access limitations
-}
-Testing the Implementation
-Mock Workspaces (in tests):
-
-typescript
-sinon.stub(vscode.workspace, 'workspaceFolders').value([
-    { name: 'Project A', uri: vscode.Uri.file('/path/a') },
-    { name: 'Project B', uri: vscode.Uri.file('/path/b') }
-]);
-Verify User Flow:
-
-typescript
-const spy = sinon.spy(vscode.window, 'showQuickPick');
-await saveDataWithWorkspacePrompt(testData);
-assert(spy.calledOnce);
+The bridge is designed to work seamlessly with your existing DevStackUI setup - no need to change your current architecture!
