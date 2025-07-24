@@ -10,7 +10,7 @@
 - [ ] need to add the following colors, whenever a button is active
 - [ ]     "inputOption.activeBorder": "#292524", ring or primary
 - [ ]     "inputOption.activeBackground": "#241d0a",
-- [ ]     "inputOption.activeForeground": "#facc12",
+- [x]     "inputOption.activeForeground": "#facc12",
 
 
 - [ ] PAGES COMPLETED
