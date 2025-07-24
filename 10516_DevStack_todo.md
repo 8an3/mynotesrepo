@@ -21,7 +21,7 @@
 - [ ] Add missing Imports
 - [ ] default apps
 - [ ] formatter
-- [ ] lucide icons
+- [x] lucide icons
 - [x] md5 cheat seet
 - [ ] snippets
 - [ ] snippets creeate edit
