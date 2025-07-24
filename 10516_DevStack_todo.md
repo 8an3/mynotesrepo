@@ -16,7 +16,7 @@
 - [ ] PAGES COMPLETED
 - [ ] Chains edit / create
 - [ ] cmd create / edit
-- [ ] Color Wheel
+- [x] Color Wheel
 - [ ] Commands
 - [ ] Add missing Imports
 - [ ] default apps
