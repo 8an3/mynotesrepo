@@ -9,7 +9,7 @@
 - [x] need to add right click for hiding items
 - [ ] need to add the following colors, whenever a button is active
 - [ ]     "inputOption.activeBorder": "#292524", ring or primary
-- [ ]     "inputOption.activeBackground": "#241d0a",
+- [x]     "inputOption.activeBackground": "#241d0a",
 - [x]     "inputOption.activeForeground": "#facc12",
 
 
