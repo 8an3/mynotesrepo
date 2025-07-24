@@ -9,11 +9,11 @@
 - [x] need to add right click for hiding items
 - [x] need to add the following colors, whenever a button is active
 - [x]     "inputOption.activeBorder": "#292524",
-- [ ]     "inputOption.activeBackground": "#241d0a",
-- [ ]     "inputOption.activeForeground": "#facc12",
+- [x]     "inputOption.activeBackground": "#241d0a",
+- [x]     "inputOption.activeForeground": "#facc12",
 
 
-- [ ] PAGES COMPLETED
+- [x] PAGES COMPLETED
 - [ ] Chains edit / create
 - [ ] cmd create / edit
 - [ ] Color Wheel
