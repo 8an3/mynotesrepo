@@ -1,7 +1,7 @@
 # DevStack
 
 - [x] default apps
-- [ ] formatter
+- [x] formatter
 - [ ] str chain create / edit
 
 
