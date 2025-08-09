@@ -1,6 +1,6 @@
 # demo
 
-- [ ] Virtual Filing System
+- [x] Virtual Filing System
 - [ ] Chain Execution / Sequencer
 - [ ] Config file
 - [ ] Project Agnostic Configuration
