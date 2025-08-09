@@ -43,8 +43,8 @@
 
 - [x] PRODUCT PAGE
 - [x] product pages have min order 
-- [ ] points when purchased and points to qualify it as a free product
-- [ ] give each product a amount of points and whenever the purchase has gone through it will add those points to the order
+- [x] points when purchased and points to qualify it as a free product
+- [x] give each product a amount of points and whenever the purchase has gone through it will add those points to the order
 - [ ] desc
 - [ ] quantity
 - [ ] title
