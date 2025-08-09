@@ -45,5 +45,5 @@
 
 - [ ] ADMIN
 - [x] creeate page to adding editing ticket related things labels,  { value: "Cant Get Client In To Sign", label: "Cant Get Client In To Sign", },
-- [ ] ^ same as above for depts     { label: "Sales", value: "Sales" },
+- [x] ^ same as above for depts     { label: "Sales", value: "Sales" },
 ith these steps, and I'll help you troubleshoot!
