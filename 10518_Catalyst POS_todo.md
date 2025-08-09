@@ -31,7 +31,7 @@
 
 - [ ] HOME PAGE
 - [x] include search bar to search for email
-- [ ] button that says p/o w/o client purchase order without client
+- [x] button that says p/o w/o client purchase order without client
 
 - [ ] CLIENTS PAGE
 - [ ] integrated points system so there's no physical card
@@ -44,6 +44,6 @@
 
 
 - [ ] ADMIN
-- [ ] creeate page to adding editing ticket related things labels,  { value: "Cant Get Client In To Sign", label: "Cant Get Client In To Sign", },
+- [x] creeate page to adding editing ticket related things labels,  { value: "Cant Get Client In To Sign", label: "Cant Get Client In To Sign", },
 - [ ] ^ same as above for depts     { label: "Sales", value: "Sales" },
 ith these steps, and I'll help you troubleshoot!
