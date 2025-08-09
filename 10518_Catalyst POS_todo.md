@@ -2,7 +2,7 @@
  
 - [ ] use new remix platform
 
-- [ ] LOGIN PAGE
+- [x] LOGIN PAGE
 - [ ] Microsoft login but new custom version
 
 - [ ] INVENTORY PAGE
