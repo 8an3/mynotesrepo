@@ -6,7 +6,7 @@
 - [x] Microsoft login but new custom version
 
 - [x] INVENTORY PAGE
-- [ ] PRODUCT SCANNER
+- [x] PRODUCT SCANNER
 - [ ] RECEIVING PAGE
 - [ ] LABEL MAKER
 - [ ] UNFULFILLED ORDERS
