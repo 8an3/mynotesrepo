@@ -1,3 +1,66 @@
 # demo
 
-- [ ] New task
+- [ ] Virtual Filing System
+- [ ] Chain Execution / Sequencer
+- [ ] Config file
+- [ ] Project Agnostic Configuration
+- [ ] VSCode Commands
+- [ ] Commands Cheat Sheet
+- [ ] PowerShell Commands
+- [ ] Debian WSL Bash Commands
+- [ ] ".md Editor and Viewer
+- [ ] ".md Cheat Sheet
+- [ ] Readme Generator
+- [ ] Snippets
+- [ ] Editor Context Snippets
+- [ ] Context Snippets
+- [ ] Context Model Snippets
+- [ ] Formatter
+- [ ] Inline Imports
+- [ ] Remove Trailing Commas
+- [ ] Batch Rename
+- [ ] Add Missing Imports w/ Global Config
+- [ ] Add ESLint & Prettier Configs
+- [ ] Remix Run
+- [ ] npx create-remixv2
+- [ ] Auto Create Action
+- [ ] Context Components / Functions
+- [ ] V2 -> V1 Routing Convention Conversion
+- [ ] Convert single project app to mono repo
+- [ ] Open Route File In Browser - Remix Run
+- [ ] Create Route Files - Remix Run
+- [ ] Context Components / Functions
+- [ ] Routing Convention Conversion Remix-Run
+- [ ] Install Auth in Remix w/ Auth Routes
+- [ ] Install OTP Into Remix w/ Auth Routes
+- [ ] Routing Convention Conversion Remix-Run
+- [ ] Create Tests for Routes and Actions In Remix-Run
+- [ ] React-Router
+- [ ] VSCode Color Theme Builder
+- [ ] Blacked Out
+- [ ] Window Differentiator
+- [ ] Reset - Window Differentiator
+- [ ] Add ShadCN Components To Your Project
+- [ ] Install ShadCN Components w/All Components
+- [ ] GitHub Repo Management
+- [ ] Open Repo in Browser
+- [ ] Create include object
+- [ ] Create action object
+- [ ] Click To Schema Object
+- [ ] Generate Crud Resolvers / Rest End Points
+- [ ] VSCode Extension Management For Devs
+- [ ] File Nesting
+- [ ] Reveal In Explorer
+- [ ] Copy Path
+- [ ] Bookmarks
+- [ ] Extension Produced Messages
+- [ ] Search Bar
+- [ ] Clipboard History Pro
+- [ ] Color Wheel
+- [ ] Lucide Icons
+- [ ] Note
+- [ ] Mobile App - Note
+- [ ] Superuser Task Runner
+- [ ] Share Config With Friends
+- [ ] Default Apps Configuration
+- [ ] View Config Example
