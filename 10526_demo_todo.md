@@ -1,16 +1,16 @@
 # demo
 
-- [x] Virtual Filing System
-- [x] Chain Execution / Sequencer
-- [x] Config file
-- [x] Project Agnostic Configuration
-- [x] VSCode Commands
-- [x] Commands Cheat Sheet
-- [x] PowerShell Commands
-- [x] Debian WSL Bash Commands
-- [x] ".md Editor and Viewer
-- [x] ".md Cheat Sheet
-- [x] Readme Generator
+- [ ] Virtual Filing System
+- [ ] Chain Execution / Sequencer
+- [ ] Config file
+- [ ] Project Agnostic Configuration
+- [ ] VSCode Commands
+- [ ] Commands Cheat Sheet
+- [ ] PowerShell Commands
+- [ ] Debian WSL Bash Commands
+- [ ] ".md Editor and Viewer
+- [ ] ".md Cheat Sheet
+- [ ] Readme Generator
 - [ ] Snippets
 - [ ] Editor Context Snippets
 - [ ] Context Snippets
