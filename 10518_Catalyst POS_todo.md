@@ -34,7 +34,7 @@
 - [x] INVENTORY PAGE
 - [x] PRODUCT SCANNER
 - [ ] RECEIVING PAGE
-- [ ] LABEL MAKER
+- [x] LABEL MAKER
 - [ ] UNFULFILLED ORDERS
 - [ ] online orders 
 
