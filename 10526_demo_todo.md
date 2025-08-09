@@ -3,7 +3,7 @@
 - [x] Virtual Filing System
 - [x] Chain Execution / Sequencer
 - [x] Config file
-- [ ] Project Agnostic Configuration
+- [x] Project Agnostic Configuration
 - [ ] VSCode Commands
 - [ ] Commands Cheat Sheet
 - [ ] PowerShell Commands
