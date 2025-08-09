@@ -30,7 +30,7 @@
 - [ ] product page will have toggle that effectly says do not order anymore so to exclude it from the order page
 
 - [ ] HOME PAGE
-- [ ] include search bar to search for email
+- [x] include search bar to search for email
 - [ ] button that says p/o w/o client purchase order without client
 
 - [ ] CLIENTS PAGE
