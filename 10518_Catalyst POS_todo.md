@@ -39,7 +39,7 @@
 - [ ] online orders 
 
 - [ ] USERS
-- [ ] role access
+- [x] role access
 
 - [ ] PRODUCT PAGE
 - [ ] product pages have min order 
