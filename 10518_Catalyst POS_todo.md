@@ -5,7 +5,7 @@
 - [x] LOGIN PAGE
 - [x] Microsoft login but new custom version
 
-- [ ] INVENTORY PAGE
+- [x] INVENTORY PAGE
 - [ ] PRODUCT SCANNER
 - [ ] RECEIVING PAGE
 - [ ] LABEL MAKER
