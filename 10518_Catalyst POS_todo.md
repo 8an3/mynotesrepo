@@ -3,6 +3,31 @@
 - [x] use new remix platform
 - [ ] somehow on the user presses enter after they put the denomination amount with a purcahse order, to open the cash drawer and in huge bold letters display the change amount to be given to the customer
 
+- [ ] Integrations 
+- [ ] QuickBooks/Xero for accounting. 
+- [ ] Shopify/WooCommerce for e-commerce sync. 
+- [ ] Payroll systems (Gusto, ADP).
+
+- [ ] Advanced Analytics 
+- [ ] Profit margin tracking per product/employee. 
+- [ ] Heatmaps of peak sales times.
+
+- [ ] B2B Features 
+- [ ] Wholesale ordering portal for bulk clients.
+
+- [ ] Mobile App 
+- [ ] Allow employees to clock in/out, request time off, view schedules, and receive announcements. 
+- [ ] Managers could approve requests, check reports, and manage inventory on the go.
+
+- [ ] Customer Loyalty Program 
+- [x] Built-in rewards system (points, discounts). 
+- [ ] Email/SMS marketing integration
+
+
+
+  
+
+
 - [x] LOGIN PAGE
 - [x] Microsoft login but new custom version
 
