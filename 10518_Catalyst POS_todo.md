@@ -23,11 +23,6 @@
 - [x] Built-in rewards system (points, discounts). 
 - [ ] Email/SMS marketing integration
 
-
-
-  
-
-
 - [x] LOGIN PAGE
 - [x] Microsoft login but new custom version
 
