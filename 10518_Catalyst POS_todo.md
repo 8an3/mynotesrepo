@@ -1,6 +1,7 @@
 # CODE EDITOR
  
 - [x] use new remix platform
+- [ ] somehow on the user presses enter after they put the denomination amount with a purcahse order, to open the cash drawer and in huge bold letters display the change amount to be given to the customer
 
 - [x] LOGIN PAGE
 - [x] Microsoft login but new custom version
