@@ -1,9 +1,9 @@
 # CODE EDITOR
  
-- [ ] use new remix platform
+- [x] use new remix platform
 
 - [x] LOGIN PAGE
-- [ ] Microsoft login but new custom version
+- [x] Microsoft login but new custom version
 
 - [ ] INVENTORY PAGE
 - [ ] PRODUCT SCANNER
