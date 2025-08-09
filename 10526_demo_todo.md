@@ -4,7 +4,7 @@
 - [x] Chain Execution / Sequencer
 - [x] Config file
 - [x] Project Agnostic Configuration
-- [ ] VSCode Commands
+- [x] VSCode Commands
 - [ ] Commands Cheat Sheet
 - [ ] PowerShell Commands
 - [ ] Debian WSL Bash Commands
