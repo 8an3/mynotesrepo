@@ -1,6 +1,6 @@
 # demo
 
-- [ ] Convert single project app to mono repo
+- [x] Convert single project app to mono repo
 - [ ] Formatter
 - [ ] Auto Create Action
 - [ ] V2 -> V1 Routing Convention Conversion
