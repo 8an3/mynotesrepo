@@ -49,7 +49,7 @@
 - [x] Click To Schema Object
 - [x] Generate Crud Resolvers / Rest End Points
 - [x] VSCode Extension Management For Devs
-- [ ] File Nesting
+- [x] File Nesting
 - [ ] Reveal In Explorer
 - [ ] Copy Path
 - [ ] Bookmarks
