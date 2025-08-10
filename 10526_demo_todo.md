@@ -21,14 +21,14 @@
 - [x] Batch Rename
 - [x] Add Missing Imports w/ Global Config
 - [x] Add ESLint & Prettier Configs
-- [ ] Remix Run
+- [x] Remix Run
 - [ ] npx create-remixv2
 - [ ] Auto Create Action
 - [ ] Context Components / Functions
 - [ ] V2 -> V1 Routing Convention Conversion
 - [ ] Convert single project app to mono repo
-- [ ] Open Route File In Browser - Remix Run
-- [ ] Create Route Files - Remix Run
+- [x] Open Route File In Browser - Remix Run
+- [x] Create Route Files - Remix Run
 - [ ] Context Components / Functions
 - [ ] Routing Convention Conversion Remix-Run
 - [ ] Install Auth in Remix w/ Auth Routes
