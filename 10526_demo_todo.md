@@ -48,7 +48,7 @@
 - [x] Create action object
 - [x] Click To Schema Object
 - [x] Generate Crud Resolvers / Rest End Points
-- [ ] VSCode Extension Management For Devs
+- [x] VSCode Extension Management For Devs
 - [ ] File Nesting
 - [ ] Reveal In Explorer
 - [ ] Copy Path
