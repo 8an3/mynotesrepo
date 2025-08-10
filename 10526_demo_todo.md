@@ -36,8 +36,8 @@
 - [x] Routing Convention Conversion Remix-Run
 - [x] Create Tests for Routes and Actions In Remix-Run
 - [x] React-Router
-- [ ] VSCode Color Theme Builder
-- [ ] Blacked Out
+- [x] VSCode Color Theme Builder
+- [x] Blacked Out
 - [ ] Window Differentiator
 - [ ] Reset - Window Differentiator
 - [ ] Add ShadCN Components To Your Project
