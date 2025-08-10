@@ -58,8 +58,8 @@
 - [x] Clipboard History Pro
 - [x] Color Wheel
 - [x] Lucide Icons
-- [ ] Note
-- [ ] Mobile App - Note
+- [x] Note
+- [x] Mobile App - Note
 - [ ] Superuser Task Runner
 - [ ] Share Config With Friends
 - [ ] Default Apps Configuration
