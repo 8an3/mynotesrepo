@@ -1,125 +1,73 @@
 # CODE EDITOR
  
-- [x] Best Alternatives to Electron
-- [x] 1. Tauri (Rust + Web Frontend)
-- [x] Uses the system's native webview instead of bundling Chromium
-- [x] Much smaller binary size and lower memory usage
-- [x] Can use React, Vue, or vanilla JS for the frontend
-- [x] Growing ecosystem with good Windows support
-- [x] Create Your Tauri Project
-- [x] bash# Install Tauri CLI
-- [x] npm install -g @tauri-apps/cli
+- [x] use new remix platform
+- [ ] somehow on the user presses enter after they put the denomination amount with a purcahse order, to open the cash drawer and in huge bold letters display the change amount to be given to the customer
 
-# Create a new project with TypeScript
-- [x] npm create tauri-app@latest my-vscode-clone
-- [x] When prompted:
-- [x] Choose "TypeScript" or "React with TypeScript" for the frontend
-- [x] Choose "Vanilla" or your preferred framework (React/Vue/Svelte)
-- [x] Basic Project Structure
-- [x] my-vscode-clone/
-- [x] ├── src-tauri/          # Rust backend
-- [x] │   ├── src/
-- [x] │   │   └── main.rs     # Main Rust application
-- [x] │   └── Cargo.toml      # Rust dependencies
-- [x] ├── src/                # Frontend (TypeScript)
-- [x] │   ├── main.ts
-- [x] │   └── index.html
-- [x] └── package.json
-- [x] Add Monaco Editor
-- [x] bashcd my-vscode-clone
-- [x] npm install monaco-editor
-- [ ] Quick Start Example
-- [ ] Here's a minimal VS Code-like editor to get you started:
-- [ ] src/main.ts:
-- [ ] typescriptimport * as monaco from 'monaco-editor';
+- [ ] Integrations 
+- [ ] QuickBooks/Xero for accounting. 
+- [ ] Shopify/WooCommerce for e-commerce sync. 
+- [ ] Payroll systems (Gusto, ADP).
 
-- [ ] // Create the editor
-- [ ] const editor = monaco.editor.create(document.getElementById('editor')!, {
-  - [ ] value: 'console.log("Hello, World!");',
-  - [ ] language: 'typescript',
-  - [ ] theme: 'vs-dark',
-  - [ ] automaticLayout: true,
-- [ ] });
+- [ ] Advanced Analytics 
+- [ ] Profit margin tracking per product/employee. 
+- [ ] Heatmaps of peak sales times.
 
-- [ ] // Basic file operations using Tauri's API
-- [ ] import { invoke } from '@tauri-apps/api/tauri';
+- [ ] B2B Features 
+- [ ] Wholesale ordering portal for bulk clients.
 
-- [ ] async function openFile() {
-  - [ ] try {
-    - [ ] const content = await invoke('read_file', { path: 'example.ts' });
-    - [ ] editor.setValue(content as string);
-  - [ ] } catch (error) {
-    - [ ] console.error('Failed to open file:', error);
-  - [ ] }
-- [ ] }
-- [ ] Run Your Project
-- [ ] bash# Development mode
-- [ ] npm run tauri dev
+- [ ] Mobile App 
+- [ ] Allow employees to clock in/out, request time off, view schedules, and receive announcements. 
+- [ ] Managers could approve requests, check reports, and manage inventory on the go.
 
-- [ ] # Build for production
-- [ ] npm run tauri build
-- [ ] Next Steps
+- [ ] Customer Loyalty Program 
+- [x] Built-in rewards system (points, discounts). 
+- [ ] Email/SMS marketing integration
 
-- [ ] Set up a basic file explorer (sidebar with file tree)
-- [ ] Implement file operations (open, save, create, delete)
-- [ ] Add tabs for multiple files
-- [ ] Integrate Language Server Protocol for IntelliSense
-- [ ] Create extension system architecture
+- [x] LOGIN PAGE
+- [x] Microsoft login but new custom version
 
-- [ ] The beauty of Tauri is that your Rust backend can handle all the heavy file system operations while your TypeScript frontend focuses on the UI.
-Want me to show you how to implement any of these specific features first?RetryClaude does not have the ability to run the code it generates yet.SZhow do i start, in windowsEdit2 / 2Here's the step-by-step guide to get started on - [ ] Windows:
-- [ ] Step 1: Install Rust
+- [x] INVENTORY PAGE
+- [x] PRODUCT SCANNER
+- [ ] RECEIVING PAGE
+- [x] LABEL MAKER
+- [ ] UNFULFILLED ORDERS
+- [ ] online orders 
 
-- [ ] Go to https://rustup.rs/
-- [ ] Download and run rustup-init.exe
-- [ ] Follow the installer (just press Enter for defaults)
-- [ ] Restart your terminal/command prompt
+- [ ] USERS
+- [x] role access
 
-- [ ] Step 2: Install Required Tools
-- [ ] Open PowerShell or Command Prompt as Administrator and run:
-- [ ] powershell# Install Visual Studio Build Tools (required for Rust compilation)
-- [ ] # You can also install Visual Studio Community instead
-- [ ] winget install Microsoft.VisualStudio.2022.BuildTools
+- [x] PRODUCT PAGE
+- [x] product pages have min order 
+- [x] points when purchased and points to qualify it as a free product
+- [x] give each product a amount of points and whenever the purchase has gone through it will add those points to the order
+- [x] desc
+- [x] quantity
+- [x] title
+- [ ] build it as if you were building a website to go along side it
+- [x] have toggle that effectly says do not order anymore so to exclude it from the order page 
 
-- [ ] # Or if you prefer Visual Studio Community:
-- [ ] # winget install Microsoft.VisualStudio.2022.Community
-- [ ] Step 3: Install Node.js (if you don't have it)
-- [ ] powershellwinget install OpenJS.NodeJS
-- [ ] Step 4: Install Tauri CLI
-- [ ] powershellnpm install -g @tauri-apps/cli
-- [ ] Step 5: Create Your Project
-- [ ] powershell# Create a new directory for your project
-- [ ] mkdir my-vscode-clone
-- [ ] cd my-vscode-clone
+- [ ] ORDER PAGE
+- [ ] order page that displays what products are in stock and under min order
+- [x] product page will have toggle that effectly says do not order anymore so to exclude it from the order page
 
-- [ ] # Initialize Tauri project
-- [ ] npm create tauri-app@latest .
-- [ ] When prompted, choose:
+- [ ] HOME PAGE
+- [x] include search bar to search for email
+- [x] button that says p/o w/o client purchase order without client
+
+- [ ] CLIENTS PAGE
+- [ ] login page
+- [ ] logout
+- [ ] dashboard to show points, and maybe cart?
+- [ ] integrated points system so there's no physical card
+- [ ] whenever a client has enough points, on the UI visibly indicate which products they can get free with a use points button per product and subtract the points used for that purchase
+- [ ] once purchase has completed subtract those points from their profile
+- [ ] whenever they select a product to use the points on it will then display if they have enough points what other products they can use them on till they run out of useable points
+
+- [ ] CLIENT FACING WEBPAGE
+- [ ] accompanying website to sell products
 
 
-- [ ] Framework: Vanilla (or React if you prefer)
-- [ ] Language: TypeScript
-- [ ] Package manager: npm
-
-- [ ] Step 6: Test Your Setup
-- [ ] powershell# Install dependencies
-- [ ] npm install
-
-- [ ] # Run in development mode
-- [ ] npm run tauri dev
-- [ ] If everything works, you should see a small window open with a basic Tauri app!
-- [ ] Common Windows Issues & Solutions
-- [ ] If you get Rust compilation errors:
-- [ ] powershell# Make sure you have the correct Rust toolchain
-- [ ] rustup default stable-x86_64-pc-windows-msvc
-- [ ] rustup update
-- [ ] If you get missing Visual Studio tools errors:
-
-- [ ] Install Visual Studio Community 2022 with "Desktop development with C++" workload
-- [ ] Or install just the Build Tools with C++ tools
-
-- [ ] If npm create tauri-app fails:
-- [ ] powershell# Try the long form
-- [ ] npx create-tauri-app@latest my-vscode-clone --template vanilla-ts
-- [ ] cd my-vscode-clone
-- [ ] Let me know if you hit any issues with these steps, and I'll help you troubleshoot!
+- [ ] ADMIN
+- [x] creeate page to adding editing ticket related things labels,  { value: "Cant Get Client In To Sign", label: "Cant Get Client In To Sign", },
+- [x] ^ same as above for depts     { label: "Sales", value: "Sales" },
+ith these steps, and I'll help you troubleshoot!

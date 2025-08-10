@@ -1,6 +1,6 @@
 # Superuser Task Runner
 
-- [ ] Task dependencies: Allow tasks to depend on other tasks, ensuring they run in the correct order.
+- [x] Task dependencies: Allow tasks to depend on other tasks, ensuring they run in the correct order.
 - [x] Caching: Implement caching of task outputs to avoid re-running tasks that haven't changed.
 - [x] Parallelization: Add the ability to run multiple tasks in parallel to improve performance.
 - [ ] Environment variable support: Allow tasks to define environment variables that should be set during execution.
