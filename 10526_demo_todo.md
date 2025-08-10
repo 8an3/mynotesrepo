@@ -23,7 +23,7 @@
 - [x] Add ESLint & Prettier Configs
 - [x] Remix Run
 - [x] npx create-remixv2
-- [ ] Auto Create Action
+- [x] Auto Create Action
 - [ ] Context Components / Functions
 - [ ] V2 -> V1 Routing Convention Conversion
 - [ ] Convert single project app to mono repo
