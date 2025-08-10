@@ -57,7 +57,7 @@
 - [x] Search Bar
 - [x] Clipboard History Pro
 - [x] Color Wheel
-- [ ] Lucide Icons
+- [x] Lucide Icons
 - [ ] Note
 - [ ] Mobile App - Note
 - [ ] Superuser Task Runner
