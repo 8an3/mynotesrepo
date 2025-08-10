@@ -10,7 +10,7 @@
 - [x] Debian WSL Bash Commands
 - [x] ".md Editor and Viewer
 - [x] ".md Cheat Sheet
-- [ ] Readme Generator
+- [x] Readme Generator
 - [ ] Snippets
 - [ ] Editor Context Snippets
 - [ ] Context Snippets
