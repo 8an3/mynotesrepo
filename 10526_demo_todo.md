@@ -44,8 +44,8 @@
 - [x] Install ShadCN Components w/All Components
 - [x] GitHub Repo Management
 - [x] Open Repo in Browser
-- [ ] Create include object
-- [ ] Create action object
+- [x] Create include object
+- [x] Create action object
 - [ ] Click To Schema Object
 - [ ] Generate Crud Resolvers / Rest End Points
 - [ ] VSCode Extension Management For Devs
