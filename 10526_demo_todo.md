@@ -1,11 +1,11 @@
 # demo
 
 - [x] Convert single project app to mono repo
-- [ ] Formatter
+- [x] Formatter
 - [ ] Auto Create Action
 - [ ] V2 -> V1 Routing Convention Conversion
 - [ ] Add ShadCN Components To Your Project
-- [ ] Install Auth in Remix w/ Auth Routes
+- [x] Install Auth in Remix w/ Auth Routes
 - [ ] Install OTP Into Remix w/ Auth Routes
 - [ ] create mono repo
 - [ ] remix stack
