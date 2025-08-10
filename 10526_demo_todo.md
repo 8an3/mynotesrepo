@@ -35,7 +35,7 @@
 - [ ] Install OTP Into Remix w/ Auth Routes
 - [x] Routing Convention Conversion Remix-Run
 - [x] Create Tests for Routes and Actions In Remix-Run
-- [ ] React-Router
+- [x] React-Router
 - [ ] VSCode Color Theme Builder
 - [ ] Blacked Out
 - [ ] Window Differentiator
