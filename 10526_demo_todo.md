@@ -9,7 +9,7 @@
 - [x] PowerShell Commands
 - [x] Debian WSL Bash Commands
 - [x] ".md Editor and Viewer
-- [ ] ".md Cheat Sheet
+- [x] ".md Cheat Sheet
 - [ ] Readme Generator
 - [ ] Snippets
 - [ ] Editor Context Snippets
