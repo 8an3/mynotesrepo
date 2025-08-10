@@ -8,4 +8,4 @@
 - [x] Install Auth in Remix w/ Auth Routes
 - [x] Install OTP Into Remix w/ Auth Routes
 - [ ] create mono repo
-- [ ] remix stack
+- [x] remix stack
