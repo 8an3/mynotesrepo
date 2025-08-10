@@ -22,7 +22,7 @@
 - [x] Add Missing Imports w/ Global Config
 - [x] Add ESLint & Prettier Configs
 - [x] Remix Run
-- [ ] npx create-remixv2
+- [x] npx create-remixv2
 - [ ] Auto Create Action
 - [ ] Context Components / Functions
 - [ ] V2 -> V1 Routing Convention Conversion
