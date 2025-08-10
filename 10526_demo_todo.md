@@ -50,7 +50,7 @@
 - [x] Generate Crud Resolvers / Rest End Points
 - [x] VSCode Extension Management For Devs
 - [x] File Nesting
-- [ ] Reveal In Explorer
+- [x] Reveal In Explorer
 - [ ] Copy Path
 - [ ] Bookmarks
 - [ ] Extension Produced Messages
