@@ -23,17 +23,17 @@
 - [x] Add ESLint & Prettier Configs
 - [x] Remix Run
 - [x] npx create-remixv2
-- [x] Auto Create Action
-- [x] Context Components / Functions
-- [ ] V2 -> V1 Routing Convention Conversion
+- [ ] Auto Create Action
+- [ ] Context Components / Functions
+
 - [ ] Convert single project app to mono repo
 - [x] Open Route File In Browser - Remix Run
 - [x] Create Route Files - Remix Run
-- [x] Context Components / Functions
-- [x] Routing Convention Conversion Remix-Run
+- [ ] Context Components / Functions
+- [ ] Routing Convention Conversion Remix-Run
 - [ ] Install Auth in Remix w/ Auth Routes
 - [ ] Install OTP Into Remix w/ Auth Routes
-- [x] Routing Convention Conversion Remix-Run
+- [ ] Routing Convention Conversion Remix-Run
 - [ ] Create Tests for Routes and Actions In Remix-Run
 - [ ] React-Router
 - [ ] VSCode Color Theme Builder
@@ -64,3 +64,7 @@
 - [ ] Share Config With Friends
 - [ ] Default Apps Configuration
 - [ ] View Config Example
+
+- [ ] add autoi remix action at the end remaking it 
+- [ ] V2 -> V1 Routing Convention Conversion
+- [ ] add install shadcn at the end
