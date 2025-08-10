@@ -16,7 +16,7 @@
 - [x] Context Snippets
 - [x] Context Model Snippets
 - [ ] Formatter
-- [ ] Inline Imports
+- [x] Inline Imports
 - [ ] Remove Trailing Commas
 - [ ] Batch Rename
 - [ ] Add Missing Imports w/ Global Config
