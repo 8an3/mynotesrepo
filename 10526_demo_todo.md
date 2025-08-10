@@ -11,10 +11,10 @@
 - [x] ".md Editor and Viewer
 - [x] ".md Cheat Sheet
 - [x] Readme Generator
-- [ ] Snippets
-- [ ] Editor Context Snippets
-- [ ] Context Snippets
-- [ ] Context Model Snippets
+- [x] Snippets
+- [x] Editor Context Snippets
+- [x] Context Snippets
+- [x] Context Model Snippets
 - [ ] Formatter
 - [ ] Inline Imports
 - [ ] Remove Trailing Commas
