@@ -1,70 +1,11 @@
 # demo
 
-- [x] Virtual Filing System
-- [x] Chain Execution / Sequencer
-- [x] Config file
-- [x] Project Agnostic Configuration
-- [x] VSCode Commands
-- [x] Commands Cheat Sheet
-- [x] PowerShell Commands
-- [x] Debian WSL Bash Commands
-- [x] ".md Editor and Viewer
-- [x] ".md Cheat Sheet
-- [x] Readme Generator
-- [x] Snippets
-- [x] Editor Context Snippets
-- [x] Context Snippets
-- [x] Context Model Snippets
-- [ ] Formatter
-- [x] Inline Imports
-- [x] Remove Trailing Commas
-- [x] Batch Rename
-- [x] Add Missing Imports w/ Global Config
-- [x] Add ESLint & Prettier Configs
-- [x] Remix Run
-- [x] npx create-remixv2
-- [ ] Auto Create Action
-- [x] Context Components / Functions
-
 - [ ] Convert single project app to mono repo
-- [x] Open Route File In Browser - Remix Run
-- [x] Create Route Files - Remix Run
-- [x] Context Components / Functions
-- [x] Routing Convention Conversion Remix-Run
+- [ ] Formatter
+- [ ] Auto Create Action
+- [ ] V2 -> V1 Routing Convention Conversion
+- [ ] Add ShadCN Components To Your Project
 - [ ] Install Auth in Remix w/ Auth Routes
 - [ ] Install OTP Into Remix w/ Auth Routes
-- [x] Routing Convention Conversion Remix-Run
-- [x] Create Tests for Routes and Actions In Remix-Run
-- [x] React-Router
-- [x] VSCode Color Theme Builder
-- [x] Blacked Out
-- [x] Window Differentiator
-- [x] Reset - Window Differentiator
-- [x] Add ShadCN Components To Your Project
-- [x] Install ShadCN Components w/All Components
-- [x] GitHub Repo Management
-- [x] Open Repo in Browser
-- [x] Create include object
-- [x] Create action object
-- [x] Click To Schema Object
-- [x] Generate Crud Resolvers / Rest End Points
-- [x] VSCode Extension Management For Devs
-- [x] File Nesting
-- [x] Reveal In Explorer
-- [x] Copy Path
-- [x] Bookmarks
-- [x] Extension Produced Messages
-- [x] Search Bar
-- [x] Clipboard History Pro
-- [x] Color Wheel
-- [x] Lucide Icons
-- [x] Note
-- [x] Mobile App - Note
-- [x] Superuser Task Runner
-- [x] Share Config With Friends
-- [x] Default Apps Configuration
-- [x] View Config Example
-
-- [ ] add autoi remix action at the end remaking it 
-- [ ] V2 -> V1 Routing Convention Conversion
-- [ ] add install shadcn at the end
+- [ ] create mono repo
+- [ ] remix stack
