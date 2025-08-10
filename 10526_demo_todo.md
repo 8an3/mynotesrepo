@@ -20,7 +20,7 @@
 - [x] Remove Trailing Commas
 - [x] Batch Rename
 - [x] Add Missing Imports w/ Global Config
-- [ ] Add ESLint & Prettier Configs
+- [x] Add ESLint & Prettier Configs
 - [ ] Remix Run
 - [ ] npx create-remixv2
 - [ ] Auto Create Action
