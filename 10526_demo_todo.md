@@ -46,7 +46,7 @@
 - [x] Open Repo in Browser
 - [x] Create include object
 - [x] Create action object
-- [ ] Click To Schema Object
+- [x] Click To Schema Object
 - [ ] Generate Crud Resolvers / Rest End Points
 - [ ] VSCode Extension Management For Devs
 - [ ] File Nesting
