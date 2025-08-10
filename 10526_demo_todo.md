@@ -7,5 +7,5 @@
 - [ ] Add ShadCN Components To Your Project
 - [ ] Install Auth in Remix w/ Auth Routes
 - [ ] Install OTP Into Remix w/ Auth Routes
-- [x] create mono repo
+- [ ] create mono repo
 - [ ] remix stack
