@@ -17,7 +17,7 @@
 - [x] Context Model Snippets
 - [ ] Formatter
 - [x] Inline Imports
-- [ ] Remove Trailing Commas
+- [x] Remove Trailing Commas
 - [ ] Batch Rename
 - [ ] Add Missing Imports w/ Global Config
 - [ ] Add ESLint & Prettier Configs
