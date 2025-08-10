@@ -51,8 +51,8 @@
 - [x] VSCode Extension Management For Devs
 - [x] File Nesting
 - [x] Reveal In Explorer
-- [ ] Copy Path
-- [ ] Bookmarks
+- [x] Copy Path
+- [x] Bookmarks
 - [ ] Extension Produced Messages
 - [ ] Search Bar
 - [ ] Clipboard History Pro
