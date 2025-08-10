@@ -24,16 +24,16 @@
 - [x] Remix Run
 - [x] npx create-remixv2
 - [ ] Auto Create Action
-- [ ] Context Components / Functions
+- [x] Context Components / Functions
 
 - [ ] Convert single project app to mono repo
 - [x] Open Route File In Browser - Remix Run
 - [x] Create Route Files - Remix Run
-- [ ] Context Components / Functions
-- [ ] Routing Convention Conversion Remix-Run
+- [x] Context Components / Functions
+- [x] Routing Convention Conversion Remix-Run
 - [ ] Install Auth in Remix w/ Auth Routes
 - [ ] Install OTP Into Remix w/ Auth Routes
-- [ ] Routing Convention Conversion Remix-Run
+- [x] Routing Convention Conversion Remix-Run
 - [ ] Create Tests for Routes and Actions In Remix-Run
 - [ ] React-Router
 - [ ] VSCode Color Theme Builder
