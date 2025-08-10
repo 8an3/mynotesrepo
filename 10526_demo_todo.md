@@ -1,7 +1,7 @@
 # demo
 
 - [x] Virtual Filing System
-- [ ] Chain Execution / Sequencer
+- [x] Chain Execution / Sequencer
 - [ ] Config file
 - [ ] Project Agnostic Configuration
 - [ ] VSCode Commands
