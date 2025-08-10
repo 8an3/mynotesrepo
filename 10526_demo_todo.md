@@ -7,8 +7,8 @@
 - [x] VSCode Commands
 - [x] Commands Cheat Sheet
 - [x] PowerShell Commands
-- [ ] Debian WSL Bash Commands
-- [ ] ".md Editor and Viewer
+- [x] Debian WSL Bash Commands
+- [x] ".md Editor and Viewer
 - [ ] ".md Cheat Sheet
 - [ ] Readme Generator
 - [ ] Snippets
