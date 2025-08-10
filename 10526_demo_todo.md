@@ -18,8 +18,8 @@
 - [ ] Formatter
 - [x] Inline Imports
 - [x] Remove Trailing Commas
-- [ ] Batch Rename
-- [ ] Add Missing Imports w/ Global Config
+- [x] Batch Rename
+- [x] Add Missing Imports w/ Global Config
 - [ ] Add ESLint & Prettier Configs
 - [ ] Remix Run
 - [ ] npx create-remixv2
