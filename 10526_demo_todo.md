@@ -54,8 +54,8 @@
 - [x] Copy Path
 - [x] Bookmarks
 - [x] Extension Produced Messages
-- [ ] Search Bar
-- [ ] Clipboard History Pro
+- [x] Search Bar
+- [x] Clipboard History Pro
 - [ ] Color Wheel
 - [ ] Lucide Icons
 - [ ] Note
