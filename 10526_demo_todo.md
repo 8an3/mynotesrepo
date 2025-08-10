@@ -9,12 +9,12 @@
 - [x] PowerShell Commands
 - [x] Debian WSL Bash Commands
 - [x] ".md Editor and Viewer
-- [ ] ".md Cheat Sheet
-- [ ] Readme Generator
-- [ ] Snippets
-- [ ] Editor Context Snippets
-- [ ] Context Snippets
-- [ ] Context Model Snippets
+- [x] ".md Cheat Sheet
+- [x] Readme Generator
+- [x] Snippets
+- [x] Editor Context Snippets
+- [x] Context Snippets
+- [x] Context Model Snippets
 - [ ] Formatter
 - [ ] Inline Imports
 - [ ] Remove Trailing Commas
