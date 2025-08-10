@@ -38,9 +38,9 @@
 - [x] React-Router
 - [x] VSCode Color Theme Builder
 - [x] Blacked Out
-- [ ] Window Differentiator
-- [ ] Reset - Window Differentiator
-- [ ] Add ShadCN Components To Your Project
+- [x] Window Differentiator
+- [x] Reset - Window Differentiator
+- [x] Add ShadCN Components To Your Project
 - [ ] Install ShadCN Components w/All Components
 - [ ] GitHub Repo Management
 - [ ] Open Repo in Browser
