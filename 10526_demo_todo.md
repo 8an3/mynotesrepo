@@ -61,7 +61,7 @@
 - [x] Note
 - [x] Mobile App - Note
 - [x] Superuser Task Runner
-- [ ] Share Config With Friends
+- [x] Share Config With Friends
 - [ ] Default Apps Configuration
 - [ ] View Config Example
 
