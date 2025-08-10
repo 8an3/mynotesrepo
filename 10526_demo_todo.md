@@ -53,7 +53,7 @@
 - [x] Reveal In Explorer
 - [x] Copy Path
 - [x] Bookmarks
-- [ ] Extension Produced Messages
+- [x] Extension Produced Messages
 - [ ] Search Bar
 - [ ] Clipboard History Pro
 - [ ] Color Wheel
