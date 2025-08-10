@@ -41,9 +41,9 @@
 - [x] Window Differentiator
 - [x] Reset - Window Differentiator
 - [x] Add ShadCN Components To Your Project
-- [ ] Install ShadCN Components w/All Components
-- [ ] GitHub Repo Management
-- [ ] Open Repo in Browser
+- [x] Install ShadCN Components w/All Components
+- [x] GitHub Repo Management
+- [x] Open Repo in Browser
 - [ ] Create include object
 - [ ] Create action object
 - [ ] Click To Schema Object
