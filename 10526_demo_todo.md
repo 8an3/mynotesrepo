@@ -8,7 +8,7 @@
 - [x] Commands Cheat Sheet
 - [x] PowerShell Commands
 - [x] Debian WSL Bash Commands
-- [ ] ".md Editor and Viewer
+- [x] ".md Editor and Viewer
 - [ ] ".md Cheat Sheet
 - [ ] Readme Generator
 - [ ] Snippets
