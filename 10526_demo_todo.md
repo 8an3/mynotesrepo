@@ -47,7 +47,7 @@
 - [x] Create include object
 - [x] Create action object
 - [x] Click To Schema Object
-- [ ] Generate Crud Resolvers / Rest End Points
+- [x] Generate Crud Resolvers / Rest End Points
 - [ ] VSCode Extension Management For Devs
 - [ ] File Nesting
 - [ ] Reveal In Explorer
