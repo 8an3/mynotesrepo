@@ -6,7 +6,7 @@
 - [x] Project Agnostic Configuration
 - [x] VSCode Commands
 - [x] Commands Cheat Sheet
-- [ ] PowerShell Commands
+- [x] PowerShell Commands
 - [ ] Debian WSL Bash Commands
 - [ ] ".md Editor and Viewer
 - [ ] ".md Cheat Sheet
