@@ -56,7 +56,7 @@
 - [x] Extension Produced Messages
 - [x] Search Bar
 - [x] Clipboard History Pro
-- [ ] Color Wheel
+- [x] Color Wheel
 - [ ] Lucide Icons
 - [ ] Note
 - [ ] Mobile App - Note
