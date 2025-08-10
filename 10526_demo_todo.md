@@ -62,8 +62,8 @@
 - [x] Mobile App - Note
 - [x] Superuser Task Runner
 - [x] Share Config With Friends
-- [ ] Default Apps Configuration
-- [ ] View Config Example
+- [x] Default Apps Configuration
+- [x] View Config Example
 
 - [ ] add autoi remix action at the end remaking it 
 - [ ] V2 -> V1 Routing Convention Conversion
