@@ -60,7 +60,7 @@
 - [x] Lucide Icons
 - [x] Note
 - [x] Mobile App - Note
-- [ ] Superuser Task Runner
+- [x] Superuser Task Runner
 - [ ] Share Config With Friends
 - [ ] Default Apps Configuration
 - [ ] View Config Example
