@@ -1,6 +1,6 @@
 # Demo Test 
 
-- [ ] ## Buttons
+- [x] ## Buttons
 - [x] https://ui.shadcn.com/docs/components/button 
 - [ ] https://primereact.org/button/
 - [ ] https://rsuitejs.com/components/button/
