@@ -13,7 +13,7 @@
 - [ ] https://nextui.org/docs/components/button
 
 - [ ] ## Badges
-- [ ] https://ui.shadcn.com/docs/components/badge
+- [x] https://ui.shadcn.com/docs/components/badge
 - [ ] https://primereact.org/badge/
 - [ ] https://rsuitejs.com/components/badge/
 - [ ] https://chakra-ui.com/docs/components/badge
