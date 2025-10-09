@@ -3,7 +3,7 @@
 - [x] ## Buttons
 - [x] https://ui.shadcn.com/docs/components/button 
 - [x] https://primereact.org/button/
-- [ ] https://rsuitejs.com/components/button/
+- [x] https://rsuitejs.com/components/button/
 - [ ] https://chakra-ui.com/docs/components/button
 - [ ] https://flowbite.com/docs/components/buttons/
 - [ ] https://mui.com/material-ui/react-button/
