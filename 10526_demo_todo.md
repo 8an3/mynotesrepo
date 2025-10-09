@@ -1,7 +1,7 @@
 # Demo Test 
 
 - [ ] ## Buttons
-- [ ] https://ui.shadcn.com/docs/components/button 
+- [x] https://ui.shadcn.com/docs/components/button 
 - [ ] https://primereact.org/button/
 - [ ] https://rsuitejs.com/components/button/
 - [ ] https://chakra-ui.com/docs/components/button
