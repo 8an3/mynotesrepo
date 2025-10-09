@@ -1,6 +1,6 @@
 # Demo Test 
 
-## Buttons
+- [ ] ## Buttons
 - [ ] https://ui.shadcn.com/docs/components/button 
 - [ ] https://primereact.org/button/
 - [ ] https://rsuitejs.com/components/button/
@@ -12,7 +12,7 @@
 - [ ] https://mantine.dev/core/button/
 - [ ] https://nextui.org/docs/components/button
 
-## Badges
+- [ ] ## Badges
 - [ ] https://ui.shadcn.com/docs/components/badge
 - [ ] https://primereact.org/badge/
 - [ ] https://rsuitejs.com/components/badge/
@@ -24,7 +24,7 @@
 - [ ] https://mantine.dev/core/badge/
 - [ ] https://nextui.org/docs/components/badge
 
-## Avatars
+- [ ] ## Avatars
 - [ ] https://ui.shadcn.com/docs/components/avatar
 - [ ] https://primereact.org/avatar/
 - [ ] https://rsuitejs.com/components/avatar/
@@ -35,7 +35,7 @@
 - [ ] https://mantine.dev/core/avatar/
 - [ ] https://nextui.org/docs/components/avatar
 
-## Alerts
+- [ ] ## Alerts
 - [ ] https://ui.shadcn.com/docs/components/alert
 - [ ] https://primereact.org/message/
 - [ ] https://rsuitejs.com/components/message/
@@ -47,7 +47,7 @@
 - [ ] https://mantine.dev/core/alert/
 - [ ] https://nextui.org/docs/components/snippet
 
-## Inputs
+- [ ] ## Inputs
 - [ ] https://ui.shadcn.com/docs/components/input
 - [ ] https://primereact.org/inputtext/
 - [ ] https://rsuitejs.com/components/input/
@@ -59,7 +59,7 @@
 - [ ] https://mantine.dev/core/input/
 - [ ] https://nextui.org/docs/components/input
 
-## Checkboxes
+- [ ] ## Checkboxes
 - [ ] https://ui.shadcn.com/docs/components/checkbox
 
 --- [ ] half way point
@@ -74,7 +74,7 @@
 - [ ] https://mantine.dev/core/checkbox/
 - [ ] https://nextui.org/docs/components/checkbox
 
-## Switches/Toggles
+- [ ] ## Switches/Toggles
 - [ ] https://ui.shadcn.com/docs/components/switch
 - [ ] https://primereact.org/togglebutton/
 - [ ] https://rsuitejs.com/components/toggle/
@@ -85,7 +85,7 @@
 - [ ] https://mantine.dev/core/switch/
 - [ ] https://nextui.org/docs/components/switch
 
-## Cards
+- [ ] ## Cards
 - [ ] https://ui.shadcn.com/docs/components/card
 - [ ] https://primereact.org/card/
 - [ ] https://rsuitejs.com/components/panel/
@@ -97,7 +97,7 @@
 - [ ] https://mantine.dev/core/card/
 - [ ] https://nextui.org/docs/components/card
 
-## Chips/Tags
+- [ ] ## Chips/Tags
 - [ ] https://primereact.org/chip/
 - [ ] https://rsuitejs.com/components/tag/
 - [ ] https://chakra-ui.com/docs/components/tag
@@ -106,7 +106,7 @@
 - [ ] https://mantine.dev/core/chip/
 - [ ] https://nextui.org/docs/components/chip
 
-## Progress Bars
+- [ ] ## Progress Bars
 - [ ] https://ui.shadcn.com/docs/components/progress
 - [ ] https://primereact.org/progressbar/
 - [ ] https://rsuitejs.com/components/progress/
@@ -117,7 +117,7 @@
 - [ ] https://mantine.dev/core/progress/
 - [ ] https://nextui.org/docs/components/progress
 
-## Spinners/Loaders
+- [ ] ## Spinners/Loaders
 - [ ] https://primereact.org/progressspinner/
 - [ ] https://rsuitejs.com/components/loader/
 - [ ] https://chakra-ui.com/docs/components/spinner
@@ -127,7 +127,7 @@
 - [ ] https://mantine.dev/core/loader/
 - [ ] https://nextui.org/docs/components/spinner
 
-## Dividers
+- [ ] ## Dividers
 - [ ] https://ui.shadcn.com/docs/components/separator
 - [ ] https://primereact.org/divider/
 - [ ] https://rsuitejs.com/components/divider/
