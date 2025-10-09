@@ -1,15 +1,15 @@
 # Demo Test 
 
 - [x] ## Buttons
-- [x] https://ui.shadcn.com/docs/components/button 
-- [x] https://primereact.org/button/
-- [x] https://rsuitejs.com/components/button/
-- [ ] https://chakra-ui.com/docs/components/button
-- [x] https://flowbite.com/docs/components/buttons/
+- [x] https://ui.shadcn.com/docs/components/button  replit
+- [x] https://primereact.org/button/ ninjaai
+- [ ] https://rsuitejs.com/components/button/ qodo gen
+- [ ] https://chakra-ui.com/docs/components/button amazon q
+- [ ] https://flowbite.com/docs/components/buttons/ deepseek
 - [ ] https://mui.com/material-ui/react-button/
 - [ ] https://ant.design/components/button
 - [ ] https://react-bootstrap.github.io/docs/components/buttons
-- [x] https://mantine.dev/core/button/
+- [ ] https://mantine.dev/core/button/ clauedde
 - [ ] https://nextui.org/docs/components/button
 
 - [ ] ## Badges
