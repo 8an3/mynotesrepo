@@ -7,8 +7,8 @@
 - [ ] https://chakra-ui.com/docs/components/button amazon q
 - [ ] https://flowbite.com/docs/components/buttons/ deepseek
 - [ ] https://mui.com/material-ui/react-button/ continue
-- [ ] https://ant.design/components/button 
-- [ ] https://react-bootstrap.github.io/docs/components/buttons
+- [ ] https://ant.design/components/button claude
+- [ ] https://react-bootstrap.github.io/docs/components/buttons deepseek
 - [ ] https://mantine.dev/core/button/ clauedde
 - [ ] https://nextui.org/docs/components/button
 
