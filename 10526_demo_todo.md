@@ -3,34 +3,34 @@
 - [x] ## Buttons
 - [x] https://ui.shadcn.com/docs/components/button  replit
 - [x] https://primereact.org/button/ ninjaai
-- [ ] https://rsuitejs.com/components/button/ qodo gen
-- [ ] https://chakra-ui.com/docs/components/button amazon q
-- [ ] https://flowbite.com/docs/components/buttons/ deepseek
-- [ ] https://mui.com/material-ui/react-button/ continue
-- [ ] https://ant.design/components/button claude
-- [ ] https://react-bootstrap.github.io/docs/components/buttons deepseek
-- [ ] https://mantine.dev/core/button/ clauedde
-- [ ] https://nextui.org/docs/components/button
+- [x] https://rsuitejs.com/components/button/ qodo gen
+- [x] https://chakra-ui.com/docs/components/button amazon q
+- [x] https://flowbite.com/docs/components/buttons/ deepseek
+- [x] https://mui.com/material-ui/react-button/ continue
+- [x] https://ant.design/components/button claude
+- [x] https://react-bootstrap.github.io/docs/components/buttons deepseek
+- [x] https://mantine.dev/core/button/ clauedde
+- [x] https://nextui.org/docs/components/button
 
-- [ ] ## Badges
+- [x] ## Badges
 - [x] https://ui.shadcn.com/docs/components/badge
 - [x] https://primereact.org/badge/
-- [ ] https://rsuitejs.com/components/badge/
-- [ ] https://chakra-ui.com/docs/components/badge
-- [ ] https://flowbite.com/docs/components/badge/
-- [ ] https://mui.com/material-ui/react-badge/
+- [x] https://rsuitejs.com/components/badge/
+- [x] https://chakra-ui.com/docs/components/badge
+- [x] https://flowbite.com/docs/components/badge/
+- [x] https://mui.com/material-ui/react-badge/
 - [ ] https://ant.design/components/badge
 - [ ] https://react-bootstrap.github.io/docs/components/badge
 - [ ] https://mantine.dev/core/badge/
 - [ ] https://nextui.org/docs/components/badge
 
 - [ ] ## Avatars
-- [ ] https://ui.shadcn.com/docs/components/avatar
-- [ ] https://primereact.org/avatar/
-- [ ] https://rsuitejs.com/components/avatar/
-- [ ] https://chakra-ui.com/docs/components/avatar
-- [ ] https://flowbite.com/docs/components/avatar/
-- [ ] https://mui.com/material-ui/react-avatar/
+- [x] https://ui.shadcn.com/docs/components/avatar
+- [x] https://primereact.org/avatar/
+- [x] https://rsuitejs.com/components/avatar/
+- [x] https://chakra-ui.com/docs/components/avatar
+- [x] https://flowbite.com/docs/components/avatar/
+- [x] https://mui.com/material-ui/react-avatar/
 - [ ] https://ant.design/components/avatar
 - [ ] https://mantine.dev/core/avatar/
 - [ ] https://nextui.org/docs/components/avatar
