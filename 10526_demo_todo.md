@@ -5,7 +5,7 @@
 - [x] https://primereact.org/button/
 - [x] https://rsuitejs.com/components/button/
 - [ ] https://chakra-ui.com/docs/components/button
-- [ ] https://flowbite.com/docs/components/buttons/
+- [x] https://flowbite.com/docs/components/buttons/
 - [ ] https://mui.com/material-ui/react-button/
 - [ ] https://ant.design/components/button
 - [ ] https://react-bootstrap.github.io/docs/components/buttons
