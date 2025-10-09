@@ -9,7 +9,7 @@
 - [ ] https://mui.com/material-ui/react-button/
 - [ ] https://ant.design/components/button
 - [ ] https://react-bootstrap.github.io/docs/components/buttons
-- [ ] https://mantine.dev/core/button/
+- [x] https://mantine.dev/core/button/
 - [ ] https://nextui.org/docs/components/button
 
 - [ ] ## Badges
