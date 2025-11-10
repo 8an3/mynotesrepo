@@ -8,7 +8,7 @@
 - [ ] 
 - [ ] ADDED NEED TO ADD TO LIBRARIES INVENTORY
 - [ ] use-api-key
-- [ ] use-breakpoint
+- [x] use-breakpoint
 - [ ] 
 - [ ] UI / VISUAL 
 - [ ] 3-d-card
