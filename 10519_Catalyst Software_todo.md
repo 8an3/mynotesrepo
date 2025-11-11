@@ -33,36 +33,36 @@
 - [ ] that rich text editor in blocks... maybe make out own?
 - [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dock.json
 - [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/menu-dock.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/limelight-nav.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/mac-os-dock.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/message-dock.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/sandbox.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/gantt.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/kanban.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/list.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/table.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/credit-card.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/ticker.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/choicebox.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/color-picker.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dropzone.json
 - [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/editor.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/image-crop.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/image-zoom.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-card.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-marquee.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-pin.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-cursor.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-testimonials.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/limelight-nav.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/mac-os-dock.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/sandbox.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/message-dock.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/gantt.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/kanban.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/list.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/table.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/credit-card.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/ticker.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/choicebox.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/color-picker.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dropzone.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/image-crop.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/image-zoom.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-card.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-marquee.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-pin.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-cursor.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-testimonials.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-tooltip.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/apple-cards-carousel.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/apple-hello-effect.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pin-list.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/announcement.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/banner.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/cursor.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dialog-stack.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/marquee.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pin-list.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/announcement.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/banner.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/cursor.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dialog-stack.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/marquee.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/avatar-group.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pill.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/tags.json
