@@ -58,6 +58,22 @@
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/apple-cards-carousel.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/apple-hello-effect.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pin-list.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/announcement.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/banner.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/cursor.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dialog-stack.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/marquee.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/avatar-group.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pill.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/tags.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-01.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-02.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-03.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-04.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-05.json
+
+
+
 
 - [ ] #### hooks ideas
 - [ ] useClickAnyWhere
