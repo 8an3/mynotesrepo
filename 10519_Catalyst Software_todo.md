@@ -1,3 +1,125 @@
 # Catalyst Software
 
-- [x] add contact page
+- [x] ### DONE BUT KEWEP HERE FOR REFERENCE
+- [x] #### UI LIB
+- [ ] Shttps://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
+- [x] https://www.shadcn.io/template?page=5
+- [x] https://v0.app/templates/react-ui-builder-qPJFI4OtF9x - visit trhis first for templates to copy off of 
+- [x] https://www.prompt-kit.com
+- [x] https://kokonutui.com/docs/components/ai-prompt
+- [x] https://flowbite.com/blocks/application/crud-create-drawers/
+- [x] https://rsuitejs.com/components/table-virtualized/
+- [x] https://vercel.com/blog/spring25-oss-program#kokonutui
+- [x] https://chakra-ui.com/docs/components/pin-input
+- [x] https://genesis.primereact.org/pages/saas
+- [x] https://diamond.primereact.org/apps/files
+- [x] https://verona.primereact.org/dashboard-sales
+- [x] https://daisyui.com/components/fab
+- [x] https://react.semantic-ui.com/elements/step
+- [x] https://chakra-ui.com/docs/components/data-list
+- [x] https://react.semantic-ui.com/elements/rail
+- [x] https://baseweb.design/components/fixed-marker
+- [x] https://react-spectrum.adobe.com/react-aria/Virtualizer.html
+- [x] https://m3.material.io/components/text-fields/overview
+- [x] https://primereact.org/inplace
+- [x] https://mantine.dev/core/json-input
+- [ ] #### ICONS
+- [ ] https://simpleicons.org/
+- [ ] https://tabler.io/icons
+- [ ] #### IDEAS 
+- [ ] that rich text editor in blocks... maybe make out own?
+- [ ] message
+- [ ] calendar wrapper too?
+- [ ] do i want these ones 
+- [ ] Lightbox
+- [ ] App Shell
+- [ ] Error Handler
+- [ ] Portal
+- [ ] Virtualized List
+- [ ] Chart Components
+- [ ] https://flowbite.com/blocks/application/crud-create-drawers/
+- [ ] https://flowbite.com/blocks/application/faceted-search-drawers/
+- [ ] https://flowbite.com/blocks/application/crud-success-message/
+- [ ] https://flowbite.com/blocks/application/crud-update-forms/
+- [ ] https://flowbite.com/blocks/application/crud-update-drawers/
+- [ ] https://flowbite.com/blocks/application/faceted-search-modals/
+- [ ] https://flowbite.com/blocks/application/crud-create-forms/
+- [ ] https://flowbite.com/blocks/application/crud/
+- [ ] https://flowbite.com/blocks/application/crud-read-drawers/
+- [ ] https://flowbite.com/blocks/application/crud-read-sections/
+- [ ] https://flowbite.com/blocks/application/crud-read-modals/
+- [ ] https://flowbite.com/blocks/application/crud-create-modals/
+- [ ] https://flowbite.com/blocks/e-commerce/order-tracking/
+- [ ] https://flowbite.com/blocks/e-commerce/account-overview/
+- [ ] https://flowbite.com/blocks/e-commerce/product-cards/
+- [ ] https://flowbite.com/blocks/e-commerce/checkout/
+- [ ] https://flowbite.com/blocks/e-commerce/refunds/
+- [ ] https://flowbite.com/blocks/e-commerce/reviews-history/
+- [ ] https://flowbite.com/blocks/e-commerce/order-confirmation/
+- [ ] https://flowbite.com/blocks/e-commerce/refund-status/
+- [ ] https://flowbite.com/blocks/e-commerce/service-repair-forms/
+- [ ] https://flowbite.com/blocks/e-commerce/navbars/
+- [ ] https://flowbite.com/blocks/e-commerce/warranties/
+- [ ] https://flowbite.com/blocks/e-commerce/customer-service/
+- [ ] https://flowbite.com/blocks/e-commerce/promotional-sections/
+- [ ] https://flowbite.com/blocks/e-commerce/product-information/
+- [ ] https://flowbite.com/blocks/e-commerce/product-review/
+- [ ] https://flowbite.com/blocks/e-commerce/orders-overview/
+- [ ] https://flowbite.com/blocks/e-commerce/shopping-cart/
+- [ ] https://flowbite.com/blocks/e-commerce/refund-forms/
+- [ ] https://flowbite.com/blocks/e-commerce/order-summary/
+- [ ] https://flowbite.com/blocks/e-commerce/discount/
+- [ ] https://flowbite.com/blocks/e-commerce/payment-forms/
+- [ ] https://flowbite.com/blocks/e-commerce/order-tracking/
+- [ ] https://flowbite.com/blocks/e-commerce/product-cards/
+- [ ] https://flowbite.com/blocks/publisher/comments/
+- [ ] https://flowbite.com/blocks/publisher/related-articles/
+- [ ] https://flowbite.com/blocks/publisher/blog-templates/
+- [ ] https://flowbite.com/blocks/application/filter/
+- [ ] https://flowbite.com/blocks/marketing/feature/
+- [ ] https://flowbite.com/blocks/marketing/register/
+- [ ] https://flowbite.com/blocks/marketing/cta/
+- [ ] https://flowbite.com/blocks/marketing/portfolio/
+- [ ] https://flowbite.com/blocks/marketing/content/
+- [ ] https://flowbite.com/blocks/marketing/newsletter/
+- [ ] https://flowbite.com/blocks/marketing/customer-logos/
+- [ ] https://flowbite.com/blocks/marketing/500/
+- [ ] https://flowbite.com/blocks/marketing/maintenance/
+- [ ] https://flowbite.com/blocks/marketing/blog/
+- [ ] https://flowbite.com/blocks/marketing/contact/
+- [ ] https://flowbite.com/blocks/marketing/account-recovery/
+- [ ] https://flowbite.com/blocks/marketing/portfolio/
+- [ ] https://flowbite.com/blocks/marketing/event-schedule/
+- [ ] https://flowbite.com/blocks/marketing/social-proof/
+- [ ] https://flowbite.com/blocks/marketing/404/
+- [ ] https://flowbite.com/blocks/marketing/pricing/
+- [ ] https://flowbite.com/blocks/marketing/cookie/
+- [ ] https://flowbite.com/blocks/marketing/reset-password/
+- [ ] https://flowbite.com/blocks/marketing/faq/
+- [ ] https://flowbite.com/blocks/marketing/testimonial/
+- [ ] https://flowbite.com/blocks/marketing/team/
+- [ ] flowbite-billing-template
+- [ ] https://diamond.primereact.org/apps/files
+- [ ] done by deepseek check its work against claude https://diamond.primereact.org
+- [ ] https://diamond.primereact.org/apps/calendar
+- [ ] https://diamond.primereact.org/pages/crud
+- [ ] https://diamond.primereact.org/apps/chat
+- [ ] https://flowbite.com/application-ui/demo/homepages/e-commerce/
+- [ ] https://flowbite.com/application-ui/demo/homepages/saas/
+- [ ] https://flowbite.com/application-ui/preview/
+- [ ] https://genesis.primereact.org/pages/saas
+- [ ] https://genesis.primereact.org/pages/startup
+- [ ] https://genesis.primereact.org/pages/enterprise
+- [ ] https://genesis.primereact.org/pages/e-learning
+- [ ] https://genesis.primereact.org/pages/real-estate
+- [ ] https://genesis.primereact.org/pages/logistic
+- [ ] https://genesis.primereact.org/pages/agency
+- [ ] https://diamond.primereact.org/landing
+- [ ] https://diamond.primereact.org/ecommerce/product-overview
+- [ ] https://diamond.primereact.org/ecommerce/new-product
+- [ ] https://diamond.primereact.org/ecommerce/shopping-cart
+- [ ] https://diamond.primereact.org/ecommerce/checkout-form
+- [ ] https://diamond.primereact.org/ecommerce/order-history
+- [ ] https://diamond.primereact.org/ecommerce/order-summary
+- [ ] https://verona.primereact.org/dashboard-sales
+- [ ] https://verona.primereact.org
