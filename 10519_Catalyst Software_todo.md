@@ -31,12 +31,12 @@
 
 - [ ] #### IDEAS 
 - [ ] that rich text editor in blocks... maybe make out own?
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dock.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/menu-dock.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dock.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/menu-dock.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/limelight-nav.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/mac-os-dock.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/message-dock.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/sandbox.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/sandbox.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/gantt.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/kanban.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/list.json
