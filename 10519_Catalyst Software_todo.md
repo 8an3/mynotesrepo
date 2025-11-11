@@ -71,6 +71,29 @@
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-03.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-04.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-05.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-06.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-07.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-08.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-09.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-10.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-11.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-12.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-13.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-14.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-15.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-16.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-17.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-18.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-beam.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/magnetic.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/motion-highlight.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pixel-image.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/calendar.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/mini-calendar.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/relative-time.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/comparison.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/qr-code.json
+- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/terminal.json
 
 
 
