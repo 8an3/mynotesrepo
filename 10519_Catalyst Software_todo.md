@@ -1,5 +1,6 @@
 # Catalyst Software
 
+- [x] need to make the objects for core/navbars and pages
 - [x] ### DONE BUT KEWEP HERE FOR REFERENCE
 - [x] #### UI LIB
 - [ ] Shttps://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
