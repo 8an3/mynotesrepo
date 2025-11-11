@@ -46,7 +46,7 @@
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/choicebox.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/color-picker.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dropzone.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/editor.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/editor.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/image-crop.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/image-zoom.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-card.json
