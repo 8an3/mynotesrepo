@@ -1,9 +1,10 @@
 # Catalyst Software
 
 - [x] need to make the objects for core/navbars and pages
+- [ ] post linked in blog post about  pre promtp
 - [x] ### DONE BUT KEWEP HERE FOR REFERENCE
 - [x] #### UI LIB
-- [ ] Shttps://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
+- [ ] https://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
 - [x] https://www.shadcn.io/template?page=5
 - [x] https://v0.app/templates/react-ui-builder-qPJFI4OtF9x - visit trhis first for templates to copy off of 
 - [x] https://www.prompt-kit.com
