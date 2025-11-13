@@ -2,6 +2,7 @@
 
 - [x] need to make the objects for core/navbars and pages
 - [ ] post linked in blog post about  pre promtp
+- [ ] monaco editor need to add in support of saving settings whene edited
 - [x] ### DONE BUT KEWEP HERE FOR REFERENCE
 - [x] #### UI LIB
 - [ ] https://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
