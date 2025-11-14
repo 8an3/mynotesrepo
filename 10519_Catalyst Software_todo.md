@@ -4,9 +4,9 @@
 - [ ] post linked in blog post about  pre promtp
 - [ ] monaco editor need to add in support of saving settings whene edited
 - [ ] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
+- [ ] finish off shell in core/shells
 - [x] ### DONE BUT KEWEP HERE FOR REFERENCE
 - [x] #### UI LIB
-- [ ] https://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
 - [x] https://www.shadcn.io/template?page=5
 - [x] https://v0.app/templates/react-ui-builder-qPJFI4OtF9x - visit trhis first for templates to copy off of 
 - [x] https://www.prompt-kit.com
@@ -27,8 +27,25 @@
 - [x] https://m3.material.io/components/text-fields/overview
 - [x] https://primereact.org/inplace
 - [x] https://mantine.dev/core/json-input
+- [ ] https://magicui.design/docs/components/code-comparison
+- [ ] https://magicui.design/docs/components/flickering-grid
+- [ ] https://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
+
+## need to check out
+- [ ] https://21st.dev/community/components
+- [ ] https://www.shadcn.io/awesome
+- [ ] https://ui.aceternity.com/
+- [ ] https://ui.ibelick.com/
+- [ ] https://www.cult-ui.com/
+- [ ] https://coss.com/origin
+- [ ] https://www.tremor.so/
+- [ ] https://park-ui.com/
+- [ ] https://www.heroui.com/
+- [ ] https://ui.lukacho.com/
+- [ ] https://sailboatui.com/
 
 - [ ] #### ICONS
+- [ ] https://www.shadcn.io/icons
 - [ ] https://simpleicons.org/
 - [ ] https://tabler.io/icons
 
