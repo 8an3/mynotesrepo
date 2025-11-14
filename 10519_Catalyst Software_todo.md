@@ -15,6 +15,7 @@
 - [ ] 
 - [x] ### DONE BUT KEWEP HERE FOR REFERENCE
 - [x] #### UI LIB
+- [ ] https://www.shadcnblocks.com/components *****
 - [ ] https://21st.dev/community/components **
 - [x] https://www.shadcn.io/template?page=5
 - [x] https://v0.app/templates/react-ui-builder-qPJFI4OtF9x - visit trhis first for templates to copy off of 
