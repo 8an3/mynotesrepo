@@ -5,10 +5,10 @@
 - [ ] monaco editor need to add in support of saving settings whene edited
 - [ ] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
 - [ ] finish off shell in core/shells
-- [ ] https://www.shadcn.io/hooks/use-isomorphic-layout-effect
-- [ ] https://www.shadcn.io/hooks/use-is-client
-- [ ] https://www.shadcn.io/hooks/use-event-callback
-- [ ] https://www.shadcn.io/hooks/use-document-title
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] https://www.shadcn.io/hooks/use-debounce-value
 - [ ] https://www.shadcn.io/hooks/use-countdown
 - [ ] https://www.shadcn.io/hooks/use-click-anywhere
