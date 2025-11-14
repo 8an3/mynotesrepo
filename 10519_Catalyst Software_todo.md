@@ -15,6 +15,7 @@
 - [ ] https://www.shadcn.io/hooks/use-boolean
 - [x] ### DONE BUT KEWEP HERE FOR REFERENCE
 - [x] #### UI LIB
+- [ ] https://21st.dev/community/components **
 - [x] https://www.shadcn.io/template?page=5
 - [x] https://v0.app/templates/react-ui-builder-qPJFI4OtF9x - visit trhis first for templates to copy off of 
 - [x] https://www.prompt-kit.com
