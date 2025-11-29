@@ -7,7 +7,7 @@
 - [ ] finish off shell in core/shells
 
 - [ ] #### ICONS
-- [ ] https://www.shadcn.io/icons
+- [x] https://www.shadcn.io/icons
 - [ ] https://simpleicons.org/
 - [ ] https://tabler.io/icons
 - [x] ### DONE BUT KEWEP HERE FOR REFERENCE
