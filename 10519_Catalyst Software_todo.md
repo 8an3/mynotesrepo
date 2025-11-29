@@ -21,7 +21,7 @@
 - [x] https://www.shadcn.io/template?page=5
 - [x] https://magicui.design/docs/components/code-comparison
 - [x] https://magicui.design/docs/components/flickering-grid
-- [ ] https://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
+- [x] https://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
 - [ ] https://21st.dev/community/components
 - [ ] https://www.shadcn.io/awesome
 - [ ] https://ui.aceternity.com/
