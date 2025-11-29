@@ -15,7 +15,7 @@
 - [x] ### DONE BUT KEWEP HERE FOR REFERENCE
 - [x] #### UI LIB
 - [x] https://www.shadcnblocks.com/blocks/free *****
-- [ ] https://www.shadcnblocks.com/components *****
+- [x] https://www.shadcnblocks.com/components *****
 - [ ] https://21st.dev/community/components **
 - [ ] https://flowbite.com/blocks/application/crud-create-drawers/
 - [x] https://www.shadcn.io/template?page=5
