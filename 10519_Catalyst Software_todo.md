@@ -32,7 +32,7 @@
 - [x] https://park-ui.com/
 - [x] https://www.heroui.com/
 - [ ] https://ui.lukacho.com/
-- [ ] https://sailboatui.com/
+- [x] https://sailboatui.com/
 
 - [ ] #### template IDEAS 
 - [ ] https://www.aisdkagents.com/patterns/basics-tool-scrape-cheerio
