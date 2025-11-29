@@ -30,7 +30,7 @@
 - [x] https://www.cult-ui.com/
 - [x] https://www.tremor.so/
 - [x] https://park-ui.com/
-- [ ] https://www.heroui.com/
+- [x] https://www.heroui.com/
 - [ ] https://ui.lukacho.com/
 - [ ] https://sailboatui.com/
 
