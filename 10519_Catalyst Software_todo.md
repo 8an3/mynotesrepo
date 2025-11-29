@@ -17,13 +17,13 @@
 - [x] https://www.shadcnblocks.com/components *****
 - [ ] https://www.shadcnblocks.com/blocks - doesnt block html codeso we can coopy it 
 - [ ] https://www.shadcnblocks.com/components - doesnt block html codeso we can coopy it 
-- [ ] https://21st.dev/community/components **
+- [x] https://21st.dev/community/components **
 - [ ] https://flowbite.com/blocks/application/crud-create-drawers/
 - [x] https://www.shadcn.io/template?page=5
 - [x] https://magicui.design/docs/components/code-comparison
 - [x] https://magicui.design/docs/components/flickering-grid
 - [x] https://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
-- [ ] https://21st.dev/community/components
+- [x] https://21st.dev/community/components
 - [x] https://www.shadcn.io/awesome
 - [x] https://ui.aceternity.com/
 - [x] https://ui.ibelick.com/
