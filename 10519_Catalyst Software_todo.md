@@ -39,6 +39,7 @@
 - [ ] #### template IDEAS 
 - [ ] https://www.aisdkagents.com/patterns/basics-tool-scrape-cheerio
 - [ ] https://pro.cult-ui.com/sections
+- [ ] https://merakiui.com/templates
 
 
 
