@@ -38,6 +38,8 @@
 - [ ] https://ui.lukacho.com/
 - [ ] https://sailboatui.com/
 - [ ] https://ui.indie-starter.dev/
+- [ ] https://merakiui.com/components
+- [ ] https://www.hyperui.dev/
 
 - [ ] #### template IDEAS 
 - [ ] https://www.aisdkagents.com/patterns/basics-tool-scrape-cheerio
