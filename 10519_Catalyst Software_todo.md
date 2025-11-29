@@ -38,38 +38,8 @@
 - [ ] that rich text editor in blocks... maybe make out own?
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-tooltip.json
 - [ ] 
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/apple-hello-effect.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/avatar-group.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pill.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/tags.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-01.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-02.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-03.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-04.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-05.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-06.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-07.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-08.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-09.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-10.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-11.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-12.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-13.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-14.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-15.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-16.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-17.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-18.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-beam.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/magnetic.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/motion-highlight.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pixel-image.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/calendar.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/mini-calendar.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/relative-time.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/comparison.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/qr-code.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/terminal.json
+- [ ] 
+
 
 
 
@@ -226,3 +196,34 @@
 - [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/cursor.json
 - [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dialog-stack.json
 - [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/marquee.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/avatar-group.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pill.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/tags.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-01.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-02.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-03.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-04.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-05.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-06.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-07.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-08.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-09.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-10.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-11.json &&
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-12.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-13.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-14.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-15.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-16.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-17.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/navbar-18.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-beam.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/magnetic.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/motion-highlight.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pixel-image.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/calendar.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/mini-calendar.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/relative-time.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/comparison.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/qr-code.json && 
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/terminal.json && 
