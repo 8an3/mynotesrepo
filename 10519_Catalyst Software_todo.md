@@ -5,9 +5,7 @@
 - [ ] monaco editor need to add in support of saving settings whene edited
 - [ ] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
 - [ ] finish off shell in core/shells
-- [ ] 
-- [ ] 
-- [ ] 
+
 - [ ] #### ICONS
 - [ ] https://www.shadcn.io/icons
 - [ ] https://simpleicons.org/
