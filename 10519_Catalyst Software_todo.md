@@ -28,7 +28,7 @@
 - [ ] https://blocks.tremor.so/blocks/grid-lists
 - [x] https://coss.com/origin/alert
 - [x] https://www.cult-ui.com/
-- [ ] https://www.tremor.so/
+- [x] https://www.tremor.so/
 - [ ] https://park-ui.com/
 - [ ] https://www.heroui.com/
 - [ ] https://ui.lukacho.com/
