@@ -37,6 +37,7 @@
 - [x] https://www.heroui.com/
 - [ ] https://ui.lukacho.com/
 - [ ] https://sailboatui.com/
+- [ ] https://ui.indie-starter.dev/
 
 - [ ] #### template IDEAS 
 - [ ] https://www.aisdkagents.com/patterns/basics-tool-scrape-cheerio
