@@ -21,7 +21,7 @@
 - [x] https://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
 - [ ] https://21st.dev/community/components
 - [x] https://www.shadcn.io/awesome
-- [ ] https://ui.aceternity.com/
+- [x] https://ui.aceternity.com/
 - [ ] https://ui.ibelick.com/
 - [ ] https://www.cult-ui.com/
 - [ ] https://coss.com/origin
