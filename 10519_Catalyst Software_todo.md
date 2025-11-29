@@ -29,7 +29,7 @@
 - [x] https://coss.com/origin/alert
 - [x] https://www.cult-ui.com/
 - [x] https://www.tremor.so/
-- [ ] https://park-ui.com/
+- [x] https://park-ui.com/
 - [ ] https://www.heroui.com/
 - [ ] https://ui.lukacho.com/
 - [ ] https://sailboatui.com/
