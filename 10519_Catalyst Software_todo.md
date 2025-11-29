@@ -21,6 +21,7 @@
 - [ ] https://blocks.tremor.so/blocks/grid-lists
 - [ ] https://ui.lukacho.com/
 - [ ] https://sailboatui.com/
+- [ ] https://tw-elements.com/
 - [ ] https://ui.indie-starter.dev/
 - [ ] https://merakiui.com/components
 - [ ] https://www.hyperui.dev/
