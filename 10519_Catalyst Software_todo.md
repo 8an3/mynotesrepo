@@ -22,7 +22,7 @@
 - [ ] https://21st.dev/community/components
 - [x] https://www.shadcn.io/awesome
 - [x] https://ui.aceternity.com/
-- [ ] https://ui.ibelick.com/
+- [x] https://ui.ibelick.com/
 - [ ] https://www.cult-ui.com/
 - [ ] https://coss.com/origin
 - [ ] https://www.tremor.so/
