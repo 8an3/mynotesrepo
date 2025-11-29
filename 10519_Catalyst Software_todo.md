@@ -20,7 +20,7 @@
 - [x] https://magicui.design/docs/components/flickering-grid
 - [x] https://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
 - [ ] https://21st.dev/community/components
-- [ ] https://www.shadcn.io/awesome
+- [x] https://www.shadcn.io/awesome
 - [ ] https://ui.aceternity.com/
 - [ ] https://ui.ibelick.com/
 - [ ] https://www.cult-ui.com/
