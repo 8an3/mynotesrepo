@@ -23,6 +23,9 @@
 - [x] https://www.shadcn.io/awesome
 - [x] https://ui.aceternity.com/
 - [x] https://ui.ibelick.com/
+- [ ] https://blocks.tremor.so/blocks/account-and-user-management#account-and-user-management-3
+- [ ] https://github.com/tremorlabs/tremor-blocks/blob/main/src/content/components/status-monitoring/tracker-10.tsx
+- [ ] https://blocks.tremor.so/blocks/grid-lists
 - [ ] https://www.cult-ui.com/
 - [ ] https://coss.com/origin
 - [ ] https://www.tremor.so/
