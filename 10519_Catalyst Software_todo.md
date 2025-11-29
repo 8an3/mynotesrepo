@@ -8,41 +8,20 @@
 - [ ] 
 - [ ] 
 - [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] #### ICONS
+- [ ] https://www.shadcn.io/icons
+- [ ] https://simpleicons.org/
+- [ ] https://tabler.io/icons
 - [x] ### DONE BUT KEWEP HERE FOR REFERENCE
 - [x] #### UI LIB
 - [ ] https://www.shadcnblocks.com/blocks/free *****
 - [ ] https://www.shadcnblocks.com/components *****
 - [ ] https://21st.dev/community/components **
+- [ ] https://flowbite.com/blocks/application/crud-create-drawers/
 - [x] https://www.shadcn.io/template?page=5
-- [x] https://v0.app/templates/react-ui-builder-qPJFI4OtF9x - visit trhis first for templates to copy off of 
-- [x] https://www.prompt-kit.com
-- [x] https://kokonutui.com/docs/components/ai-prompt
-- [x] https://flowbite.com/blocks/application/crud-create-drawers/
-- [x] https://rsuitejs.com/components/table-virtualized/
-- [x] https://vercel.com/blog/spring25-oss-program#kokonutui
-- [x] https://chakra-ui.com/docs/components/pin-input
-- [x] https://genesis.primereact.org/pages/saas
-- [x] https://diamond.primereact.org/apps/files
-- [x] https://verona.primereact.org/dashboard-sales
-- [x] https://daisyui.com/components/fab
-- [x] https://react.semantic-ui.com/elements/step
-- [x] https://chakra-ui.com/docs/components/data-list
-- [x] https://react.semantic-ui.com/elements/rail
-- [x] https://baseweb.design/components/fixed-marker
-- [x] https://react-spectrum.adobe.com/react-aria/Virtualizer.html
-- [x] https://m3.material.io/components/text-fields/overview
-- [x] https://primereact.org/inplace
-- [x] https://mantine.dev/core/json-input
 - [ ] https://magicui.design/docs/components/code-comparison
 - [ ] https://magicui.design/docs/components/flickering-grid
 - [ ] https://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
-
-## need to check out
 - [ ] https://21st.dev/community/components
 - [ ] https://www.shadcn.io/awesome
 - [ ] https://ui.aceternity.com/
@@ -55,46 +34,11 @@
 - [ ] https://ui.lukacho.com/
 - [ ] https://sailboatui.com/
 
-- [ ] #### ICONS
-- [ ] https://www.shadcn.io/icons
-- [ ] https://simpleicons.org/
-- [ ] https://tabler.io/icons
-
-
 - [ ] #### IDEAS 
 - [ ] that rich text editor in blocks... maybe make out own?
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dock.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/menu-dock.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/editor.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/limelight-nav.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/mac-os-dock.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/sandbox.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/message-dock.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/gantt.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/kanban.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/list.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/table.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/credit-card.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/ticker.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/choicebox.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/color-picker.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dropzone.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/image-crop.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/image-zoom.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-card.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-marquee.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-pin.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-cursor.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-testimonials.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-tooltip.json
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/apple-cards-carousel.json
+- [ ] 
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/apple-hello-effect.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pin-list.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/announcement.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/banner.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/cursor.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dialog-stack.json
-- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/marquee.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/avatar-group.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pill.json
 - [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/tags.json
@@ -233,3 +177,52 @@
 - [ ] https://diamond.primereact.org/ecommerce/order-summary
 - [ ] https://verona.primereact.org/dashboard-sales
 - [ ] https://verona.primereact.org
+
+- [x] https://v0.app/templates/react-ui-builder-qPJFI4OtF9x - visit trhis first for templates to copy off of 
+- [x] https://www.prompt-kit.com
+- [x] https://kokonutui.com/docs/components/ai-prompt
+- [x] https://flowbite.com/blocks/application/crud-create-drawers/
+- [x] https://rsuitejs.com/components/table-virtualized/
+- [x] https://vercel.com/blog/spring25-oss-program#kokonutui
+- [x] https://chakra-ui.com/docs/components/pin-input
+- [x] https://genesis.primereact.org/pages/saas
+- [x] https://diamond.primereact.org/apps/files
+- [x] https://verona.primereact.org/dashboard-sales
+- [x] https://daisyui.com/components/fab
+- [x] https://react.semantic-ui.com/elements/step
+- [x] https://chakra-ui.com/docs/components/data-list
+- [x] https://react.semantic-ui.com/elements/rail
+- [x] https://baseweb.design/components/fixed-marker
+- [x] https://react-spectrum.adobe.com/react-aria/Virtualizer.html
+- [x] https://m3.material.io/components/text-fields/overview
+- [x] https://primereact.org/inplace
+- [x] https://mantine.dev/core/json-input
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dock.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/menu-dock.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/editor.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/limelight-nav.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/mac-os-dock.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/sandbox.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/message-dock.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/gantt.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/kanban.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/list.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/table.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/credit-card.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/ticker.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/choicebox.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/color-picker.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dropzone.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/image-crop.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/image-zoom.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-card.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-marquee.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/3d-pin.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-cursor.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-testimonials.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/pin-list.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/announcement.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/banner.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/cursor.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/dialog-stack.json
+- [x] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/marquee.json
