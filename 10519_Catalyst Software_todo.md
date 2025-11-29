@@ -27,7 +27,7 @@
 - [ ] https://github.com/tremorlabs/tremor-blocks/blob/main/src/content/components/status-monitoring/tracker-10.tsx
 - [ ] https://blocks.tremor.so/blocks/grid-lists
 - [ ] https://www.cult-ui.com/
-- [ ] https://coss.com/origin
+- [x] https://coss.com/origin
 - [ ] https://www.tremor.so/
 - [ ] https://park-ui.com/
 - [ ] https://www.heroui.com/
