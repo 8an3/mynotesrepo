@@ -35,8 +35,12 @@
 - [ ] https://ui.lukacho.com/
 - [ ] https://sailboatui.com/
 
-- [ ] #### IDEAS 
-- [ ] that rich text editor in blocks... maybe make out own?
+- [ ] #### template IDEAS 
+- [ ] https://www.aisdkagents.com/patterns/basics-tool-scrape-cheerio
+- [ ] https://pro.cult-ui.com/sections
+
+
+
 
 - [ ] #### hooks ideas
 - [ ] useClickAnyWhere
