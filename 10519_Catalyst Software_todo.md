@@ -9,8 +9,7 @@
 - [ ] #### ICONS
 - [x] https://www.shadcn.io/icons
 - [x] https://simpleicons.org/
-- [ ] https://tabler.io/icons
-- [x] ### DONE BUT KEWEP HERE FOR REFERENCE
+- [x] https://tabler.io/icons
 - [x] #### UI LIB
 - [x] https://www.shadcnblocks.com/blocks/free *****
 - [x] https://www.shadcnblocks.com/components *****
