@@ -15,6 +15,8 @@
 - [x] #### UI LIB
 - [x] https://www.shadcnblocks.com/blocks/free *****
 - [x] https://www.shadcnblocks.com/components *****
+- [ ] https://www.shadcnblocks.com/blocks - doesnt block html codeso we can coopy it 
+- [ ] https://www.shadcnblocks.com/components - doesnt block html codeso we can coopy it 
 - [ ] https://21st.dev/community/components **
 - [ ] https://flowbite.com/blocks/application/crud-create-drawers/
 - [x] https://www.shadcn.io/template?page=5
@@ -40,6 +42,11 @@
 - [ ] https://www.aisdkagents.com/patterns/basics-tool-scrape-cheerio
 - [ ] https://pro.cult-ui.com/sections
 - [ ] https://merakiui.com/templates
+- [ ] https://www.shadcn.io/template
+- [ ] #### tools
+- [ ] https://www.shadcn.io/tools/phone-mockups
+- [ ] https://www.shadcn.io/tools/pdf
+- [ ] https://www.shadcn.io/tools/zip
 
 
 
