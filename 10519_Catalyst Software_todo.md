@@ -1,7 +1,7 @@
 # Catalyst Software
 
 - [x] need to make the objects for core/navbars and pages
-- [ ] post linked in blog post about  pre promtp
+- [x] post linked in blog post about  pre promtp
 - [ ] monaco editor need to add in support of saving settings whene edited
 - [x] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
 - [ ] finish off shell in core/shells
