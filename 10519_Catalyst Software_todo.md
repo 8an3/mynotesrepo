@@ -14,13 +14,13 @@
 - [ ] https://tabler.io/icons
 - [x] ### DONE BUT KEWEP HERE FOR REFERENCE
 - [x] #### UI LIB
-- [ ] https://www.shadcnblocks.com/blocks/free *****
+- [x] https://www.shadcnblocks.com/blocks/free *****
 - [ ] https://www.shadcnblocks.com/components *****
 - [ ] https://21st.dev/community/components **
 - [ ] https://flowbite.com/blocks/application/crud-create-drawers/
 - [x] https://www.shadcn.io/template?page=5
-- [ ] https://magicui.design/docs/components/code-comparison
-- [ ] https://magicui.design/docs/components/flickering-grid
+- [x] https://magicui.design/docs/components/code-comparison
+- [x] https://magicui.design/docs/components/flickering-grid
 - [ ] https://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
 - [ ] https://21st.dev/community/components
 - [ ] https://www.shadcn.io/awesome
@@ -36,13 +36,6 @@
 
 - [ ] #### IDEAS 
 - [ ] that rich text editor in blocks... maybe make out own?
-- [ ] pnpm dlx shadcn@latest add https://www.shadcn.io/registry/animated-tooltip.json
-- [ ] 
-- [ ] 
-
-
-
-
 
 - [ ] #### hooks ideas
 - [ ] useClickAnyWhere
