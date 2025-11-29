@@ -5,20 +5,30 @@
 - [ ] monaco editor need to add in support of saving settings whene edited
 - [x] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
 - [ ] finish off shell in core/shells
-- [ ] https://play.tailwindcss.com/
-- [ ] https://uicolors.app/generate/324002
+
 
 - [ ] #### ICONS
 - [x] https://www.shadcn.io/icons
 - [x] https://simpleicons.org/
 - [x] https://tabler.io/icons
 - [x] #### UI LIB
-- [x] https://www.shadcnblocks.com/blocks/free *****
-- [x] https://www.shadcnblocks.com/components *****
+
 - [ ] https://www.shadcnblocks.com/blocks - doesnt block html codeso we can coopy it 
 - [ ] https://www.shadcnblocks.com/components - doesnt block html codeso we can coopy it 
-- [x] https://21st.dev/community/components **
 - [ ] https://flowbite.com/blocks/application/crud-create-drawers/
+- [ ] https://blocks.tremor.so/blocks/account-and-user-management#account-and-user-management-3
+- [ ] https://github.com/tremorlabs/tremor-blocks/blob/main/src/content/components/status-monitoring/tracker-10.tsx
+- [ ] https://blocks.tremor.so/blocks/grid-lists
+- [ ] https://ui.lukacho.com/
+- [ ] https://sailboatui.com/
+- [ ] https://ui.indie-starter.dev/
+- [ ] https://merakiui.com/components
+- [ ] https://www.hyperui.dev/
+- [x] https://coss.com/origin/alert
+- [x] https://www.cult-ui.com/
+- [x] https://www.tremor.so/
+- [x] https://park-ui.com/
+- [x] https://www.heroui.com/
 - [x] https://www.shadcn.io/template?page=5
 - [x] https://magicui.design/docs/components/code-comparison
 - [x] https://magicui.design/docs/components/flickering-grid
@@ -26,20 +36,11 @@
 - [x] https://21st.dev/community/components
 - [x] https://www.shadcn.io/awesome
 - [x] https://ui.aceternity.com/
+- [x] https://21st.dev/community/components **
 - [x] https://ui.ibelick.com/
-- [ ] https://blocks.tremor.so/blocks/account-and-user-management#account-and-user-management-3
-- [ ] https://github.com/tremorlabs/tremor-blocks/blob/main/src/content/components/status-monitoring/tracker-10.tsx
-- [ ] https://blocks.tremor.so/blocks/grid-lists
-- [x] https://coss.com/origin/alert
-- [x] https://www.cult-ui.com/
-- [x] https://www.tremor.so/
-- [x] https://park-ui.com/
-- [x] https://www.heroui.com/
-- [ ] https://ui.lukacho.com/
-- [ ] https://sailboatui.com/
-- [ ] https://ui.indie-starter.dev/
-- [ ] https://merakiui.com/components
-- [ ] https://www.hyperui.dev/
+- [x] https://www.shadcnblocks.com/blocks/free *****
+- [x] https://www.shadcnblocks.com/components *****
+
 
 - [ ] #### template IDEAS 
 - [ ] https://www.aisdkagents.com/patterns/basics-tool-scrape-cheerio
@@ -50,7 +51,8 @@
 - [ ] https://www.shadcn.io/tools/phone-mockups
 - [ ] https://www.shadcn.io/tools/pdf
 - [ ] https://www.shadcn.io/tools/zip
-
+- [ ] https://play.tailwindcss.com/
+- [ ] https://uicolors.app/generate/324002
 
 
 
