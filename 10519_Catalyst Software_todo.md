@@ -8,7 +8,7 @@
 
 - [ ] #### ICONS
 - [x] https://www.shadcn.io/icons
-- [ ] https://simpleicons.org/
+- [x] https://simpleicons.org/
 - [ ] https://tabler.io/icons
 - [x] ### DONE BUT KEWEP HERE FOR REFERENCE
 - [x] #### UI LIB
