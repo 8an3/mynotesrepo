@@ -5,6 +5,8 @@
 - [ ] monaco editor need to add in support of saving settings whene edited
 - [x] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
 - [ ] finish off shell in core/shells
+- [ ] https://play.tailwindcss.com/
+- [ ] https://uicolors.app/generate/324002
 
 - [ ] #### ICONS
 - [x] https://www.shadcn.io/icons
@@ -32,7 +34,7 @@
 - [x] https://park-ui.com/
 - [x] https://www.heroui.com/
 - [ ] https://ui.lukacho.com/
-- [x] https://sailboatui.com/
+- [ ] https://sailboatui.com/
 
 - [ ] #### template IDEAS 
 - [ ] https://www.aisdkagents.com/patterns/basics-tool-scrape-cheerio
