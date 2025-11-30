@@ -16,7 +16,9 @@
 - [ ] https://www.shadcnblocks.com/blocks - doesnt block html codeso we can coopy it 
 - [ ] https://www.shadcnblocks.com/components - doesnt block html codeso we can coopy it 
 - [ ] https://flowbite.com/blocks/application/crud-create-drawers/
-- [ ] https://blocks.tremor.so/blocks/account-and-user-management#account-and-user-management-3
+- [ ] https://blocks.tremor.so/blocks/account-and-user-management#account-and-user-manage
+
+ment-3
 - [ ] https://github.com/tremorlabs/tremor-blocks/blob/main/src/content/components/status-monitoring/tracker-10.tsx
 - [ ] https://blocks.tremor.so/blocks/grid-lists
 - [ ] https://ui.lukacho.com/
