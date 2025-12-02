@@ -6,48 +6,36 @@
 - [x] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
 - [ ] finish off shell in core/shells
 
-
-- [ ] #### ICONS
-- [x] https://www.shadcn.io/icons
-- [x] https://simpleicons.org/
-- [x] https://tabler.io/icons
-- [x] #### UI LIB
-
-- [ ] https://www.shadcnblocks.com/blocks - doesnt block html codeso we can coopy it 
-- [ ] https://www.shadcnblocks.com/components - doesnt block html codeso we can coopy it 
+- [x] #### UI LIBs
+- [x] https://www.shadcn.io/awesome
+- [x] https://www.shadcn.io/template?page=5
+- [x] https://www.shadcnblocks.com/blocks/free *****
+- [x] https://www.shadcnblocks.com/components *****
+- [x] https://pro.cult-ui.com/sections
+- [x] https://www.aisdkagents.com/patterns/basics-tool-scrape-cheerio
+- [x] https://kokonutui.com/docs/components/ai-prompt
+- [x] https://coss.com/origin/alert
+- [x] https://www.cult-ui.com/
+- [x] https://www.tremor.so/
+- [x] https://www.heroui.com/
+- [x] https://park-ui.com/
+- [x] https://magicui.design/docs/components/code-comparison
+- [x] https://21st.dev/community/components
+- [x] https://ui.aceternity.com/
+- [x] https://ui.ibelick.com/
+- [ ] https://www.hyperui.dev/
 - [ ] https://flowbite.com/blocks/application/crud-create-drawers/
 - [ ] https://blocks.tremor.so/blocks/account-and-user-management#account-and-user-manage
 - [ ] https://github.com/tremorlabs/tremor-blocks/blob/main/src/content/components/status-monitoring/tracker-10.tsx
-- [ ] https://blocks.tremor.so/blocks/grid-lists
 - [ ] https://ui.lukacho.com/
 - [ ] https://sailboatui.com/
 - [ ] https://tw-elements.com/
 - [ ] https://ui.indie-starter.dev/
 - [ ] https://merakiui.com/components
-- [ ] https://www.hyperui.dev/
-- [x] https://coss.com/origin/alert
-- [x] https://www.cult-ui.com/
-- [x] https://www.tremor.so/
-- [x] https://park-ui.com/
-- [x] https://www.heroui.com/
-- [x] https://www.shadcn.io/template?page=5
-- [x] https://magicui.design/docs/components/code-comparison
-- [x] https://magicui.design/docs/components/flickering-grid
-- [x] https://www.shadcn.io/components/code/code-block#preview-code-block-highlight-line
-- [x] https://21st.dev/community/components
-- [x] https://www.shadcn.io/awesome
-- [x] https://ui.aceternity.com/
-- [x] https://21st.dev/community/components **
-- [x] https://ui.ibelick.com/
-- [x] https://www.shadcnblocks.com/blocks/free *****
-- [x] https://www.shadcnblocks.com/components *****
+- [ ] https://merakiui.com/templates
 
 
 - [ ] #### template IDEAS 
-- [ ] https://www.aisdkagents.com/patterns/basics-tool-scrape-cheerio
-- [ ] https://pro.cult-ui.com/sections
-- [ ] https://merakiui.com/templates
-- [ ] https://www.shadcn.io/template
 - [ ] #### tools
 - [ ] https://www.shadcn.io/tools/phone-mockups
 - [ ] https://www.shadcn.io/tools/pdf
@@ -163,7 +151,6 @@
 
 - [x] https://v0.app/templates/react-ui-builder-qPJFI4OtF9x - visit trhis first for templates to copy off of 
 - [x] https://www.prompt-kit.com
-- [x] https://kokonutui.com/docs/components/ai-prompt
 - [x] https://flowbite.com/blocks/application/crud-create-drawers/
 - [x] https://rsuitejs.com/components/table-virtualized/
 - [x] https://vercel.com/blog/spring25-oss-program#kokonutui
