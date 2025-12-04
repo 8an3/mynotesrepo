@@ -2,10 +2,14 @@
 
 - [x] need to make the objects for core/navbars and pages
 - [x] post linked in blog post about  pre promtp
-- [ ] monaco editor need to add in support of saving settings whene edited
+- [X] monaco editor need to add in support of saving settings whene edited
 - [x] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
 - [ ] finish off shell in core/shells
-
+- [ ] finish off sandbox
+- [ ] test additions made to monaco editor
+- [ ] test new motions category
+- [ ] 
+- [ ] 
 - [x] #### UI LIBs
 - [x] https://www.shadcn.io/awesome
 - [x] https://www.shadcn.io/template?page=5
@@ -55,6 +59,7 @@
 
 - [ ] message
 - [ ] calendar wrapper too?
+- [ ] event scheduler
 - [ ] do i want these ones 
 - [ ] Lightbox
 - [ ] App Shell
