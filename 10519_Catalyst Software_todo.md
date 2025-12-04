@@ -65,7 +65,7 @@
 - [ ] App Shell
 - [ ] Error Handler
 - [ ] Portal
-- [ ] Virtualized List
+- [x] Virtualized List
 - [ ] Chart Components
 - [ ] https://flowbite.com/blocks/application/crud-create-drawers/
 - [ ] https://flowbite.com/blocks/application/faceted-search-drawers/
