@@ -55,7 +55,7 @@
 - [ ] useDarkMode 
 - [ ] DebounceCallback 
 - [ ] useDebounceValue 
-- [ ] https://www.shadcn.io/hooks/use-boolean
+- [x] https://www.shadcn.io/hooks/use-boolean
 
 - [ ] message
 - [ ] calendar wrapper too?
