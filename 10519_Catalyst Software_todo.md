@@ -1,5 +1,7 @@
 # Catalyst Software
-
+- [ ] fix add to devstack from exporer view
+- [ ] add script that copies prompt files into their objects within the devstack config 
+- [ ] add prot 7 to yeet
 - [x] need to make the objects for core/navbars and pages
 - [x] post linked in blog post about  pre promtp
 - [X] monaco editor need to add in support of saving settings whene edited
