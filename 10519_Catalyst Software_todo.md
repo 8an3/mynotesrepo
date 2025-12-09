@@ -4,12 +4,47 @@
 - [x] post linked in blog post about  pre promtp
 - [X] monaco editor need to add in support of saving settings whene edited
 - [x] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
-- [ ] finish off shell in core/shells
-- [ ] finish off sandbox
+- [x] finish off shell in core/shells
+- [ ] finish off sandbox - NEEDS ALL COMPONENTS TO BE IMPORTED SHOULD CREATE A SCRIPT THAT GENERATES A LIST OF ALL COMPONENTS WITHIN THE LIBRARY
+- [ ] 3
+- [ ] 4
+- [ ] new tools / comps are in the works for the library. With so many complicated tools, components and etc created and available for you to use out there, these will be built with the same principles and ideologies as everything else. Each tool will be as easy to use and implement as the components found within the library. Not only allowing their use to coders of all levels, but also reducing the amount of time it takes to learn about and implement for all coders. 
+    - [ ]  event calendar 
+        - [ ]  Catalyst Events
+        - [ ]  views 
+            - [ ]  week
+            - [ ]  day 
+            - [ ]  month
+            - [ ]  sidebar ( short in width, but tall )
+            - [ ]  list
+            - [ ]  table 
+    - [ ]  appointment scheduler 
+        - [ ]  Catalyst Scheduler
+    - [ ]  Catalyst Editor
+        - [ ]  the editor that is for use will be built as a useable component
+        - [ ]  Since the last post this has seen a great number of updates, and is just about to receive more
+        - [ ]  I haven't converted it yet to become a reusable component yet but will be done in the near future
+        - [ ]  will only be available as a full page height editor
+        - [ ]  based on monaco editor
+    - [ ]  rich text editor 
+        - [ ]  Catalyst RTE 
+        - [ ]  I know a lot of other ui libraries wrap their rte's using another library, but this will be a custom scratch rich text editor so there will be no use of lexical or tiptap 
+        - [ ]  will feature several size types along with custom height and dynamic height
+    - [ ]  theme builder
+        - [ ]  an actual theme builder will not be made available as everyone enjoys building these from scratch but there are hooks within the library to make it alot easier for you to code one such as
+            - [ ]  useTailwindConverter that converts from v3 <-> v4 hsl and v3 hsl <-> to v4 oklch
+            - [ ]  useVscodeThemeConfig where you supply it a base set of colors and will produce a config to paste in your settings.jsom file
+            - [ ]  useGetTheme where you can store all your colored theme for you to call on where you need them
+    - [ ]  automotive finance calculator
+        - [ ]  this was almost finished before but had to code other projects and this is stil on the list to be built
+        - [ ]  it will be based of the finance calculator I had built while still in sales and was the best calculator used in the industry
+        - [ ]  the libraries implementation will also contain a guide on how to build it on your own
+        - [ ]  this is due to the overall complicated nature of the finished product I was using while in sales
+        - [ ]  while the calculator alone will be a huge improvement over anything they already use, the guide will cover more then just the calculator alone. the guide will show how to implement the entire step by step process sales people need to follow when first starting the quoting process, with the calculator being a large part of the process it ties into the other steps and, to date, I haven't found a way to implement it the way it should be done for the sales person while at the same time making it a reusable component for coders
 - [ ] test additions made to monaco editor
 - [ ] test new motions category
-- [ ] 
-- [ ] 
+- [ ] 1
+- [ ] 2
 - [x] #### UI LIBs
 - [x] https://www.shadcn.io/awesome
 - [x] https://www.shadcn.io/template?page=5
