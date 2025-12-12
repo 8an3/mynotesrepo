@@ -1,3 +1,0 @@
-# Catalyst Editor
-
-- [ ] New task
