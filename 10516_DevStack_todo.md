@@ -9,3 +9,5 @@
   - [ ] when logging in if the user is different then the current user in indexed reset all datqa
   - [ ] changed createNote in configureAction to return note instead of redirect
   - [ ] if (isTrashed) { return json({success: false, message: 'Note is in trash'}) }
+  - [ ] merge with devstack
+  - [ ] i wantimplement a queue system for rapid line item pushes. instead of cancelling subsequent operations, enqueue each push request and process them sequentially in FIFO order, with each waiting for the previous operation to complete before executing
