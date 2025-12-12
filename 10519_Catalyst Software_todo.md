@@ -8,7 +8,7 @@
   - [X] monaco editor need to add in support of saving settings whene edited
   - [x] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
   - [x] finish off shell in core/shells
-  - [ ] finish off sandbox - NEEDS ALL COMPONENTS TO BE IMPORTED SHOULD CREATE A SCRIPT THAT GENERATES A LIST OF ALL
+  - [x] finish off sandbox - NEEDS ALL COMPONENTS TO BE IMPORTED SHOULD CREATE A SCRIPT THAT GENERATES A LIST OF ALL
 
 
 
