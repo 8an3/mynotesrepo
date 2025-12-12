@@ -1,6 +1,6 @@
 # Catalyst Software
 
-- [ ] <b>TO-DO</b>
+- [ ] TO-DO
   - [ ] need to add restore tab in monaco editor
   - [x] need to add link in editor link navigation, like the same as tox and sourcemaps do with [Error Boundary](#error-boundary)
   - [ ] need to make the objects for ui library that are missing 
@@ -9,17 +9,17 @@
   - [x] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
   - [x] finish off shell in core/shells
   - [ ] finish off sandbox - NEEDS ALL COMPONENTS TO BE IMPORTED SHOULD CREATE A SCRIPT THAT GENERATES A LIST OF ALL
-<br/>
-<br/>
 
-- [ ] <b>COMPONENTS WITHIN THE LIBRARY</b>
-  - [ ] <b>NEW TOOLS</b> / comps are in the works for the library. With so many complicated tools, components and etc created and available for you to use out there, these will be built with the same principles and ideologies as everything else. Each tool will be as easy to use and implement as the components found within the library. Not only allowing their use tocoders of all levels, but also reducing the amount of time it takes to learn about and implement for all coders.
-    - [ ] <b>MESSENGER</b>
+
+
+- [ ] COMPONENTS WITHIN THE LIBRARY
+  - [ ] NEW TOOLS / comps are in the works for the library. With so many complicated tools, components and etc created and available for you to use out there, these will be built with the same principles and ideologies as everything else. Each tool will be as easy to use and implement as the components found within the library. Not only allowing their use tocoders of all levels, but also reducing the amount of time it takes to learn about and implement for all coders.
+    - [ ] MESSENGER
       - [ ] one sms based
       - [ ] the other in app based   
-  <br/>
+  
 
-    - [ ] <b>EVENT CAL</b>
+    - [ ] EVENT CAL
       - [ ] Catalyst Events
       - [ ] views
       - [ ] week
@@ -28,50 +28,50 @@
       - [ ] sidebar ( short in width, but tall )
       - [ ] list
       - [ ] table
-  <br/>
+  
 
-    - [ ] <b>APPOINTMENT SCHEDULER</b>
+    - [ ] APPOINTMENT SCHEDULER
       - [ ] Catalyst Scheduler
-  <br/>
+  
 
-    - [ ] <b>CATALYST EDITOR</b>
+    - [ ] CATALYST EDITOR
       - [ ] the editor that is for use will be built as a useable component
       - [ ] Since the last post this has seen a great number of updates, and is just about to receive more
       - [ ] I haven't converted it yet to become a reusable component yet but will be done in the near future
       - [ ] will only be available as a full page height editor
       - [ ] based on monaco editor
-  <br/>
+  
 
-    - [ ] <b>RICH TEXT EDITOR</b>
+    - [ ] RICH TEXT EDITOR
       - [ ] Catalyst RTE
       - [ ] I know a lot of other ui libraries wrap their rte's using another library, but this will be a custom scratch richtext editor so there will be no use of lexical or tiptap
       - [ ] will feature several size types along with custom height and dynamic height
-  <br/> 
+   
 
-    - [ ] <b>THEME BUILDER</b>
+    - [ ] THEME BUILDER
       - [ ] an actual theme builder will not be made available as everyone enjoys building these from scratch but there arehooks within the library to make it alot easier for you to code one such as
-  <br/>
+  
 
-    - [ ] <b>PROMPT</b>
+    - [ ] PROMPT
       - [ ] for sellable product, we need to update the landing page so that it is a ai chat
       - [ ] multi engine
       - [ ] easy setup
       - [ ] hot switch button
       - [ ] then placing the current compiler buiilder, in a tab
       - [ ] wehere the first tab is the ai chat
-  <br/>
+  
 
-    - [ ] <b>COMPILER</b>
-  <br/>
+    - [ ] COMPILER
+  
 
-    - [ ] <b>CATALYST REALTOR</b>
+    - [ ] CATALYST REALTOR
       - [ ] sales app, pos to keep track of
         - [ ] clients
         - [ ] sales
         - [ ] products
-  <br/>
+  
 
-    - [ ] <b>USETAILWINDCONVERTER</b> that converts from v3 <-> v4 hsl and v3 hsl <-> to v4 oklch
+    - [ ] USETAILWINDCONVERTER that converts from v3 <-> v4 hsl and v3 hsl <-> to v4 oklch
       - [ ] useVscodeThemeConfig where you supply it a base set of colors and will produce a config to paste in your  settings.jsom file
       - [ ] useGetTheme where you can store all your colored theme for you to call on where you need them
       - [ ] automotive finance calculator
@@ -80,19 +80,19 @@
       - [ ] the libraries implementation will also contain a guide on how to build it on your own
       - [ ] this is due to the overall complicated nature of the finished product I was using while in sales
       - [ ] while the calculator alone will be a huge improvement over anything they already use, the guide will cover more then just the calculator alone. the guide will show how to implement the entire step by step process sales  people need to follow when first starting the quoting process, with the calculator being a large part of the process  it ties into the other steps and, to date, I haven't found a way to implement it the way it should be done for the sales person while at the same time making it a reusable component for coders
-  <br/>
+  
 
     - [ ] gandalf chat bot in components viewer practically done jsut waiting for subs
       - [ ] user settings page to configure and need to upgrade schema to take in api keys
     - [ ] test additions made to monaco editor
-<br/>
 
-- [ ] <b>UI</b>
+
+- [ ] UI
   - [ ] test new motions category
-<br/>
-<br/>
 
-- [x] <b>UI LIBS</b> 
+
+
+- [x] UI LIBS 
     - [x] https://www.shadcn.io/awesome
     - [x] https://www.shadcn.io/template?page=5
     - [x] https://www.shadcnblocks.com/blocks/free *****
@@ -119,28 +119,28 @@
     - [ ] https://ui.indie-starter.dev/
     - [ ] https://merakiui.com/components
     - [ ] https://merakiui.com/templates
-<br/>
-<br/>
 
-- [ ] <b>template IDEAS</b> 
-  - [ ] <b>TOOLS</b> 
+
+
+- [ ] template IDEAS 
+  - [ ] TOOLS 
     - [ ] https://www.shadcn.io/tools/phone-mockups
     - [ ] https://www.shadcn.io/tools/pdf
     - [ ] https://www.shadcn.io/tools/zip
     - [ ] https://play.tailwindcss.com/
     - [ ] https://uicolors.app/generate/324002
-<br/>
 
-  - [ ] <b>HOOKS IDEAS</b>
+
+  - [ ] HOOKS IDEAS
     - [ ] useClickAnyWhere
     - [ ] useCountdown
     - [ ] useDarkMode
     - [ ] DebounceCallback
     - [ ] useDebounceValue
     - [x] https://www.shadcn.io/hooks/use-boolean
-<br/>
 
-  - [ ] <b>do i want these ones</b> 
+
+  - [ ] do i want these ones 
     - [ ] Lightbox
     - [ ] Error Handler
     - [ ] Portal
@@ -150,9 +150,9 @@
     - [x] Virtualized List
     - [x] event scheduler
     - [ ] Chart Components
-<br/>
 
-- [ ] <b>TEMPLATES TO GET STILL</b> 
+
+- [ ] TEMPLATES TO GET STILL 
     - [ ] https://flowbite.com/blocks/application/crud-create-drawers/
     - [ ] https://flowbite.com/blocks/application/faceted-search-drawers/
     - [ ] https://flowbite.com/blocks/application/crud-success-message/
@@ -267,9 +267,9 @@
     - [ ] https://github.com/hsuanyi-chou/shadcn-ui-expansions
     - [ ] https://www.uibeats.com/
     - [ ] https://github.com/emilkowalski/vaul
-<br />
 
-- [x] <b>COMPLETED</b>
+
+- [x] COMPLETED
     - [x] fix add to devstack from exporer view
     - [x] add script that copies prompt files into their objects within the devstack config
     - [x] collecting these files
