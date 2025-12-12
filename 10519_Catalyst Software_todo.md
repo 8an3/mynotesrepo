@@ -1,7 +1,7 @@
 # Catalyst Software
 
 - [ ] TO-DO
-  - [ ] need to add restore tab in monaco editor
+  - [x] need to add restore tab in monaco editor
   - [x] need to add link in editor link navigation, like the same as tox and sourcemaps do with [Error Boundary](#error-boundary)
   - [ ] need to make the objects for ui library that are missing 
   - [x] post linked in blog post about pre promtp
