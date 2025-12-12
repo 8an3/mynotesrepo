@@ -30,7 +30,7 @@
       - [ ] table
   
 
-    - [ ] APPOINTMENT SCHEDULER
+    - [x] APPOINTMENT SCHEDULER
       - [ ] Catalyst Scheduler
   
 
