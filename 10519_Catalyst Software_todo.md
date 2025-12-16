@@ -3,7 +3,7 @@
 - [ ] TO-DO
   - [x] need to add restore tab in monaco editor
   - [x] need to add link in editor link navigation, like the same as tox and sourcemaps do with [Error Boundary](#error-boundary)
-  - [ ] need to make the objects for ui library that are missing 
+  - [x] need to make the objects for ui library that are missing 
   - [x] post linked in blog post about pre promtp
   - [X] monaco editor need to add in support of saving settings whene edited
   - [x] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
