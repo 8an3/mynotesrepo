@@ -19,7 +19,7 @@
       - [ ] the other in app based   
   
 
-    - [ ] EVENT CAL
+    - [ ] EVENT CAL 
       - [ ] Catalyst Events
       - [ ] views
       - [ ] week
