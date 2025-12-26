@@ -1,11 +1,12 @@
 
 #### todo
 - [x] need to fix context menu for notes
-- [ ] need to create add items functions for apiCall
-- [ ] need to create add items functions for settingsToggle
-- [ ] need to create add items functions for search
-- [ ] need to test BE concurrent function
-- [ ] need to test BE sequential function
+- [x] need to create add items functions for apiCall
+- [x] need to create add items functions for settingsToggle
+- [ ] recreate creation process for cmdChain, concurrent, chain via opening jsonc file and implementing a intellisense system to help with creating the new item type
+- [x] need to create add items functions for search
+- [x] need to test BE concurrent function
+- [x] need to test BE sequential function
 - [x] add new tools to drop down and devstack quickpick
 - [x] need to create a section on how to benefit from the local / vs production database env toggle
 
@@ -62,8 +63,6 @@
 - [ ] The Fix: A type that fetches a value from a CLI-based vault (like gh secret, aws secretsmanager, or a local encrypted file).
 - [ ] How it works: It executes the CLI fetch and uses your existing copyToClipboard logic to put the secret in your hand instantly.
 - [ ] Value: Huge security and speed boost. No more "hunting for the wiki page."
-
-
 
 
 #### item type ideas???
