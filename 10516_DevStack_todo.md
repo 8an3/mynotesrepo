@@ -21,6 +21,10 @@
 - [ ] need to implement `ocrmnavigator.codesnap.backgroundPalette` and others
 
 - [ ] ### remote access / editing
+- [ ] access to:
+- [ ] config
+- [ ] snippets
+- [ ] todo, notes and reminders
 - [ ] be able to download your config from anywhere
 - [ ] set up user profile on site
 - [ ] user github email for syncing data
