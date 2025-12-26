@@ -1,14 +1,5 @@
 
 #### todo
-- [x] need to fix context menu for notes
-- [x] need to create add items functions for apiCall
-- [x] need to create add items functions for settingsToggle
-- [ ] recreate creation process for cmdChain, concurrent, chain via opening jsonc file and implementing a intellisense system to help with creating the new item type
-- [x] need to create add items functions for search
-- [x] need to test BE concurrent function
-- [x] need to test BE sequential function
-- [x] add new tools to drop down and devstack quickpick
-- [x] need to create a section on how to benefit from the local / vs production database env toggle
 
 
 - [ ] need to update snippet editor
@@ -52,7 +43,6 @@
 - [ ] The Workflow: A specialized command that launches a tunnel (like ngrok http 3000), captures the generated URL, and automatically updates a specific line in your config.ts or .env with the new public URL.
 - [ ] The Fix: A tunnelLauncher type.
 
-
 #### feature request quick pick
 - [ ] query current user base via a toast on load up, once clicked opens a vscode quick pick with current feautres to pick, once they select a value they are then presented an input to supply their own feature request
 
@@ -63,7 +53,6 @@
 - [ ] The Fix: A type that fetches a value from a CLI-based vault (like gh secret, aws secretsmanager, or a local encrypted file).
 - [ ] How it works: It executes the CLI fetch and uses your existing copyToClipboard logic to put the secret in your hand instantly.
 - [ ] Value: Huge security and speed boost. No more "hunting for the wiki page."
-
 
 #### item type ideas???
 - [ ] dependencyManager 
@@ -86,7 +75,6 @@
 - [ ] catalyst editor
 - [ ] rich text editor
 
-
 - [ ] DevArchive
 - [ ] I’ve noticed a disturbing trend: the "Great Deleting." The people who built the web are retiring or passing on, and their servers are going dark. I’ve lost count of how many times I’ve needed a specific resource only to find the site no longer exists.
 
@@ -99,14 +87,4 @@
 - [ ] This is a place where data survives. Whether you want to share your knowledge with the world or keep it private, you can finally rely on the "Save" button again.
 
 
-- [x] last stable version 351
-- [x] add global settings file opener in quick pick
-- [x] need to add md pre-processor to readme
-- [x] convert node .js scripts over to extension functions allowing other workspaces the same functionality
 
-- [ ] TO-DO
-  - [x] when logging in if the user is different then the current user in indexed reset all datqa
-  - [x] changed createNote in configureAction to return note instead of redirect
-  - [x] if (isTrashed) { return json({success: false, message: 'Note is in trash'}) }
-  - [x] merge with devstack
-  - [x] i wantimplement a queue system for rapid line item pushes. instead of cancelling subsequent operations, enqueue each push request and process them sequentially in FIFO order, with each waiting for the previous operation to complete before executing
