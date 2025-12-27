@@ -3,6 +3,7 @@
 - [ ] need to update snippet editor
 
 - [ ] ### README.md
+- [ ] terminal engine... currently if there is currently a daev serverv nothing will run... we need to check and see if the current terminal window is busy... if it is creater a new window
 
 - [ ] ### Need to implement function on / off switches for:
 - [ ] need to implement `ocrmnavigator.vfs.tasks`
