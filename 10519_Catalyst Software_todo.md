@@ -1,13 +1,13 @@
 # Catalyst Software
 
-- [ ] ★ ━━━━ ☆ ━━━━ ITEMS MADE BUT NEED TO BE ADDED TO INV ━━━━ ☆ ━━━━ ★
-  - [ ] ★ ━━━━ UTILS ━━━━ ★
+- [ ] TO-DO
+  - [ ] utils
     - [ ] auth.ts
     - [ ] auth_session.ts
     - [ ] auth_github.ts
     - [ ] auth.github.callback.tsx
     - [ ] auth.github.tsx
-  - [ ] ★ ━━━━ PROMPT ━━━━ ★
+  - [ ] prompt
     - [ ] providers.tsx
     - [ ] snippets.tsx
     - [ ] prePrompts.tsx
@@ -15,22 +15,22 @@
     - [ ] prompt-chat-container-streaming.tsx
     - [ ] code-block-examples.tsx
     - [ ] prompt-feedback-bar.tsx
-  - [ ] ★ ━━━━ PRIMITIVE ━━━━ ★
+  - [ ] primitive
     - [ ] button-group
-  - [ ] ★ ━━━━ MOTION ━━━━ ★
+  - [ ] motion
     - [ ] need to update MotionButton MotionPopover1
     - [ ] Motionsgroup
     - [ ] MotionAvatar
     - [ ] MotionRadioCard
-  - [ ] ★ ━━━━ MEDIA ━━━━ ★
+  - [ ] media
     - [ ] color pallete card
     - [ ] InfiniteSlider
-  - [ ] ★ ━━━━ HOOKS ━━━━ ★
+  - [ ] hooks
     - [ ] useSlideInV1
     - [ ] useTailwindConverter
-  - [ ] ★ ━━━━ FORMS ━━━━ ★
+  - [ ] forms
     - [ ] fancy-area
-  - [ ] ★ ━━━━ CORE ━━━━ ★
+  - [ ] core
     - [ ] loadingBoundary 
     - [ ] HeroBadge
     - [ ] current timeline is now timeline2, add new timeline
@@ -44,19 +44,19 @@
     - [ ] Animated Hero -> Minamilist
     - [ ] Min Feature -> Minamilist
     - [ ] Faq Section -> Minamilist
-  - [ ] ★ ━━━━ COMBOBOX ━━━━ ★
+  - [ ] combobox
     - [ ] emojiPicker
 
 
 
-- [ ] ★ ━━━━ ☆ ━━━━ COMPONENTS WITHIN THE LIBRARY ━━━━ ☆ ━━━━ ★
+- [ ] COMPONENTS WITHIN THE LIBRARY
   - [ ] NEW TOOLS / comps are in the works for the library. With so many complicated tools, components and etc created and available for you to use out there, these will be built with the same principles and ideologies as everything else. Each tool will be as easy to use and implement as the components found within the library. Not only allowing their use tocoders of all levels, but also reducing the amount of time it takes to learn about and implement for all coders.
-    - [ ] ★ ━━━━ MESSENGER ━━━━ ★
+    - [ ] MESSENGER
       - [ ] one sms based
       - [ ] the other in app based   
   
 
-    - [ ] ★ ━━━━ EVENT CAL ━━━━ ★
+    - [ ] EVENT CAL 
       - [ ] Catalyst Events
       - [ ] views
       - [ ] week
@@ -67,11 +67,11 @@
       - [ ] table
   
 
-    - [ ] ★ ━━━━ APPOINTMENT SCHEDULER ━━━━ ★
+    - [ ] APPOINTMENT SCHEDULER
       - [ ] Catalyst Scheduler
   
 
-    - [ ] ★ ━━━━ CATALYST EDITOR ━━━━ ★
+    - [ ] CATALYST EDITOR
       - [ ] the editor that is for use will be built as a useable component
       - [ ] Since the last post this has seen a great number of updates, and is just about to receive more
       - [ ] I haven't converted it yet to become a reusable component yet but will be done in the near future
@@ -79,27 +79,29 @@
       - [ ] based on monaco editor
   
 
-    - [ ] ★ ━━━━ RICH TEXT EDITOR ━━━━ ★
+    - [ ] RICH TEXT EDITOR
       - [ ] Catalyst RTE
       - [ ] I know a lot of other ui libraries wrap their rte's using another library, but this will be a custom scratch richtext editor so there will be no use of lexical or tiptap
       - [ ] will feature several size types along with custom height and dynamic height
    
 
-    - [ ] ★ ━━━━ THEME BUILDER ━━━━ ★
+    - [ ] THEME BUILDER
       - [ ] an actual theme builder will not be made available as everyone enjoys building these from scratch but there arehooks within the library to make it alot easier for you to code one such as
   
 
-    - [ ] ★ ━━━━ PROMPT ━━━━ ★
+    - [ ] PROMPT
       - [ ] for sellable product, we need to update the landing page so that it is a ai chat
       - [ ] multi engine
       - [ ] easy setup
       - [ ] hot switch button
       - [ ] then placing the current compiler buiilder, in a tab
       - [ ] wehere the first tab is the ai chat
+  
 
-    - [ ] ★ ━━━━ COMPILER ━━━━ ★
+    - [ ] COMPILER
+  
 
-    - [ ] ★ ━━━━ CATALYST REALTOR ━━━━ ★
+    - [ ] CATALYST REALTOR
       - [ ] sales app, pos to keep track of
         - [ ] clients
         - [ ] sales
@@ -159,7 +161,6 @@
 
 - [ ] template IDEAS 
   - [ ] TOOLS 
-    - [ ] [text](https://www.shadcn.io/blocks/account-downloads)
     - [ ] https://www.shadcn.io/tools/phone-mockups
     - [ ] https://www.shadcn.io/tools/pdf
     - [ ] https://www.shadcn.io/tools/zip
