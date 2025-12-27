@@ -1,14 +1,51 @@
 # Catalyst Software
 
 - [ ] TO-DO
-  - [x] need to add restore tab in monaco editor
-  - [x] need to add link in editor link navigation, like the same as tox and sourcemaps do with [Error Boundary](#error-boundary)
-  - [x] need to make the objects for ui library that are missing 
-  - [x] post linked in blog post about pre promtp
-  - [X] monaco editor need to add in support of saving settings whene edited
-  - [x] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
-  - [x] finish off shell in core/shells
-  - [x] finish off sandbox - NEEDS ALL COMPONENTS TO BE IMPORTED SHOULD CREATE A SCRIPT THAT GENERATES A LIST OF ALL
+  - [ ] utils
+    - [ ] auth.ts
+    - [ ] auth_session.ts
+    - [ ] auth_github.ts
+    - [ ] auth.github.callback.tsx
+    - [ ] auth.github.tsx
+  - [ ] prompt
+    - [ ] providers.tsx
+    - [ ] snippets.tsx
+    - [ ] prePrompts.tsx
+    - [ ] prompt-chat-container-basic.tsx
+    - [ ] prompt-chat-container-streaming.tsx
+    - [ ] code-block-examples.tsx
+    - [ ] prompt-feedback-bar.tsx
+  - [ ] primitive
+    - [ ] button-group
+  - [ ] motion
+    - [ ] need to update MotionButton MotionPopover1
+    - [ ] Motionsgroup
+    - [ ] MotionAvatar
+    - [ ] MotionRadioCard
+  - [ ] media
+    - [ ] color pallete card
+    - [ ] InfiniteSlider
+  - [ ] hooks
+    - [ ] useSlideInV1
+    - [ ] useTailwindConverter
+  - [ ] forms
+    - [ ] fancy-area
+  - [ ] core
+    - [ ] loadingBoundary 
+    - [ ] HeroBadge
+    - [ ] current timeline is now timeline2, add new timeline
+    - [ ] list -> coreLists
+    - [ ] list1 -> coreLists
+    - [ ] tree -> coreLists
+    - [ ] AppShell -> shells
+    - [ ] Min Pricing Section -> Minamilist
+    - [ ] Min Pricing Cards -> Minamilist
+    - [ ] Min Hero Section -> Minamilist
+    - [ ] Animated Hero -> Minamilist
+    - [ ] Min Feature -> Minamilist
+    - [ ] Faq Section -> Minamilist
+  - [ ] combobox
+    - [ ] emojiPicker
 
 
 
@@ -303,7 +340,14 @@
     - [x] https://m3.material.io/components/text-fields/overview
     - [x] https://primereact.org/inplace
     - [x] https://mantine.dev/core/json-input
-    
+      - [x] need to add restore tab in monaco editor
+  - [x] need to add link in editor link navigation, like the same as tox and sourcemaps do with [Error Boundary](#error-boundary)
+  - [x] need to make the objects for ui library that are missing 
+  - [x] post linked in blog post about pre promtp
+  - [X] monaco editor need to add in support of saving settings whene edited
+  - [x] items in components pages, need to be checked probably have to be rebuilt if from shadcn templates
+  - [x] finish off shell in core/shells
+  - [x] finish off sandbox - NEEDS ALL COMPONENTS TO BE IMPORTED SHOULD CREATE A SCRIPT THAT GENERATES A LIST OF ALL
 
 
 
