@@ -69,7 +69,7 @@
 - [ ] being able to insert pre built objects
 - [ ] with nice, thought-out and planned ui, would make it so easy to work with, like having a command on the left to search for or select the object to edit, this object should be linked, so editing the user object needing to add that relation, technically, you can remove half that processes work laod. Steps to complete would be: 1) select user object, 2) click add relation, and select review object
 
-- [ ] ★ ━━━━ ☆ ━━━━           NEW TOOLS              ━━━━ ☆ ━━━━ 
+- [ ] ★ ━━━━ ☆ ━━━━     NEW TOOLS     ━━━━ ☆ ━━━━ ★
 - [ ] messsenger
 - [ ] event calendar
 - [ ] appointment calendar
