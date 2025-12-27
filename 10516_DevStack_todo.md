@@ -9,6 +9,7 @@
 - [ ] need to implement `ocrmnavigator.codesnap.backgroundPalette` and others
 - [x] focusMode: A specialized toggle.Utility: Toggles Zen Mode, hides the Sidebar, and hides the Activity Bar all in one click to help with deep work
 - [x] fix add item via web 
+- [ ] to do list: code highlighting
 
 - [ ] ★ ━━━━ ☆ ━━━━     README.md     ━━━━ ☆ ━━━━ ★
   - [x] terminal engine... currently if there is currently a daev serverv nothing will run... we need to check and see if the current terminal window is busy... if it is creater a new window HL:src\helpers\master.ts:330-371
