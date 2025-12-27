@@ -1,9 +1,11 @@
 
 #### todo
 - [ ] need to update snippet editor
+- [ ] add editor highlighting to todo
 
 - [ ] ### README.md
-- [ ] terminal engine... currently if there is currently a daev serverv nothing will run... we need to check and see if the current terminal window is busy... if it is creater a new window
+- [x] terminal engine... currently if there is currently a daev serverv nothing will run... we need to check and see if the current terminal window is busy... if it is creater a new window HL:src\helpers\master.ts:330-371
+
 
 - [ ] ### Need to implement function on / off switches for:
 - [ ] need to implement `ocrmnavigator.vfs.tasks`
@@ -24,8 +26,8 @@
 - [ ] to make it even easier to configure new / existing configs
 - [ ] provid a list of folders contained within other configs once clicked pastes it into the current configs file
 
-- [ ] ### move item
-- [ ] opens a quick pick with that folders items, when an item is clicked on it takes the item ur moving and places it ontop of the item you clicked on, same as when you go to cut an entire line in vscode and paste it, it places it ontop of the line you placed ur cursor on
+- [x] ### move item
+- [x] opens a quick pick with that folders items, when an item is clicked on it takes the item ur moving and places it ontop of the item you clicked on, same as when you go to cut an entire line in vscode and paste it, it places it ontop of the line you placed ur cursor on
 
 - [ ] ### The "Log-to-Lens" (errorParser)
 - [ ] The Pain: Your build failed or your test crashed. The terminal is a wall of 500 lines of red text. You have to scroll up, find the file path in the stack trace, copy it, Ctrl+P, and paste the path to fix the bug.
@@ -67,7 +69,7 @@
 - [ ] being able to insert pre built objects
 - [ ] with nice, thought-out and planned ui, would make it so easy to work with, like having a command on the left to search for or select the object to edit, this object should be linked, so editing the user object needing to add that relation, technically, you can remove half that processes work laod. Steps to complete would be: 1) select user object, 2) click add relation, and select review object
 
-#### new tools
+- [ ] ★ ━━━━ ☆ ━━━━           NEW TOOLS              ━━━━ ☆ ━━━━ 
 - [ ] messsenger
 - [ ] event calendar
 - [ ] appointment calendar
