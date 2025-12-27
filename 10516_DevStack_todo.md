@@ -58,7 +58,7 @@
     - [ ] How it works: It executes the CLI fetch and uses your existing copyToClipboard logic to put the secret in your hand instantly.
     - [ ] Value: Huge security and speed boost. No more "hunting for the wiki page."
 
-- [ ] ★ ━━━━ ☆ ━━━━  ITEM TYPE IDEAS  ━━━━ ☆ ━━━━ ★
+- [ ] ★ ━━━━ ☆ ━━━━    ITEM TYPE IDEAS  ━━━━ ☆ ━━━━ ★
   - [ ] dependencyManager 
   - [ ] Install/uninstall/update multiple npm packages in one click with predefined sets (ie "React setup" installs react, react-dom, types in one go vs typing each npm install command)
 
