@@ -70,11 +70,11 @@
 - [ ] with nice, thought-out and planned ui, would make it so easy to work with, like having a command on the left to search for or select the object to edit, this object should be linked, so editing the user object needing to add that relation, technically, you can remove half that processes work laod. Steps to complete would be: 1) select user object, 2) click add relation, and select review object
 
 - [ ] ★ ━━━━ ☆ ━━━━     NEW TOOLS     ━━━━ ☆ ━━━━ ★
-- [ ] messsenger
-- [ ] event calendar
-- [ ] appointment calendar
-- [ ] catalyst editor
-- [ ] rich text editor
+  - [ ] messsenger
+  - [ ] event calendar
+  - [ ] appointment calendar
+  - [ ] catalyst editor
+  - [ ] rich text editor
 
 - [ ] DevArchive
 - [ ] I’ve noticed a disturbing trend: the "Great Deleting." The people who built the web are retiring or passing on, and their servers are going dark. I’ve lost count of how many times I’ve needed a specific resource only to find the site no longer exists.
