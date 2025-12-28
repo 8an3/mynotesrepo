@@ -1,17 +1,7 @@
 
 #### todo
-- [x] need to update snippet editor
-- [x] updating auto fold
-  - [x] pkg.json 2
-  - [x] pkg.json 2 & 3
-  - [x] other files 1
-  - [x] other files 1 & 2
-- [x] adding openDevEnv
-- [x] adding open ws confgi
-- [x] adding open gbl config
-- [x] add editor highlighting to todo
-- [ ] within vscode create a function to save current config, as a labeled 'profile' for example whenever you trigger it, it saves the config to the sites database but with a label allowing the user to create 'new hire config' to save the config within a certain state
-- [ ] on the site, to offer the same as above but for snippets, within a dialog have a side by side add / remove item list with a label input above it to save a snippets list as a "state" so as to be able to downlload that "state" at a later date
+- [ ] need to update snippet editor
+- [ ] add editor highlighting to todo
 - [ ] ### Need to implement function on / off switches for:
 - [ ] need to implement `ocrmnavigator.vfs.tasks`
 - [ ] need to implement `ocrmnavigator.vfs.npmScripts`
@@ -20,11 +10,9 @@
 - [x] focusMode: A specialized toggle.Utility: Toggles Zen Mode, hides the Sidebar, and hides the Activity Bar all in one click to help with deep work
 - [x] fix add item via web 
 - [x] to do list: code highlighting
-- [ ] need to update from ocrmnavigator.whatever -> ocrmnavigator.vfs.whatever
 
 - [ ] ★ ━━━━ ☆ ━━━━     README.md     ━━━━ ☆ ━━━━ ★
   - [x] terminal engine... currently if there is currently a daev serverv nothing will run... we need to check and see if the current terminal window is busy... if it is creater a new window HL:src\helpers\master.ts:330-371
-  - [ ] update saettings section
 
 - [ ] ★ ━━━━ ☆ ━━━━     NEW FEATURES     ━━━━ ☆ ━━━━ ★
   - [ ] ★ ━━━━ REMOTE ACCESS / EDITING ━━━━ ★
