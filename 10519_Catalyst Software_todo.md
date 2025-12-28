@@ -1,13 +1,14 @@
 # Catalyst Software
 
-- [ ] TO-DO
-  - [ ] utils
+- [ ] ★ ━━━━ ☆ ━━━━     TO-DO     ━━━━ ☆ ━━━━ ★
+- [ ] each component needs the same comment section as animated text, or anything within the x category
+  - [ ] ★ ━━━━ UTILS ━━━━ ★
     - [ ] auth.ts
     - [ ] auth_session.ts
     - [ ] auth_github.ts
     - [ ] auth.github.callback.tsx
     - [ ] auth.github.tsx
-  - [ ] prompt
+  - [ ] ★ ━━━━ PROMPT ━━━━ ★
     - [ ] providers.tsx
     - [ ] snippets.tsx
     - [ ] prePrompts.tsx
@@ -15,22 +16,23 @@
     - [ ] prompt-chat-container-streaming.tsx
     - [ ] code-block-examples.tsx
     - [ ] prompt-feedback-bar.tsx
-  - [ ] primitive
+  - [ ] ★ ━━━━ PRIMITIVE ━━━━ ★
     - [ ] button-group
-  - [ ] motion
+  - [ ] ★ ━━━━ MOTION ━━━━ ★
     - [ ] need to update MotionButton MotionPopover1
     - [ ] Motionsgroup
     - [ ] MotionAvatar
     - [ ] MotionRadioCard
-  - [ ] media
+    - [ ] ColorPicker
+  - [ ] ★ ━━━━ MEDIA ━━━━ ★
     - [ ] color pallete card
     - [ ] InfiniteSlider
-  - [ ] hooks
+  - [ ] ★ ━━━━ HOOKS ━━━━ ★
     - [ ] useSlideInV1
     - [ ] useTailwindConverter
-  - [ ] forms
+  - [ ] ★ ━━━━ FORMS ━━━━ ★
     - [ ] fancy-area
-  - [ ] core
+  - [ ] ★ ━━━━ CORE ━━━━ ★
     - [ ] loadingBoundary 
     - [ ] HeroBadge
     - [ ] current timeline is now timeline2, add new timeline
@@ -44,8 +46,12 @@
     - [ ] Animated Hero -> Minamilist
     - [ ] Min Feature -> Minamilist
     - [ ] Faq Section -> Minamilist
-  - [ ] combobox
+  - [ ] ★ ━━━━ COMBOBOX ━━━━ ★
     - [ ] emojiPicker
+  - [ ] ★ ━━━━ TYPOGRAPHY ━━━━ ★
+    - [ ] text-scramble
+    - [ ] paragraph-scramble
+    - [ ] step-number
 
 
 
