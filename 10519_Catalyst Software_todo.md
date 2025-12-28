@@ -51,7 +51,6 @@
   - [ ] ★ ━━━━ TYPOGRAPHY ━━━━ ★
     - [ ] text-scramble
     - [ ] paragraph-scramble
-    - [ ] step-number
 
 
 
