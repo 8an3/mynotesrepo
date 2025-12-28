@@ -6,7 +6,7 @@
   - [x] pkg.json 2 & 3
   - [x] other files 1
   - [x] other files 1 & 2
-- [ ] adding openDevEnv
+- [x] adding openDevEnv
 - [x] adding open ws confgi
 - [x] adding open gbl config
 - [x] add editor highlighting to todo
