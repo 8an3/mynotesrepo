@@ -1,7 +1,7 @@
 
 #### todo
-- [ ] need to update snippet editor
-- [ ] add editor highlighting to todo
+- [x] need to update snippet editor
+- [x] add editor highlighting to todo
 - [ ] ### Need to implement function on / off switches for:
 - [ ] need to implement `ocrmnavigator.vfs.tasks`
 - [ ] need to implement `ocrmnavigator.vfs.npmScripts`
