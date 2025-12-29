@@ -157,7 +157,7 @@
     - [x] https://21st.dev/community/components
     - [x] https://ui.aceternity.com/
     - [x] https://ui.ibelick.com/
-    - [ ] https://www.hyperui.dev/
+    - [x] https://www.hyperui.dev/
     - [ ] https://flowbite.com/blocks/application/crud-create-drawers/
     - [ ] https://blocks.tremor.so/blocks/account-and-user-management#account-and-user-manage
     - [ ] https://github.com/tremorlabs/tremor-blocks/blob/main/src/content/components/status-monitoring/tracker-10.tsx
