@@ -28,6 +28,8 @@
     - [ ] ColorPicker
     - [ ] Roladex1
     - [ ] Roladex
+    - [ ] motion-bento1
+    - [ ] motion-spotlight
   - [ ] ★ ━━━━ MEDIA ━━━━ ★
     - [ ] color pallete card
     - [ ] InfiniteSlider
