@@ -2,7 +2,7 @@
 
 - [ ] ★ ━━━━ ☆ ━━━━     TO-DO     ━━━━ ☆ ━━━━ ★
 - [ ] each component needs the same comment section as animated text, or anything within the x category
-- [ ] offer cdn?
+- [ ] offer cdn? see bottom
 - [ ] premium only catalyst-ui focused extension
   - [ ] ★ ━━━━ UTILS ━━━━ ★
     - [ ] auth.ts
@@ -315,7 +315,75 @@
     - [ ] https://www.uibeats.com/
     - [ ] https://github.com/emilkowalski/vaul
 
+- [ ] npm install --save-dev rollup @rollup/plugin-node-resolve @rollup/plugin-commonjs @rollup/plugin-typescript rollup-plugin-peer-deps-external rollup-plugin-postcss
+  - [ ] export { ParaScramble } from './ParaScramble'
+export { TextScramble } from './TextScramble'
 
+```json
+// pakcage.json
+{
+  "scripts": {
+    "build:cdn": "rollup -c"
+  }
+}
+```
+
+```javascript
+// rollup.config.js
+import resolve from '@rollup/plugin-node-resolve';
+import commonjs from '@rollup/plugin-commonjs';
+import typescript from '@rollup/plugin-typescript';
+import peerDepsExternal from 'rollup-plugin-peer-deps-external';
+import postcss from 'rollup-plugin-postcss';
+
+export default {
+  input: 'src/components/index.ts', // Your entry point
+  output: [
+    {
+      file: 'dist/bundle.umd.js',
+      format: 'umd',
+      name: 'CatalystComponents', // Global variable name
+      globals: {
+        react: 'React',
+        'react-dom': 'ReactDOM'
+      }
+    },
+    {
+      file: 'dist/bundle.esm.js',
+      format: 'es'
+    }
+  ],
+  plugins: [
+    peerDepsExternal(),
+    resolve(),
+    commonjs(),
+    typescript({ tsconfig: './tsconfig.json' }),
+    postcss({
+      extensions: ['.css'],
+      minimize: true
+    })
+  ],
+  external: ['react', 'react-dom']
+};
+```
+
+```bash
+# install
+npm run build:cdn
+git add dist/
+git commit -m "Add CDN build"
+git tag v1.0.0
+git push --tags
+```
+
+```javascript
+// user
+<script src="https://cdn.jsdelivr.net/gh/yourusername/repo@v1.0.0/dist/bundle.umd.js"></script>
+<script>
+  const { ParaScramble } = window.CatalystComponents;
+</script>
+
+```
 - [x] COMPLETED
     - [x] fix add to devstack from exporer view
     - [x] add script that copies prompt files into their objects within the devstack config
