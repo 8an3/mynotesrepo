@@ -56,7 +56,8 @@
   - [ ] ★ ━━━━ TYPOGRAPHY ━━━━ ★
     - [ ] text-scramble
     - [ ] paragraph-scramble
-
+  - [ ] ★ ━━━━ BUTTONS ━━━━ ★
+    - [ ] copty-text update item sice it can now also take children
 
 
 - [ ] COMPONENTS WITHIN THE LIBRARY
