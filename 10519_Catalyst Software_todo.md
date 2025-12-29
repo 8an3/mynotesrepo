@@ -2,6 +2,7 @@
 
 - [ ] ★ ━━━━ ☆ ━━━━     TO-DO     ━━━━ ☆ ━━━━ ★
 - [ ] each component needs the same comment section as animated text, or anything within the x category
+- [ ] offer cdn?
 - [ ] premium only catalyst-ui focused extension
   - [ ] ★ ━━━━ UTILS ━━━━ ★
     - [ ] auth.ts
