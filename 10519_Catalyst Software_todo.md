@@ -6,6 +6,7 @@
 - [ ] premium only catalyst-ui focused extension
 - [ ] need to add best in class `search` to readme
 - [ ] need to add best in class `settings.json resource`
+- [ ] an option when creating config items, to create a file type item that will direct you to that workspaces config file. Allowing you to enter each workspace, and create an item based off of that workspaces config file
 - [ ] test new motions category
   - [ ] ★ ━━━━ UTILS ━━━━ ★
     - [ ] auth.ts
