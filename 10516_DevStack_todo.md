@@ -4,7 +4,7 @@
 - [x] add editor highlighting to todo
 - [ ] finish layout engine
 - [ ] finish off renaming functions -> `ocrmnavigator.addCategory` -> `ocrmnavigator.master.addCategory`
-- [ ] need to add quickpick engine
+- [x] need to add quickpick engine
 - [ ] need to add item type to add currenty worksapces devstack setting as a file item
 - [ ] finish of search editor
 - [ ] needs to add some kind of notice in regard to the new funcitnos and its formatr
