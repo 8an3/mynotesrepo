@@ -24,7 +24,7 @@
     - [ ] set up user profile on site
     - [ ] user github email for syncing data
 
-  - [ ] ★ ━━━━ COPY WORKSPACE FOLDER ━━━━ ★
+  - [ ] ★ ━━━━ COPY WORKSPACE FOLDER ━━━━ ★ 
     - [ ] to make it even easier to configure new / existing configs
     - [ ] provid a list of folders contained within other configs once clicked pastes it into the current configs file
 
