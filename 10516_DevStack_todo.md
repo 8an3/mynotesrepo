@@ -2,6 +2,7 @@
 #### todo
 - [x] need to update snippet editor
 - [x] add editor highlighting to todo
+- [ ] finish layout engine
 - [ ] ### Need to implement function on / off switches for:
 - [ ] need to implement `ocrmnavigator.vfs.tasks`
 - [ ] need to implement `ocrmnavigator.vfs.npmScripts`
