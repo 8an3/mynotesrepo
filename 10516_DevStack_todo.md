@@ -1,6 +1,7 @@
 
 #### todo
 - [ ] finish layout engine
+- [ ] remove format on paste in monaco editor
 - [ ] finish off renaming functions -> `ocrmnavigator.addCategory` -> `ocrmnavigator.master.addCategory`
 - [ ] finish of search editor
 - [ ] needs to add some kind of notice in regard to the new funcitnos and its formatr
