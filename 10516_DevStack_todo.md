@@ -1,11 +1,7 @@
 
 #### todo
-- [x] need to update snippet editor
-- [x] add editor highlighting to todo
 - [ ] finish layout engine
 - [ ] finish off renaming functions -> `ocrmnavigator.addCategory` -> `ocrmnavigator.master.addCategory`
-- [x] need to add quickpick engine
-- [x] need to add item type to add currenty worksapces devstack setting as a file item
 - [ ] finish of search editor
 - [ ] needs to add some kind of notice in regard to the new funcitnos and its formatr
 - [ ] ### Need to implement function on / off switches for:
@@ -16,6 +12,10 @@
 - [x] focusMode: A specialized toggle.Utility: Toggles Zen Mode, hides the Sidebar, and hides the Activity Bar all in one click to help with deep work
 - [x] fix add item via web 
 - [x] to do list: code highlighting
+- [x] need to add item type to add currenty worksapces devstack setting as a file item
+- [x] need to add quickpick engine
+- [x] add editor highlighting to todo
+- [x] need to update snippet editor
 
 - [ ] ★ ━━━━ ☆ ━━━━     README.md     ━━━━ ☆ ━━━━ ★
   - [x] terminal engine... currently if there is currently a daev serverv nothing will run... we need to check and see if the current terminal window is busy... if it is creater a new window HL:src\helpers\master.ts:330-371
