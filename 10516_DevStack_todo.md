@@ -1,6 +1,7 @@
 
 #### todo
 - [ ] finish layout engine
+- [ ] the layout engine with 3 cols... when its finished, all three columns are focused at the same time. meaning you have to click each cols editors in order to drop the "focused" state in each. we need to progmatically drop focus and refocus the 2nd col
 - [ ] remove format on paste in monaco editor
 - [ ] finish off renaming functions -> `ocrmnavigator.addCategory` -> `ocrmnavigator.master.addCategory`
 - [ ] finish of search editor
