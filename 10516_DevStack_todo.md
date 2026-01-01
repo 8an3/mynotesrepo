@@ -3,6 +3,7 @@
 - [ ] finish layout engine
 - [ ] the layout engine with 3 cols... when its finished, all three columns are focused at the same time. meaning you have to click each cols editors in order to drop the "focused" state in each. we need to progmatically drop focus and refocus the 2nd col
 - [ ] remove format on paste in monaco editor
+- [ ] in the catalyst editor we need to make sure if you are currently in a stylized note or important or warning, that the editor automatically put `>` whenever you press enter to continue the note
 - [ ] finish off renaming functions -> `ocrmnavigator.addCategory` -> `ocrmnavigator.master.addCategory`
 - [ ] finish of search editor
 - [ ] needs to add some kind of notice in regard to the new funcitnos and its formatr
