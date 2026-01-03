@@ -5,8 +5,8 @@
 - [ ] needd to fix it where it takes in the settings editor or panel again and executes accordingly
 - [x] rename batch fell through the cracks as it seems we are still running off of the other extension
 - [ ] make sure termiunal grixd is getting assigned to the correct col
-- [ ] remove format on paste in monaco editor
-- [ ] in the catalyst editor we need to make sure if you are currently in a stylized note or important or warning, that the editor automatically put `>` whenever you press enter to continue the note
+- [x] remove format on paste in monaco editor
+- [x] in the catalyst editor we need to make sure if you are currently in a stylized note or important or warning, that the editor automatically put `>` whenever you press enter to continue the note
 - [ ] finish off renaming functions -> `ocrmnavigator.addCategory` -> `ocrmnavigator.master.addCategory`
 - [x] finish of search editor
 - [x] needs to add some kind of notice in regard to the new funcitnos and its formatr
