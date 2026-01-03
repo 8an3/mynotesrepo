@@ -2,6 +2,7 @@
 #### todo
 - [ ] finish layout engine
 - [x] the layout engine with 3 cols... when its finished, all three columns are focused at the same time. meaning you have to click each cols editors in order to drop the "focused" state in each. we need to progmatically drop focus and refocus the 2nd col
+- [ ] needd to fix it where it takes in the settings editor or panel again and executes accordingly
 - [x] rename batch fell through the cracks as it seems we are still running off of the other extension
 - [ ] make sure termiunal grixd is getting assigned to the correct col
 - [ ] remove format on paste in monaco editor
