@@ -33,6 +33,7 @@
     - [ ] ColorPicker
     - [ ] Roladex1
     - [ ] Roladex
+    - [ ] border-beam
   - [ ] ★ ━━━━ MEDIA ━━━━ ★
     - [ ] color pallete card
     - [ ] InfiniteSlider
