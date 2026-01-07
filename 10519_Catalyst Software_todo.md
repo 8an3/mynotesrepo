@@ -67,6 +67,7 @@
     - [ ] Animated Hero -> Minamilist
     - [ ] Min Feature -> Minamilist
     - [ ] Faq Section -> Minamilist
+    - [ ] docs layout
   - [ ] ★ ━━━━ COMBOBOX ━━━━ ★
     - [ ] emojiPicker
   - [ ] ★ ━━━━ TYPOGRAPHY ━━━━ ★
