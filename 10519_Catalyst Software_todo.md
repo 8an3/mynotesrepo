@@ -1,7 +1,6 @@
 # Catalyst Software
 
 - [ ] ★ ━━━━ ☆ ━━━━     TO-DO     ━━━━ ☆ ━━━━ ★
-- [ ] [text](https://github.com/shadcnblocks/shadcntemplates/blob/master/content/aceternity-ui-free.md)
 - [ ] each component needs the same comment section as animated text, or anything within the x category
 - [ ] offer cdn? see bottom
 - [ ] premium only catalyst-ui focused extension
