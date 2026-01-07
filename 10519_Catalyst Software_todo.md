@@ -24,6 +24,7 @@
     - [ ] prompt-feedback-bar.tsx
   - [ ] ★ ━━━━ PRIMITIVE ━━━━ ★
     - [ ] button-group
+    - [ ] alert
   - [ ] ★ ━━━━ BG ━━━━ ★
     - [ ] gistorted glasses 
     - [ ] texture overlay
