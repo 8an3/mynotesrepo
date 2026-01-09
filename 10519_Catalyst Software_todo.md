@@ -52,6 +52,7 @@
   - [ ] ★ ━━━━ HOOKS ━━━━ ★
     - [ ] useSlideInV1
     - [ ] useTailwindConverter
+    - [ ] use-validate-credit-card
   - [ ] ★ ━━━━ FORMS ━━━━ ★
     - [ ] fancy-area
   - [ ] ★ ━━━━ CORE ━━━━ ★
