@@ -53,6 +53,7 @@
     - [ ] useSlideInV1
     - [ ] useTailwindConverter
     - [ ] use-validate-credit-card
+    - [ ] use-keyboard-shortcut
   - [ ] ★ ━━━━ FORMS ━━━━ ★
     - [ ] fancy-area
   - [ ] ★ ━━━━ CORE ━━━━ ★
