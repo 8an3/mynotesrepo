@@ -70,6 +70,7 @@
     - [ ] Min Feature -> Minamilist
     - [ ] Faq Section -> Minamilist
     - [ ] docs layout
+    - [ ] content-shell
   - [ ] ★ ━━━━ COMBOBOX ━━━━ ★
     - [ ] emojiPicker
   - [ ] ★ ━━━━ TYPOGRAPHY ━━━━ ★
