@@ -33,6 +33,7 @@
   - [ ] ★ ━━━━ PRIMITIVE ━━━━ ★
     - [ ] button-group
     - [ ] alert
+    - [ ] tracker
   - [ ] ★ ━━━━ BG ━━━━ ★
     - [ ] gistorted glasses 
     - [ ] texture overlay
