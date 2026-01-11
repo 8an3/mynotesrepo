@@ -23,6 +23,8 @@
     - [ ] auth_github.ts
     - [ ] auth.github.callback.tsx
     - [ ] auth.github.tsx
+    - [ ] honeypot-react
+    - [ ] check all files
   - [ ] ★ ━━━━ PROMPT ━━━━ ★
     - [ ] providers.tsx
     - [ ] snippets.tsx
