@@ -1,6 +1,6 @@
 
 #### todo
-- [ ] finish layout engine
+- [ ] starting v2 fuck
 - [ ] make sure termiunal grixd is getting assigned to the correct col
 - [ ] remove format on paste in monaco editor
 - [ ] finish off renaming functions -> `ocrmnavigator.addCategory` -> `ocrmnavigator.master.addCategory`
