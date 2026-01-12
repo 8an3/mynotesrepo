@@ -1,9 +1,9 @@
 
 #### todo
 - [ ] starting v2 fuck
-- [ ] make sure termiunal grixd is getting assigned to the correct col
-- [ ] remove format on paste in monaco editor
-- [ ] finish off renaming functions -> `ocrmnavigator.addCategory` -> `ocrmnavigator.master.addCategory`
+- [x] make sure termiunal grixd is getting assigned to the correct col
+- [x] remove format on paste in monaco editor
+- [x] finish off renaming functions -> `ocrmnavigator.addCategory` -> `ocrmnavigator.master.addCategory`
 - [ ] ### Need to implement function on / off switches for:
 - [ ] need to implement `ocrmnavigator.vfs.tasks`
 - [ ] need to implement `ocrmnavigator.vfs.npmScripts`
