@@ -1,4 +1,3 @@
-ocrmnavigator.moveNoteToNormal
 #### todo
 - [ ] starting v2 fuck
 - [x] make sure termiunal grixd is getting assigned to the correct col
