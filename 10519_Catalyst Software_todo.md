@@ -34,6 +34,8 @@
     - [ ] button-group
     - [ ] alert
     - [ ] tracker
+    - [ ] multi-select
+    - [ ] list-box
   - [ ] ★ ━━━━ BG ━━━━ ★
     - [ ] gistorted glasses 
     - [ ] texture overlay
@@ -52,6 +54,7 @@
     - [ ] profile dropdwn
     - [ ] morphic navabr
     - [ ] morph-surface
+    - [ ] motion-separator
   - [ ] ★ ━━━━ MEDIA ━━━━ ★
     - [ ] color pallete card
     - [ ] InfiniteSlider
