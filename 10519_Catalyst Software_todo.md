@@ -64,6 +64,7 @@
     - [ ] useTailwindConverter
     - [ ] use-validate-credit-card
     - [ ] use-keyboard-shortcut
+    - [ ] use-lucide-drawer-animation
   - [ ] ★ ━━━━ FORMS ━━━━ ★
     - [ ] fancy-area
   - [ ] ★ ━━━━ CORE ━━━━ ★
