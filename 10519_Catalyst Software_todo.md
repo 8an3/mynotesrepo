@@ -4,7 +4,7 @@
 - [ ] change auth in catalystsoftware/ui from pssword to, grabbing the current user email instaed pinging the server to see if they subscribe and if they do offer the prem menu
 - [ ] each component needs the same comment section as animated text, or anything within the x category
 - [ ] offer cdn? see bottom
-- [x] premium only catalyst-ui focused extension
+- [x] premium only midgardr focused extension
 - [ ] need to add best in class `search` to readme
 - [ ] pnpm dlx ui-thing@latest add flip-clock
 
