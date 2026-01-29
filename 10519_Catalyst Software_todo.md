@@ -1,4 +1,4 @@
-# Catalyst Software
+# Asgard Software
 
 - [ ] ★ ━━━━ ☆ ━━━━     TO-DO     ━━━━ ☆ ━━━━ ★
 - [ ] change auth in catalystsoftware/ui from pssword to, grabbing the current user email instaed pinging the server to see if they subscribe and if they do offer the prem menu
