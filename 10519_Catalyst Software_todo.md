@@ -14,10 +14,15 @@
 - [ ] test new motions category
 - [ ] need to go through coss origin and compare x to his variants
   - [ ] ★ ━━━━ X ━━━━ ★
+  - [ ] ★ ━━━━ PERFORMANCE ━━━━ ★
+    - [ ] ALLL FILES
+  - [ ] ★ ━━━━ tailwind ━━━━ ★
+    - [ ] ALLL FILES
   - [ ] ★ ━━━━ interactive ━━━━ ★
     - [ ] DirectionAwareHover
   - [ ] ★ ━━━━ BACKGROUND ━━━━ ★
     - [ ] tracing-beam.tsx
+    - [ ] glitch-background.tsx
     - [ ] need to compare against coss i think ists called
   - [ ] ★ ━━━━ UTILS ━━━━ ★
     - [ ] auth.ts
