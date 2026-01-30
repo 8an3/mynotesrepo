@@ -24,7 +24,7 @@
     - [ ] DirectionAwareHover
   - [ ] ★ ━━━━ BACKGROUND ━━━━ ★
     - [ ] tracing-beam.tsx
-    - [ ] glitch-background.tsx
+    - [x] glitch-background.tsx
     - [ ] need to compare against coss i think ists called
   - [ ] ★ ━━━━ UTILS ━━━━ ★
     - [ ] auth.ts
