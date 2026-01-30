@@ -15,7 +15,7 @@
 - [ ] need to go through coss origin and compare x to his variants
   - [ ] ★ ━━━━ X ━━━━ ★
   - [ ] ★ ━━━━ core ━━━━ ★
-    - [ ] in-development.tsx
+    - [x] in-development.tsx
   - [ ] ★ ━━━━ PERFORMANCE ━━━━ ★
     - [ ] ALLL FILES
   - [ ] ★ ━━━━ tailwind ━━━━ ★
