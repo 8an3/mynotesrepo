@@ -14,6 +14,8 @@
 - [ ] test new motions category
 - [ ] need to go through coss origin and compare x to his variants
   - [ ] ★ ━━━━ X ━━━━ ★
+  - [ ] ★ ━━━━ interactive ━━━━ ★
+    - [ ] DirectionAwareHover
   - [ ] ★ ━━━━ BACKGROUND ━━━━ ★
     - [ ] tracing-beam.tsx
     - [ ] need to compare against coss i think ists called
