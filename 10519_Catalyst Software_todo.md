@@ -23,7 +23,7 @@
   - [ ] ★ ━━━━ interactive ━━━━ ★
     - [ ] DirectionAwareHover
   - [ ] ★ ━━━━ BACKGROUND ━━━━ ★
-    - [ ] tracing-beam.tsx
+    - [x] tracing-beam.tsx
     - [x] glitch-background.tsx
     - [ ] need to compare against coss i think ists called
   - [ ] ★ ━━━━ UTILS ━━━━ ★
