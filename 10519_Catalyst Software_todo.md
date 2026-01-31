@@ -17,9 +17,9 @@
   - [x] ★ ━━━━ core ━━━━ ★
     - [x] in-development.tsx
   - [x] ★ ━━━━ PERFORMANCE ━━━━ ★
-    - [x] ALLL FILES
+    - [ ] ALLL FILES
   - [ ] ★ ━━━━ tailwind ━━━━ ★
-    - [x] ALLL FILES
+    - [ ] ALLL FILES
   - [ ] ★ ━━━━ interactive ━━━━ ★
     - [ ] DirectionAwareHover
   - [ ] ★ ━━━━ BACKGROUND ━━━━ ★
