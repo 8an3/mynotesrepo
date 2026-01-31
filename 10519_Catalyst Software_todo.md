@@ -20,7 +20,7 @@
     - [ ] ALLL FILES
   - [ ] ★ ━━━━ tailwind ━━━━ ★
     - [ ] ALLL FILES
-  - [ ] ★ ━━━━ interactive ━━━━ ★
+  - [x] ★ ━━━━ interactive ━━━━ ★
     - [x] DirectionAwareHover
   - [ ] ★ ━━━━ BACKGROUND ━━━━ ★
     - [x] tracing-beam.tsx
