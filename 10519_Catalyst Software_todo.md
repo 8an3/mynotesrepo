@@ -21,7 +21,7 @@
   - [ ] ★ ━━━━ tailwind ━━━━ ★
     - [ ] ALLL FILES
   - [ ] ★ ━━━━ interactive ━━━━ ★
-    - [ ] DirectionAwareHover
+    - [x] DirectionAwareHover
   - [ ] ★ ━━━━ BACKGROUND ━━━━ ★
     - [x] tracing-beam.tsx
     - [x] glitch-background.tsx
