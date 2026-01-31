@@ -47,7 +47,7 @@
     - [x] button-group
     - [x] alert
     - [x] tracker
-    - [ ] multi-select
+    - [x] multi-select
     - [ ] list-box
   - [ ] ★ ━━━━ BG ━━━━ ★
     - [ ] gistorted glasses 
@@ -209,8 +209,8 @@
     - [ ] https://github.com/mxkaske/mxkaske.dev/tree/main/components/craft/google-places-autocomplete
     - [ ] https://github.com/mxkaske/mxkaske.dev/tree/main/components/craft/wheel-picker
     - [ ] https://github.com/mxkaske/mxkaske.dev/blob/main/components/craft/fancy-box.tsx
-    - [ ] https://github.com/mxkaske/mxkaske.dev/blob/main/components/craft/fancy-multi-select.tsx
-    - [ ] https://github.com/mxkaske/mxkaske.dev/blob/main/components/craft/fancy-multi-select.tsx
+    - [x] https://github.com/mxkaske/mxkaske.dev/blob/main/components/craft/fancy-multi-select.tsx
+    - [x] https://github.com/mxkaske/mxkaske.dev/blob/main/components/craft/fancy-multi-select.tsx
     - [ ] https://github.com/m4nute/pricing-page-shadcn
     - [ ] https://github.com/udecode/plate
     - [ ] https://github.com/jakobhoeg/shadcn-chat
