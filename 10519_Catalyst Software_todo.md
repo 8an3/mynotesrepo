@@ -14,7 +14,7 @@
 - [ ] test new motions category
 - [ ] need to go through coss origin and compare x to his variants
   - [ ] ★ ━━━━ X ━━━━ ★
-  - [ ] ★ ━━━━ core ━━━━ ★
+  - [x] ★ ━━━━ core ━━━━ ★
     - [x] in-development.tsx
   - [x] ★ ━━━━ PERFORMANCE ━━━━ ★
     - [x] ALLL FILES
