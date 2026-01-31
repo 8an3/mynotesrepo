@@ -45,7 +45,7 @@
     - [ ] prompt-feedback-bar.tsx
   - [ ] ★ ━━━━ PRIMITIVE ━━━━ ★
     - [x] button-group
-    - [ ] alert
+    - [x] alert
     - [ ] tracker
     - [ ] multi-select
     - [ ] list-box
@@ -229,7 +229,7 @@
     - [x] https://pro.cult-ui.com/sections
     - [x] https://www.aisdkagents.com/patterns/basics-tool-scrape-cheerio
     - [x] https://kokonutui.com/docs/components/ai-prompt
-    - [x] https://coss.com/origin/alert
+    - [ ] https://coss.com/origin/alert
     - [x] https://www.cult-ui.com/
     - [x] https://www.tremor.so/
     - [x] https://www.heroui.com/
