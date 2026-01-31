@@ -44,7 +44,7 @@
     - [ ] code-block-examples.tsx
     - [ ] prompt-feedback-bar.tsx
   - [ ] ★ ━━━━ PRIMITIVE ━━━━ ★
-    - [ ] button-group
+    - [x] button-group
     - [ ] alert
     - [ ] tracker
     - [ ] multi-select
