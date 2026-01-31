@@ -46,7 +46,7 @@
   - [ ] ★ ━━━━ PRIMITIVE ━━━━ ★
     - [x] button-group
     - [x] alert
-    - [ ] tracker
+    - [x] tracker
     - [ ] multi-select
     - [ ] list-box
   - [ ] ★ ━━━━ BG ━━━━ ★
@@ -241,7 +241,7 @@
     - [x] https://www.hyperui.dev/
     - [ ] https://flowbite.com/blocks/application/crud-create-drawers/
     - [ ] https://blocks.tremor.so/blocks/account-and-user-management#account-and-user-manage
-    - [ ] https://github.com/tremorlabs/tremor-blocks/blob/main/src/content/components/status-monitoring/tracker-10.tsx
+    - [x] https://github.com/tremorlabs/tremor-blocks/blob/main/src/content/components/status-monitoring/tracker-10.tsx
     - [ ] https://ui.lukacho.com/
     - [ ] https://sailboatui.com/
     - [ ] https://tw-elements.com/
