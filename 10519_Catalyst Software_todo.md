@@ -22,7 +22,7 @@
     - [ ] ALLL FILES
   - [x] ★ ━━━━ interactive ━━━━ ★
     - [x] DirectionAwareHover
-  - [ ] ★ ━━━━ BACKGROUND ━━━━ ★
+  - [x] ★ ━━━━ BACKGROUND ━━━━ ★
     - [x] tracing-beam.tsx
     - [x] glitch-background.tsx
     - [ ] need to compare against coss i think ists called
