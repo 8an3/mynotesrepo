@@ -16,7 +16,7 @@
   - [ ] ★ ━━━━ X ━━━━ ★
   - [ ] ★ ━━━━ core ━━━━ ★
     - [x] in-development.tsx
-  - [ ] ★ ━━━━ PERFORMANCE ━━━━ ★
+  - [x] ★ ━━━━ PERFORMANCE ━━━━ ★
     - [x] ALLL FILES
   - [ ] ★ ━━━━ tailwind ━━━━ ★
     - [x] ALLL FILES
