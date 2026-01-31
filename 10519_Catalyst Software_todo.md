@@ -48,7 +48,7 @@
     - [x] alert
     - [x] tracker
     - [x] multi-select
-    - [ ] list-box
+    - [x] list-box
   - [ ] ★ ━━━━ BG ━━━━ ★
     - [ ] gistorted glasses 
     - [ ] texture overlay
