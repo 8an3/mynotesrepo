@@ -1,11 +1,14 @@
 # Asgard Software
 
 - [ ] ★ ━━━━ ☆ ━━━━     TO-DO     ━━━━ ☆ ━━━━ ★
+- [ ] need to change landing pages components list to use the same layout as we did in markdown cheat sheet, and this is to be placed under the transistion statement we posted in asgard.md over in devestack
+  - [ ] on load display all categories and items
+  - [ ] left side bar contains the 3 root level cateogies meanwhile the right sidebar contains all the catgories in that root level cateogiry
+  - [ ] centered at the top will be a search bar
+  - [ ] this still conveys how large the library but doesnt force the user to subject them to searching through that horse shit list
 - [ ] change auth in catalystsoftware/ui from pssword to, grabbing the current user email instaed pinging the server to see if they subscribe and if they do offer the prem menu
-- [ ] each component needs the same comment section as animated text, or anything within the x category
-- [ ] offer cdn? see bottom
-- [x] premium only midgardr focused extension
-- [ ] need to add best in class `search` to readme
+- [ ] each component needs the same comment section as animated text, or anything within the x category 
+- [x] premium only midgardr focused extension 
 - [ ] pnpm dlx ui-thing@latest add flip-clock
 
 - [ ] need to add best in class `settings.json resource`
@@ -283,7 +286,7 @@
       - [ ] Catalyst Scheduler
   
 
-    - [ ] CATALYST EDITOR
+    - [x] CATALYST EDITOR
       - [ ] the editor that is for use will be built as a useable component
       - [ ] Since the last post this has seen a great number of updates, and is just about to receive more
       - [ ] I haven't converted it yet to become a reusable component yet but will be done in the near future
@@ -297,7 +300,7 @@
       - [ ] will feature several size types along with custom height and dynamic height
    
 
-    - [ ] THEME BUILDER
+    - [x] THEME BUILDER
       - [ ] an actual theme builder will not be made available as everyone enjoys building these from scratch but there arehooks within the library to make it alot easier for you to code one such as
   
 
