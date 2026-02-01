@@ -6,6 +6,7 @@
   - [ ] left side bar contains the 3 root level cateogies meanwhile the right sidebar contains all the catgories in that root level cateogiry
   - [ ] centered at the top will be a search bar
   - [ ] this still conveys how large the library but doesnt force the user to subject them to searching through that horse shit list
+  - [ ] with the same list foundation use this as the new list components that works similar to showcase
 - [ ] change auth in catalystsoftware/ui from pssword to, grabbing the current user email instaed pinging the server to see if they subscribe and if they do offer the prem menu
 - [ ] each component needs the same comment section as animated text, or anything within the x category 
 - [x] premium only midgardr focused extension 
