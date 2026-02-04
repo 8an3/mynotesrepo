@@ -1,3 +1,0 @@
-# self evaluation
-
-- [ ] New task
