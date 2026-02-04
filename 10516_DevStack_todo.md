@@ -1,5 +1,27 @@
 #### todo
-- [ ] starting v2 fuck
+- [ ] CURRENT TO DO LIST
+  - [ ] concurrent v2
+  - [ ] conditional
+  - [ ] heimdaller
+  - [ ] devarchive
+  - [ ] copy workspace folder 
+  - [ ] brokkr 2
+  - [ ] auto port ngin
+  - [ ] changelog ngin
+  - [ ] faker ngin
+  - [ ] faker ngin
+  - [ ] artifact cache mgr
+  - [ ] ext usage preview
+  - [ ] visualizer
+  - [ ] bifrost
+  - [ ] brfrost plugin
+  - [ ] verdolndr
+  - [ ] urdr
+  - [ ] log lens
+  - [ ] api secret graebber
+  - [ ] create incoming tunny
+  - [ ] sqlite 3
+  - [ ] application data store
 - [ ] Option B: Extension-Based Snippets (The "Pro" Way)
 Since you mentioned building a VS Code Extension in your philosophy, you can use the vscode.TextEditorEdit API. This allows you to literally teleport code to the top of the file while dropping code at the cursor.
 
