@@ -7,6 +7,15 @@
   - [ ] centered at the top will be a search bar
   - [ ] this still conveys how large the library but doesnt force the user to subject them to searching through that horse shit list
   - [ ] with the same list foundation use this as the new list components that works similar to showcase
+- [ ] for docs create docs layout with outlet so as to create a docs sidebar that points to all the doumentation
+  - [ ] need to add performance 
+  - [ ] app layer data store need a better name for this
+- [ ] need to change x viewer to instead dispaly a sidebar and navigate between components there
+- [ ] need to change midgardr index
+- [ ] need to change asgard index
+- [ ] need to change code/list/all is getting a new comopnents listing dispaly, where using visualizer and a rows users can filter and search for components, this same viewer will be used on the index page
+- [ ] need to change code $name, or integrate it with list all 
+
 - [ ] change auth in catalystsoftware/ui from pssword to, grabbing the current user email instaed pinging the server to see if they subscribe and if they do offer the prem menu
 - [ ] each component needs the same comment section as animated text, or anything within the x category 
 - [x] premium only midgardr focused extension 
