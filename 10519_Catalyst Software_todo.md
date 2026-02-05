@@ -27,6 +27,7 @@
 - [ ] test new motions category
 - [ ] need to go through coss origin and compare x to his variants
   - [ ] ★ ━━━━ X ━━━━ ★
+    - [ ] slider-x
   - [x] ★ ━━━━ core ━━━━ ★
     - [x] in-development.tsx
   - [x] ★ ━━━━ PERFORMANCE ━━━━ ★
