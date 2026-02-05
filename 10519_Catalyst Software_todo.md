@@ -33,8 +33,9 @@
     - [ ] ALLL FILES
   - [ ] ★ ━━━━ tailwind ━━━━ ★
     - [ ] ALLL FILES
-  - [x] ★ ━━━━ interactive ━━━━ ★
+  - [ ] ★ ━━━━ interactive ━━━━ ★
     - [x] DirectionAwareHover
+    - [x] color area
   - [x] ★ ━━━━ BACKGROUND ━━━━ ★
     - [x] tracing-beam.tsx
     - [x] glitch-background.tsx
