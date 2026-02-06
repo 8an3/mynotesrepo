@@ -84,6 +84,7 @@
     - [ ] morph-surface
     - [ ] motion-separator
     - [ ] morph-navbar
+    - [ ] loading-border
   - [ ] ★ ━━━━ MEDIA ━━━━ ★
     - [ ] color pallete card
     - [ ] InfiniteSlider
