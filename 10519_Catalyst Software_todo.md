@@ -58,7 +58,8 @@
     - [ ] prompt-chat-container-streaming.tsx
     - [ ] code-block-examples.tsx
     - [ ] prompt-feedback-bar.tsx
-  - [x] ★ ━━━━ PRIMITIVE ━━━━ ★
+  - [ ] ★ ━━━━ PRIMITIVE ━━━━ ★
+    - [ ] input-group
     - [x] button-group
     - [x] alert
     - [x] tracker
@@ -69,22 +70,20 @@
     - [x] texture overlay
     - [x] stripe-bg-guides
   - [ ] ★ ━━━━ MOTION ━━━━ ★
-    - [ ] motion-logo-carosel.tsx
+    - [x] motion-logo-carosel.tsx
     - [ ] need to update MotionButton MotionPopover1
-    - [ ] Motionsgroup
-    - [ ] MotionAvatar
-    - [ ] MotionRadioCard
-    - [ ] ColorPicker
-    - [ ] Roladex1
-    - [ ] Roladex
-    - [ ] border-beam
-    - [ ] smooth draweer
+    - [x] Motionsgroup
+    - [x] MotionAvatar
+    - [x] MotionRadioCard
+    - [x] ColorPicker
+    - [x] border-beam
+    - [x] smooth draweer
     - [ ] profile dropdwn
-    - [ ] morphic navabr
-    - [ ] morph-surface
-    - [ ] motion-separator
-    - [ ] morph-navbar
-    - [ ] loading-border
+    - [x] morphic navabr
+    - [x] morph-surface
+    - [x] motion-separator
+    - [x] morph-navbar
+    - [x] loading-border
   - [x] ★ ━━━━ MEDIA ━━━━ ★
     - [x] color pallete card
     - [x] InfiniteSlider
