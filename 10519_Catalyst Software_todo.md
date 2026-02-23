@@ -28,9 +28,9 @@
 - [ ] need to go through coss origin and compare x to his variants
   - [x] ★ ━━━━ X ━━━━ ★
     - [x] slider-x
-    - [ ] ALLL FILES
+    - [x] ALLL FILES
   - [ ] ★ ━━━━ tailwind ━━━━ ★
-    - [ ] ALLL FILES
+    - [x] ALLL FILES
   - [ ] ★ ━━━━ form ━━━━ ★
   - [ ] ★ ━━━━ navigation ━━━━ ★
     - [ ] link-component
