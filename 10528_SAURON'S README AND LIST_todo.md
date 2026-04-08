@@ -1,3 +1,3 @@
 # SAURON'S README AND LIST
 
-- [ ] New task
+- [x] New task
